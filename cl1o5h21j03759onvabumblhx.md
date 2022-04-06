@@ -1,13 +1,5 @@
 ## How to change Material Icon Theme folder association
 
----
-title: How to change Material Icon Theme folder association
-date: 2021-09-09 12:15:00 UTC
-published: true
-description: Change material Icon Theme, for visual studio code, folder associations. Choose any icon to display in the file explorer.
-tags: react, vscode
-canonical_url: https://relatablecode.com/how-to-change-material-icon-theme-folder-association/
----
 How to change [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) folder association
 I really love the Material Icon Theme for Visual studio code. It’s very visually appealing and helps me quickly mentally locate whatever I need inside the explorer.
 
