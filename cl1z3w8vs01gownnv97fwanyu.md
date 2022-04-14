@@ -1,14 +1,5 @@
 ## Rome vs Prettier. Trying out the new formatter on the block
 
----
-title: Rome vs Prettier. Trying out the new formatter on the block
-published: true
-date: 2022-04-13 16:30:00 UTC
-tags: javascript,productivity,coding,prettier
-canonical_url: https://relatablecode.com/rome-vs-prettier-trying-out-the-new-formatter-on-the-block/
-cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vrld6g9evjazx6c8v4gp.png
----
-
 ### Introduction
 
 Rome is designed to be a formatter, linter, bundler, and much more for JavaScript, Typescript, HTML, Markdown, and CSS. That’s a whole lot of change but it’s intended to be a one-stop-shop for web dev tooling. In this article, I’ll go over my experience in Rome vs Prettier.
