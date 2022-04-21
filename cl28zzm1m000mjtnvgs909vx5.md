@@ -1,14 +1,5 @@
 ## How to migrate Create-React-App to React version 18
 
----
-title: How to migrate Create-React-App to React version 18
-published: true
-date: 2022-04-18 17:00:00 UTC
-tags: tutorial,programming,react,javascript
-canonical_url: https://relatablecode.com/how-to-migrate-create-react-app-to-react-version-18/
-cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9o3wdjb71ygekb8thmjb.png
----
-
 ### Introduction
 
 React just recently came out with a new version of their library: React version 18. I have a few apps that I’ve been maintaining for a while now that we’re bootstrapped with Create-React-App. I’ll go over how to migrate to version 18 and the issues I ran into along the way.
