@@ -1,15 +1,5 @@
 ## Testing a React Application: Setting everything up
 
----
-title: Testing a React Application: Setting everything up
-published: true
-date: 2022-04-25 14:15:00 UTC
-tags: testing,react,beginners,programming
-canonical_url: https://relatablecode.com/testing-a-react-application-the-setup/
-cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/veddndbkfn3ayjk4g3up.png
-series: Modern React Testing
----
-
 ### Introduction
 
 The second part of my ongoing series on how to have a more modern approach to testing a React application. Last time I went over the tools I prefer using. 🔨
