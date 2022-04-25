@@ -1,15 +1,5 @@
 ## Testing a React Application: The Modern Approach
 
----
-title: Testing a React Application: The Modern Approach
-published: true
-date: 2022-04-23 13:28:00 UTC
-tags: programming,beginners,testing,reactjs
-canonical_url: https://relatablecode.com/testing-a-react-application-the-modern-approach/
-cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7xymd0ilw6c3mlgue405.png
-series: Modern React Testing
----
-
 ### Introduction
 
 Testing is a fundamental part of development. Testing a react application is no different. Once an application grows to a certain size it becomes one of the only ways you can have **confidence** that a change you make will not affect previous functionalities. The keyword here is **confidence**.
