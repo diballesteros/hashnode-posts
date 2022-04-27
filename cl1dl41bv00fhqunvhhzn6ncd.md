@@ -1,5 +1,7 @@
 ## How to quickly sort imports with Prettier
 
+![how to quickly sort imports with prettier](https://cdn.hashnode.com/res/hashnode/image/upload/v1651101842511/Ko39TrBPy.png)
+
 ### Introduction
 
 Having disorganized imports bothers me deeply when working on a project. I typically like to keep the entire codebase as organized as possible as it makes sifting through the files much easier. With the help of prettier and a plugin, we can easily sort imports!
