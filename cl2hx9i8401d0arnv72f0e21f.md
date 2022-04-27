@@ -1,15 +1,5 @@
 ## Testing a React Application: What is Vitest?
 
----
-title: Testing a React Application: What is Vitest?
-published: true
-date: 2022-04-27 17:00:00 UTC
-tags: softwaredevelopment,programming,coding,react
-canonical_url: https://relatablecode.com/testing-a-react-application-what-is-vitest/
-cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mk2vfflr51lmqqdlgaw5.png
-series: Modern React Testing
----
-
 ### Introduction
 
 Vitest is a **unit-test** framework that is “blazingly fast” and, **wow** , it is. Today I’ll be going over how to set up vitest and a brief explanation of how it works. Just for clarification, this is the third article in a series where I go over modern-day testing strategies for React applications.
