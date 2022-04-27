@@ -1,5 +1,8 @@
 ## How to make a Jest Test for Error Boundaries
 
+
+![How to make a Jest Test for Error boundaries](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103664565/g6zQhwqdI.png)
+
 **Own your error**
 
 [Error boundaries](https://reactjs.org/docs/error-boundaries.html) are a nifty part of the React API to handle errors. Basically, an error that occurs within the error boundary propagates to said error boundary to control it.
