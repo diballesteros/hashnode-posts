@@ -1,5 +1,8 @@
 ## Step-By-Step guide for the first time Open Source contribution
 
+
+![first time open source contribution](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102843533/c46u5b3hD.png)
+
 After doing a wide array of coffee chats, one of the most common questions was how to go about contributing to open source. So I decided to make an in-depth how-to from the very beginning to the very end.   
 This is what I would do as a first-time open source contributor, including:
 
