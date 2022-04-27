@@ -1,5 +1,8 @@
 ## How to make a simple slider component in React
 
+
+![How to make a simple slider component in React](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103847988/IPmjdjoTV.png)
+
 A very common component to use in forms or to receive numeric input with a non-arbitrary range is to use a slider component. However, this can easily be done with some basic HTML and CSS whilst adding some react-y props.
 
 The basic usage can be implemented with a simple HTML Input. Something that is not readily apparent is that an input can be of various types. One of these is of type range.
