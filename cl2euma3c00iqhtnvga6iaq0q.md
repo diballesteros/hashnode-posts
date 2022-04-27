@@ -1,5 +1,8 @@
 ## Testing a React Application: Setting everything up
 
+
+![testing-react-app.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651098470347/9coA_akWr.png)
+
 ### Introduction
 
 The second part of my ongoing series on how to have a more modern approach to testing a React application. Last time I went over the tools I prefer using. 🔨
