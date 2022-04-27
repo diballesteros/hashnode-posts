@@ -1,5 +1,7 @@
 ## How to migrate Create-React-App to React version 18
 
+![migrate-react-app](https://cdn.hashnode.com/res/hashnode/image/upload/v1651101564070/9KD0sNeg2.png)
+
 ### Introduction
 
 React just recently came out with a new version of their library: React version 18. I have a few apps that I’ve been maintaining for a while now that we’re bootstrapped with Create-React-App. I’ll go over how to migrate to version 18 and the issues I ran into along the way.
