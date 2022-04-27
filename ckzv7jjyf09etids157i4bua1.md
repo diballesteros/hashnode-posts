@@ -1,5 +1,7 @@
 ## Important takeaways from the State of JavaScript
 
+![Important takeaways from the State of JavaScript](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102972692/1vOOB3W2y.png)
+
 It’s that time of the year and the results are in for the “State of Javascript Survey”. Overall there wasn’t anything too ground-shattering but there are a few important takeaways to keep in mind for the coming year.
 
 Here are the results if you want to check them out personally:
