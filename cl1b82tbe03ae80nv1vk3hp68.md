@@ -1,5 +1,8 @@
 ## How to supercharge your HTML link tag with these four tricks
 
+
+![how to supercharge your HTML link tag with these four tricks](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102028308/jk8z98uGn.png)
+
 ### Introduction
 
 The HTML link tag is one of the first tags everyone learns about when first diving into HTML. The most common use case is to just load up a stylesheet and forget it about.
