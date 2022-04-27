@@ -1,5 +1,8 @@
 ## How to automatically create Github Issues with Netlify Forms
 
+
+![How to automatically create GitHub issues with Netlify Forms](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103914314/Uvn3PUy8n.png)
+
 Deploying the web app is typically only one of the first parts of the process.
 
 [Netlify](https://www.netlify.com/) offers a streamlined process that's easy to take advantage of with GitHub as it automatically can sync up with a repository to bundle it and display it on the web. Netlify also comes with a whole lot of benefits, plugins, and enhancements to the deployment process, more on this later
