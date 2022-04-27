@@ -1,5 +1,8 @@
 ## How to publish a PWA to the iOS App Store
 
+
+![Publish a PWA to the iOS App Store](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103498581/c2Rcq2Wcl.png)
+
 [PWABuilder.com](http://PWABuilder.com) is a site that allows you to link your PWA and generate files to publish it to various different app stores. I previously used it to create the files necessary to publish my app to the Google Playstore and the Windows Store. Recently an option was added for the App Store as well!
 
 DISCLAIMER: I’m only aware of being able to do this on a MAC OS as it is required to use XCODE to bundle and ship off the software to App Store Connect. If there is a method with Windows mention it in the comments!
