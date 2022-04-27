@@ -1,5 +1,8 @@
 ## Supercharge your app with runtime type-checking using ZOD
 
+
+![Supercharge your app with runtime type-checking using ZOD](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103068400/wCrFnBb3m.png)
+
 Type-checking in Javascript applications is becoming more and more normalized with Typescript. However, one common complaint of Typescript is that it doesn’t ensure type-safety in a runtime environment. [ZOD](https://github.com/colinhacks/zod) can solve these issues, as it offers type-safety checks at runtime, take note that this works in conjunction with Typescript!
 
 As a small disclaimer, this isn’t a diss at Typescript. It’s amazing and makes writing code a lot faster as it instantly reports errors in the IDE, but a little more safety never hurt anyone.
