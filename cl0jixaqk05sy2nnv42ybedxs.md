@@ -1,6 +1,8 @@
 ## How to do an accessibility review for your website: Font
 
 
+![How to do an accessibility review for your website](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102741552/urCqkPmJn.png)
+
 In my previous post about reviewing accessibility, I covered a lot of the HTML-structure-based implementations you can do to make it more accessible, especially for screen readers!
 
 [Part 1](https://relatablecode.com/how-to-do-a-thorough-accessibility-review-for-your-website/)
