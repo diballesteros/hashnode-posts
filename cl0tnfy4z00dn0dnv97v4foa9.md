@@ -1,5 +1,8 @@
 ## Make your website more accessible with these Responsive Design tips
 
+
+![make your website more accessible with these responsive design tips](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102625484/xwH_jM1RO.png)
+
 ### Introduction
 
 As part of my ongoing series, I’ll cover some basic principles of responsive design when it comes to accessibility. So what is responsive design? On the surface level, It is ensuring that regardless of screen size it should automatically expand and contract to fit the respective container, fluidly. But, I prefer to extend the definition past that and include that **_all_** user preferences should be taken into account when loading the page.
