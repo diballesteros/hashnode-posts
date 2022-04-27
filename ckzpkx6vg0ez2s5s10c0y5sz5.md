@@ -1,5 +1,7 @@
 ## Semantic HTML explained and how to use it
 
+![Semantic HTML explained and how to use it](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103021693/QcdFX5oEb.png)
+
 ### What is Semantic HTML?
 
 What are [Semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html) elements? When looking at one it seems like any other HTML tag, however, its meaning and intended use are clearer to the browser interpreting the HTML code and possibly the developer reading the code.
