@@ -1,5 +1,8 @@
 ## How to escape tutorial hell — the 100% fallacy
 
+
+![How to escape tutorial hell](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102690435/b47MzXqMq.png)
+
 ### Introduction
 
 So how do we escape tutorial hell? Well, I should start from the very beginning. In the [first part](https://relatablecode.com/my-experience-after-doing-20-coffee-chats-in-one-weekend/) of this series, I reported that I did 20 coffee chats over one weekend. Since then I’ve been doing a similar number of coffee chats every weekend. I am now a total of over 50 coffee chats!
