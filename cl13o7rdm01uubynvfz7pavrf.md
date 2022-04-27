@@ -1,5 +1,8 @@
 ## What is imposter syndrome? And how I deal with it
 
+
+![What is imposter syndrome? And how I deal with it](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102112425/KKsbnfbCK.png)
+
 ### Introduction
 
 One of the most common questions I get when doing coffee chats is “How do I deal with imposter syndrome?” I feel that is a common feeling to have in the developer community. Especially when first starting out. Although trust me when I say it creeps up every now and then to **_everyone_**!
