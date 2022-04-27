@@ -1,5 +1,8 @@
 ## How to do a thorough accessibility review for your website
 
+
+![How to do a thorough accessibility review for your website](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102923882/GP1Y4tWyM.png)
+
 Making your website accessible is becoming increasingly important as more and more people are connected to the internet in some way or another.
 
 However, even after using all the fancy aria tags and semantic elements how can you truly know if the website is accessible? Fear not there are some guidelines you can follow!
