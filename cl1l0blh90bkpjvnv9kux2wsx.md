@@ -1,5 +1,7 @@
 ## Quickly publish and install a library with GitHub Packages
 
+![quickly publish and install a library with GitHub packages](https://cdn.hashnode.com/res/hashnode/image/upload/v1651101763682/i-AcasCdR.png)
+
 ### Introduction
 
 Github comes in with some pretty useful baked-in features, such as the ability to create your own package. In this tutorial, I’ll go over how to set up the Github Packages repository, then create a simple React hook, publish it and then install it in another project.
