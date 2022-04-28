@@ -1,5 +1,8 @@
 ## How to easily trigger react-spring animation when in view
 
+
+![easily trigger react-spring animation](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104429605/NhNnm0FSM.png)
+
 [react-spring](https://react-spring.io/) is a library to easily create and integrate animations in a React app. A possible use-case of the library is triggering an animation only when a particular ref or component is in view. In this tutorial, I’ll cover how to set up react-spring and the hooks necessary!
 
 This guide assumes familiarity with React and react-spring and the fundamentals of React Hooks.
