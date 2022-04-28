@@ -1,5 +1,8 @@
 ## Dev Log: Nuzlocke Tracker – Part Two – Page Layout
 
+
+![Page layout](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104805770/GFSW19xLA.png)
+
 This is the second part of the series where I chronicle the development process of a [Nuzlocke Tracker](https://nuzlocke.netlify.app/).
 
 Part one [here](https://relatablecode.com/developer-blog-nuzlocke-tracker-part-one-react-project-structure/).
