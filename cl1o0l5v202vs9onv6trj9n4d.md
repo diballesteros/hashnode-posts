@@ -1,5 +1,8 @@
 ## How to share dynamically generated images in React
 
+
+![Share dynamically generated images in React](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104183108/LniMoFS6s.png)
+
 I have been developing a [pokémon related app](https://nuzlocke.netlify.app) where you can track encounters. Throughout the process I also added a way to generate a summary image of the run:
 
 ![Image description](https://cdn.hashnode.com/res/hashnode/image/upload/v1649276400145/zmSMrgPEB.png)
