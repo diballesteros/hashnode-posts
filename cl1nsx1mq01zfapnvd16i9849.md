@@ -1,5 +1,8 @@
 ## How To Create a Stunning Side Drawer With React-spring
 
+
+![How to create a Stunning Side drawer with React-spring](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104897444/qLXiYp1Lo.png)
+
 At my job, I recently had to create a side drawer and due to specific constraints had to create it using react-spring.
 
 ### Requirements
