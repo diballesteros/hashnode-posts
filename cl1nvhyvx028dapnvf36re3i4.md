@@ -1,5 +1,8 @@
 ## How to migrate Zustand local storage store to a new version
 
+
+![How to migrate a Zustand local storage to a new version](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104528718/8HqaGn704.png)
+
 [Zustand](https://github.com/pmndrs/zustand) is a state-management solution for React apps. For anyone looking into a state manager that is low on boilerplate, very intuitive, and highly performant then I highly recommend using it. [I personally love it](https://relatablecode.com/developer-blog-nuzlocke-tracker-part-one-react-project-structure/).
 
 This guide assumes you have some knowledge of the basics of Zustand.
