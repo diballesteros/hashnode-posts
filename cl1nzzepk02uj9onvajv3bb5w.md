@@ -1,5 +1,7 @@
 ## Dev Log: Nuzlocke Tracker — Part Three — Promotion
 
+![Promotion](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104665701/etM8UuXdD.png)
+
 As promised this is the third part where I worked on how to promote the app.
 
 What motivated me most is knowing that people are using my app, so getting this app in the hands of other people was critical. Truth be told I’m a complete novice when it comes to promoting an app, however, I decided to dive headfirst.
