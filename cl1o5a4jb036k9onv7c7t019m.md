@@ -1,5 +1,7 @@
 ## Dev Log: Nuzlocke Tracker — Part Four — Deploying PWA to App Stores
 
+![Deploying PWA to app stores](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104023812/nz2Gj2S5o.png)
+
 This is the fourth part in a series where I describe my experience developing an online web app. After several months of deploying various changes to the web app and receiving all kinds of feedback (mostly from Reddit) I had gotten several people that were interested in a native app version (iOS/Android)
 
 At first, I thought this would be an incredible amount of work seeing as I have not used any of the respective languages. I briefly considered taking up React Native to port the apps. But during my research, I came across the fact that PWAs (Progressive web apps) could be deployed to the Google Playstore and the Microsoft Store.
