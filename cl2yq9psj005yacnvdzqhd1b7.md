@@ -77,11 +77,11 @@ Let's take our first array as an example.
 
 When we're on the first element `2` we know that we need to find as `9` minus `2` is 7. But, we need a way to quickly re-access data of the array.
 
-Introducting a Hash Table.
+Introducing a Hash Table.
 
 #### Hash Table
 
-A [hash table](https://en.wikipedia.org/wiki/Hash_table#:~:text=In%20computing%2C%20a%20hash%20table,desired%20value%20can%20be%20found.) is a data structure that maps key to values. This is perfect for our use-case because we just want to map our `number` to our `index`.
+A [hash table](https://en.wikipedia.org/wiki/Hash_table#:~:text=In%20computing%2C%20a%20hash%20table,desired%20value%20can%20be%20found.) is a data structure that maps key to values. This is perfect for our use case because we just want to map our `number` to our `index`.
 
 But how do we create this hash table?
 
