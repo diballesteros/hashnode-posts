@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In the last article of this series, we went over how to create a test with Cypress, an end-to-end testing framework. Check it out[here](https://relatablecode.com/testing-a-react-application-creating-a-cypress-test). Cypress is a featureful framework that has only improved with its new version, and its main view got a makeover to give it a more modern look.
+In the last article of this series, we went over how to create a test with Cypress, an end-to-end testing framework. Check it out [here](https://relatablecode.com/testing-a-react-application-creating-a-cypress-test). Cypress is a featureful framework that has only improved with its new version, and its main view got a makeover to give it a more modern look.
 
 ![new Cypress screen](https://cdn.hashnode.com/res/hashnode/image/upload/v1655046298412/aTNqXSjwn.png align="left")
 
