@@ -1,5 +1,7 @@
 ## Dealing with burnout as a programmer
 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1664236082124/JreEPSNjA.png align="left")
+
 Burnout is a mix of exhaustion, indifference, and annoyance to something you previously loved. This is a feeling that can be quite common in the world of programming. Where you once had joyful curiosity when opening up Visual Studio Code you now feel anxiety or boredom.
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1664118599073/5cGLZSbox.png align="left")
