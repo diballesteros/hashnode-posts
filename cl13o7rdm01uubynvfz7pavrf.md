@@ -1,1 +1,73 @@
-IyMgV2hhdCBpcyBpbXBvc3RlciBzeW5kcm9tZT8gQW5kIGhvdyBJIGRlYWwgd2l0aCBpdAoKCiFbV2hhdCBpcyBpbXBvc3RlciBzeW5kcm9tZT8gQW5kIGhvdyBJIGRlYWwgd2l0aCBpdF0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTExMDIxMTI0MjUvS0tzYm5mYkNLLnBuZykKCiMjIyBJbnRyb2R1Y3Rpb24KCk9uZSBvZiB0aGUgbW9zdCBjb21tb24gcXVlc3Rpb25zIEkgZ2V0IHdoZW4gZG9pbmcgY29mZmVlIGNoYXRzIGlzIOKAnEhvdyBkbyBJIGRlYWwgd2l0aCBpbXBvc3RlciBzeW5kcm9tZT/igJ0gSSBmZWVsIHRoYXQgaXMgYSBjb21tb24gZmVlbGluZyB0byBoYXZlIGluIHRoZSBkZXZlbG9wZXIgY29tbXVuaXR5LiBFc3BlY2lhbGx5IHdoZW4gZmlyc3Qgc3RhcnRpbmcgb3V0LiBBbHRob3VnaCB0cnVzdCBtZSB3aGVuIEkgc2F5IGl0IGNyZWVwcyB1cCBldmVyeSBub3cgYW5kIHRoZW4gdG8gKipfZXZlcnlvbmVfKiohCgpUaGVyZSBpcyBzbyBtdWNoIGluZm9ybWF0aW9uIHRvIGNvbnN1bWUuIFdoZXRoZXIgaXQgYmUgZGlmZmVyZW50IGxhbmd1YWdlIHN5bnRheCwgYmVzdCBwcmFjdGljZXMsIGNvbXB1dGVyIHNjaWVuY2Uga25vd2xlZGdlLCBhbmQgb24gdG9wIG9mIHRoYXQgdGhlcmUgYXJlIG5ldyB0ZWNobm9sb2dpZXMgY29taW5nIG91dCB3aGF0IGZlZWxzIGxpa2UgZXZlcnkgZGF5LgoKVGhpcyBjYW4gY2F1c2Ugc29tZW9uZSB0byBlYXNpbHkgZmVlbCBsaWtlIHRoZXJlIGlzIG5vIHBvc3NpYmxlIHdheSB0byBiZSBjb21wZXRlbnQgaW4gZXZlcnl0aGluZyB0aGF0IGlzIHN1cHBvc2VkbHkgcmVxdWlyZWQgb2YgYSBzb2Z0d2FyZSBlbmdpbmVlci4KCiMjIyBXaGF0IGlzIGltcG9zdGVyIHN5bmRyb21lPwoKQXMgZGVmaW5lZCBieSBXaWtpcGVkaWE6Cgo+ICoqX0ltcG9zdG9yIHN5bmRyb21lXyoqIF8oYWxzbyBrbm93biBhc18gKipfaW1wb3N0b3IgcGhlbm9tZW5vbl8qKiBfLF8gKipfaW1wb3N0b3Jpc21fKiogXyxfICoqX2ZyYXVkIHN5bmRyb21lXyoqIF9vciB0aGVfICoqX2ltcG9zdG9yIGV4cGVyaWVuY2VfKiogXykgaXMgYSBwc3ljaG9sb2dpY2FsIHBhdHRlcm4gaW4gd2hpY2ggYW4gaW5kaXZpZHVhbCBkb3VidHMgdGhlaXIgc2tpbGxzLCB0YWxlbnRzLCBvciBhY2NvbXBsaXNobWVudHMgYW5kIGhhcyBhIHBlcnNpc3RlbnQgaW50ZXJuYWxpemVkIGZlYXIgb2YgYmVpbmcgZXhwb3NlZCBhcyBhIOKAnGZyYXVk4oCdXwoKPiBbX2h0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0ltcG9zdG9yXF9zeW5kcm9tZV9dKGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0ltcG9zdG9yX3N5bmRyb21lKQoKVGhpcyBjYW4gYmUgcXVpdGUgYW4gZWFzeSBmZWVsaW5nIHRvIGRldmVsb3AsIGVzcGVjaWFsbHkgaW4gc29mdHdhcmUgZW5naW5lZXJpbmcuIEl04oCZcyBub3QgaGFyZCB0byBmaW5kIG90aGVycyB3aG8geW91IGZlZWwgYXJlIF9sZWFybmluZyBmYXN0ZXJfIG9yIF9jcmVhdGluZyBiZXR0ZXIgcHJvZHVjdHNfLgoKIVtJbXBvc3Rlcl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDgwNDYyOTU1NDIvN1pLMU9TYXMwLmpwZWcpCl9QaG90byBieSBCZXJtaXggU3R1ZGlvIG9uIFVuc3BsYXNoXwoKVGhpcyBiZWNvbWVzIGZ1cnRoZXIgYW1wbGlmaWVkIGJ5IGFsbCB0aGUgc29jaWFsIG1lZGlhIHdlIGNhbiBnZXQgY29uc3RhbnRseSBib21iYXJkZWQgd2l0aCBvbiBhIGRhaWx5IGJhc2lzLgoKWW91IGxvZyBvbiB0byBUd2l0dGVyIGFuZCBzZWUgZmVsbG93IGRldmVsb3BlcnMgYWR2YW5jaW5nIG11Y2ggZnVydGhlciBvciBzb2x2aW5nIGFuIGlzc3VlIHRoYXQgeW914oCZcmUgc3RpbGwgc3RydWdnbGluZyB3aXRoLiBZb3UgZ28gb24gWW91VHViZSBhbmQgc2VlIHNvbWUgb2YgdGhlIGNyYXppZXN0IHRoaW5ncyBwcm9ncmFtbWVycyBhcmUgYWJsZSB0byBjcmVhdGUgYW4gZXZlbiB3b3JzZSBpZiBpdOKAmXMgdGl0bGVkIGluIHN1Y2ggYSB3YXkgb2YKCuKAnCBfSSBwcm9ncmFtIFxfXF9cX1xfIGluIGxlc3MgdGhhbiAxIGhvdXIh4oCdXwoKPiBfSeKAmW0gYSBmcmF1ZC4gSSBkb27igJl0IHJlYWxseSB1bmRlcnN0YW5kIHRoZSBtYXRlcmlhbC4gSG93IGRpZCBJIGdldCB0aGlzIGZhcj9fCgo+IF9NZV8KCkJ1dCwgSSBndWVzcyBtb3N0IHNvY2lhbCBtZWRpYSBjYXVzZXMgdGhpcy4gQ29uc3RhbnQgY29tcGFyaXNvbnMgdG8gb3RoZXJzLiBPciBpdCBjb3VsZCBwb3NzaWJseSBqdXN0IGJlIGEgZmVlbGluZyBib3JuIGZyb20gd2l0aGluIHdoZXJlIHlvdSBmZWVsIGxpa2UgeW91IGRvbuKAmXQgZGVzZXJ2ZSB0aGUgc3VjY2VzcyB5b3UgaGF2ZSBiZWNhdXNlIHRoZXJlIHdhcyBubyBkZWZpbmluZyDigJxJIF9hIHByb2dyYW1tZXIgbW9tZW50XyDigJwuCgojIyMgSW1wb3N0ZXIgU3luZHJvbWU6IFRoZSByZWFsaXR5CgpUaGlzIG1vbWVudCBpcyBhIHNlcmllcyBvZiBzbWFsbGVyIGluc3RhbmNlcy4gQXQgbGVhc3QgZm9yIG1lIHRoZXJlIG5ldmVyIHdhcyBhIHNpbmdsZSBfRXVyZWthXyEgd2hlcmUgSSBmZWx0IGxpa2UgSSB3YXMgYSBwcm9mZXNzaW9uYWwgcHJvZ3JhbW1lci4gVGhpcyBpcyB3aGF0IG1ha2VzIGl0IHNvIGRpZmZpY3VsdCB0byBncmFzcCBhbmQgZnVsbHkgYXBwcmVjaWF0ZS4gV2hpY2ggcmVzdWx0cyBpbiBhIGRvd253YXJkIHNwaXJhbCBvZiBmZWVsaW5nIGxpa2UgYSBfZnJhdWRfLgoKSSBjb250cmFzdCB0aGlzIHdpdGggc2Nob29sIG9yIHZpZGVvIGdhbWVzLiBJbiBzY2hvb2wsIHlvdSBjYW4gc2VlIGEgY2xlYXIgcGF0aCBvZiBwcm9ncmVzc2lvbi4KCl9FbGVtZW50YXJ5IC0+IE1pZGRsZSBTY2hvb2wgLT4gSGlnaCBTY2hvb2wgLT4gVW5pdmVyc2l0eS9UZWNoXwoKT3IgaW4gdmlkZW8gZ2FtZXMgeW91IGNhbiBsZXZlbCB1cCBnZXQgbmV3IGFjaGl2ZW1lbnRzLgoKVGhlc2UgYXJlYSAqKmNsZWFyKiogZ29hbHMgd2l0aCAqKnRhbmdpYmxlKiogYmVuZWZpdHMuCgpTbyB3aGF0IGRvIHdlIGRvIGlmIHRoYXTigJlzIHRoZSBjYXNlPyBXZWxsLCB3aGF0IEkgbGlrZSB0byBkbyBpcyBjcmVhdGUgZnV0dXJlIGdvYWxzIG9yIHJldHJvYWN0aXZlbHkgYXBwbHkgZ29hbHMgdG8gdGhpbmdzIEnigJl2ZSBhY2NvbXBsaXNoZWQuCgpJIGxvb2sgYXQgdGhlIHRoaW5ncyBJ4oCZdmUgY29kZWQsIGhvdyBmYXIgSeKAmXZlIGNvbWUgaW4gbXkgY2FyZWVyLCB0aGUgdGhpbmdzIEnigJl2ZSBsZWFybmVkLiBJdCBhbGwgYmVnaW5zIHRvIGFkZCB1cC4gTW9zdCBpbXBvcnRhbnQgb2YgYWxsIHRoaXMgd2FzIG15IGpvdXJuZXkuIFRoZXJlIGlzIGEgZmFtb3VzIGFkYWdlIHRvIGNvbnNpZGVyIGhlcmUgdGhhdCBhIGxvdCBvZiBwZW9wbGUgdXNlIHRvIGFwcGx5IHRvIGxlYXJuaW5nIGEgc2tpbGwsIGVzcGVjaWFsbHkgbGlrZSBwcm9ncmFtbWluZy4KCj4gX0l04oCZcyBhIG1hcmF0aG9uLCBub3QgYSBzcHJpbnRfCgo+IF9XaXNkb21fCgpJIHRoaW5rIHRoaXMgY2FuIGJlIGV4dHJhcG9sYXRlZCBhbmQgYXBwbGllZCB0byB5b3VyIGVudGlyZSBsaWZlLiBJdOKAmXMgYSBtYXJhdGhvbiBidXQgdGhyb3VnaG91dCB0aGUgbWFyYXRob24sIHRoZXJlIGFyZSBkaWZmZXJlbnQgY2hlY2twb2ludHMuCgojIyMgQ29uY2x1c2lvbgoKSW1wb3N0ZXIgU3luZHJvbWUgYWZmZWN0cyB1cyBhbGwgYXQgdmFyaW91cyBwb2ludHMgaW4gb3VyIGxpZmUuIEl04oCZcyBpbXBvcnRhbnQgdG8gcmVtZW1iZXIgeW914oCZcmUgbm90IGFsb25lIGluIHRoaXMgZmVlbGluZyEgSXTigJlzIGltcG9ydGFudCB0byB0YWtlIGEgc3RlcCBiYWNrIGFuZCByZW1lbWJlciBldmVyeXRoaW5nIHlvdeKAmXZlIGFjY29tcGxpc2hlZCB1cCB0byB0aGlzIHBvaW50LgoKU2V0IGZ1dHVyZSBnb2FscyB0byBhY2tub3dsZWRnZSB0aGUgcHJvZ3Jlc3MgeW91IG1ha2UhCgpMZWF2ZSBhbnkgY29tbWVudHMgYmVsb3cgYWJvdXQgeW91ciBleHBlcmllbmNlIHdpdGggaW1wb3N0ZXIgc3luZHJvbWUgYW5kIGhvdyB5b3XigJl2ZSBkZWFsdCB3aXRoIGl0IG9yIGhhdmVu4oCZdCBkZWFsdCB3aXRoIGl0IQoKTW9yZSBjb250ZW50IGF0IFtSZWxhdGFibGUgQ29kZV0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbSkKCklmIHlvdSBsaWtlZCB0aGlzIGZlZWwgZnJlZSB0byBjb25uZWN0IHdpdGggbWUgb24gW0xpbmtlZEluXShodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vZGllZ28tYmFsbGVzdGVyb3MtOTQ2OGE3MTM2Lykgb3IgW1R3aXR0ZXJdKGh0dHBzOi8vdHdpdHRlci5jb20vcmVsYXRhYmxlY29kZXIpCgpfT3JpZ2luYWxseSBwdWJsaXNoZWQgYXRfIFtfaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbV9dKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20vd2hhdC1pcy1pbXBvc3Rlci1zeW5kcm9tZS1hbmQtaG93LWktZGVhbC13aXRoLWl0LykgX29uIE1hcmNoIDIzLCAyMDIyLl8=
+# What is imposter syndrome? And how I deal with it
+
+
+![What is imposter syndrome? And how I deal with it](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102112425/KKsbnfbCK.png)
+
+### Introduction
+
+One of the most common questions I get when doing coffee chats is “How do I deal with imposter syndrome?” I feel that is a common feeling to have in the developer community. Especially when first starting out. Although trust me when I say it creeps up every now and then to **_everyone_**!
+
+There is so much information to consume. Whether it be different language syntax, best practices, computer science knowledge, and on top of that there are new technologies coming out what feels like every day.
+
+This can cause someone to easily feel like there is no possible way to be competent in everything that is supposedly required of a software engineer.
+
+### What is imposter syndrome?
+
+As defined by Wikipedia:
+
+> **_Impostor syndrome_** _(also known as_ **_impostor phenomenon_** _,_ **_impostorism_** _,_ **_fraud syndrome_** _or the_ **_impostor experience_** _) is a psychological pattern in which an individual doubts their skills, talents, or accomplishments and has a persistent internalized fear of being exposed as a “fraud”_
+
+> [_https://en.wikipedia.org/wiki/Impostor\_syndrome_](https://en.wikipedia.org/wiki/Impostor_syndrome)
+
+This can be quite an easy feeling to develop, especially in software engineering. It’s not hard to find others who you feel are _learning faster_ or _creating better products_.
+
+![Imposter](https://cdn.hashnode.com/res/hashnode/image/upload/v1648046295542/7ZK1OSas0.jpeg)
+_Photo by Bermix Studio on Unsplash_
+
+This becomes further amplified by all the social media we can get constantly bombarded with on a daily basis.
+
+You log on to Twitter and see fellow developers advancing much further or solving an issue that you’re still struggling with. You go on YouTube and see some of the craziest things programmers are able to create an even worse if it’s titled in such a way of
+
+“ _I program \_\_\_\_ in less than 1 hour!”_
+
+> _I’m a fraud. I don’t really understand the material. How did I get this far?_
+
+> _Me_
+
+But, I guess most social media causes this. Constant comparisons to others. Or it could possibly just be a feeling born from within where you feel like you don’t deserve the success you have because there was no defining “I _a programmer moment_ “.
+
+### Imposter Syndrome: The reality
+
+This moment is a series of smaller instances. At least for me there never was a single _Eureka_! where I felt like I was a professional programmer. This is what makes it so difficult to grasp and fully appreciate. Which results in a downward spiral of feeling like a _fraud_.
+
+I contrast this with school or video games. In school, you can see a clear path of progression.
+
+_Elementary -> Middle School -> High School -> University/Tech_
+
+Or in video games you can level up get new achivements.
+
+These area **clear** goals with **tangible** benefits.
+
+So what do we do if that’s the case? Well, what I like to do is create future goals or retroactively apply goals to things I’ve accomplished.
+
+I look at the things I’ve coded, how far I’ve come in my career, the things I’ve learned. It all begins to add up. Most important of all this was my journey. There is a famous adage to consider here that a lot of people use to apply to learning a skill, especially like programming.
+
+> _It’s a marathon, not a sprint_
+
+> _Wisdom_
+
+I think this can be extrapolated and applied to your entire life. It’s a marathon but throughout the marathon, there are different checkpoints.
+
+### Conclusion
+
+Imposter Syndrome affects us all at various points in our life. It’s important to remember you’re not alone in this feeling! It’s important to take a step back and remember everything you’ve accomplished up to this point.
+
+Set future goals to acknowledge the progress you make!
+
+Leave any comments below about your experience with imposter syndrome and how you’ve dealt with it or haven’t dealt with it!
+
+More content at [Relatable Code](https://relatablecode.com)
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/diego-ballesteros-9468a7136/) or [Twitter](https://twitter.com/relatablecoder)
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/what-is-imposter-syndrome-and-how-i-deal-with-it/) _on March 23, 2022._
