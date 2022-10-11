@@ -1,1 +1,62 @@
-IyMgRGV2ZWxvcGVyIEJsb2c6IE51emxvY2tlIFRyYWNrZXLigIrigJTigIpQYXJ0IDXigIrigJTigIpSRUFETUUKCiMjIyBEZXZlbG9wZXIgQmxvZzogTnV6bG9ja2UgVHJhY2tlcuKAiuKAlOKAilBhcnQgNeKAiuKAlOKAilJFQURNRQoKIVtzcGxhc2hdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQxNzQyMTUwNzcwL08wMU5QTy1oTS5qcGVnKQpfUGhvdG8gYnkgU3R1ZGlvIE1lZGlhIG9uIFVuc3BsYXNoXwoKSXTigJlzIGJlZW4gYSB3aGlsZSBzaW5jZSBJIGFkZGVkIGFuIGVudHJ5IHRvIHRoZSBzZXJpZXMsIGZvciB0aGUgcGFzdCBmZXcgbW9udGhzIGl04oCZcyBtb3N0bHkganVzdCBiZWVuIHdvcmtpbmcgdGhyb3VnaCBzdWJtaXR0ZWQgYnVncyBhbmQgYWRkZWQgc21hbGwgZmVhdHVyZXMhIEJ1dCBhZnRlciBzb21lIGNvbnZlcnNhdGlvbnMsIEkgZmlndXJlZCBJ4oCZZCBhZGQgYW5vdGhlciBlbnRyeSBleHBsYWluaW5nIHRoZSB0aG91Z2h0IHByb2Nlc3MgZm9yIHdvcmtpbmcgdGhyb3VnaCB0aGUgUkVBRE1FIGZpbGUuCgpBIGdvb2QgcmVhZG1lIGNhbiBnaXZlIGEgYmFzZSBleHBsYW5hdGlvbiBvZiB0aGUgaW50ZW50aW9uIGFuZCBwcm9wb3NlZCBzb2x1dGlvbiBvZiB0aGUgcHJvamVjdCBhcyB3ZWxsIGFzIGdpdmUgYSBxdWljayBndWlkZSBvbiBob3cgdG8gc3RhcnQgY29udHJpYnV0aW5nIHRvIHRoZSBhcHBsaWNhdGlvbiAoaWYgaXTigJlzIG9wZW4tc291cmNlKQoKSGVyZeKAmXMgdGhlIFtSRUFETUVdKGh0dHBzOi8vZ2l0aHViLmNvbS9kaWJhbGxlc3Rlcm9zL251emxvY2tlL2Jsb2IvbWFzdGVyL1JFQURNRS5tZCkgdG8gY2hlY2sgaXQgb3V0IHdoaWxlIHJlYWRpbmcgdGhyb3VnaCB0aGlzIHNob3J0IGJsb2cgcG9zdC4KCiMjIyBTdGF0dXMgY2hlY2tzCgpBdCB0aGUgdmVyeSB0b3Agb2YgbXkgUkVBRE1FLCBJIG9wdGVkIGludG8gbGVhdmluZyBzb21lIHF1aWNrIHN0YXR1cyBiYWRnZXMgZm9yIHNldmVyYWwgb2YgdGhlIHRoaXJkLXBhcnR5IGxpYnJhcmllcyBJIGhhdmUgYXNzb2NpYXRlZCB3aXRoIG15IGFwcDogW2NvZGVjb3ZdKGh0dHBzOi8vYWJvdXQuY29kZWNvdi5pby8pLCBbY3lwcmVzc10oaHR0cHM6Ly93d3cuY3lwcmVzcy5pby8pLCBbY29kZXFsXShodHRwczovL2NvZGVxbC5naXRodWIuY29tLyksIFtuZXRsaWZ5XShodHRwczovL3d3dy5uZXRsaWZ5LmNvbS8pLCBhbmQgc2V2ZXJhbCBHaXRodWIgc3RhdHVzIHBvaW50cyEKCiFbaW1hZ2VdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQxNzQyMTUyMzM5L1I5NmVLVTlONS5wbmcpCgpJIGZlZWwgbGlrZSB0aGlzIGdpdmVzIGEgcHJldHR5IHN3ZWV0IG92ZXJ2aWV3IG9mIHRoZSBoZWFsdGggb2YgdGhlIGFwcCEKCiMjIyBBYm91dAoKSSBzcGxpdCB0aGlzIHNlY3Rpb24gdXAgaW50byB0d28gc2VjdGlvbnMuIEEgcXVpY2sgbGlzdCBvZiB0aGUgbWFpbiBmZWF0dXJlcyBvZiB0aGUgYXBwIGFuZCBhIOKAmEhvdyBpdCB3b3Jrc+KAmSBzZWN0aW9uIHdpdGggZ2lmcyBhbmQgc2NyZWVuc2hvdHMhIEkgZmVlbCBsaWtlIHRoZXNlIHNjcmVlbnNob3RzIGdpdmUgYSBtdWNoIG1vcmUgdGFuZ2libGUgdmlldyBvZiBob3cgdGhlIGFwcGxpY2F0aW9uIHdvcmtzLiBUaGVzZSBjYW4gYmUgaG9va2VkIHVwIHByZXR0eSBlYXNpbHkgdXNpbmcgW0ltZ3VyXShodHRwczovL2ltZ3VyLmNvbS8pIGFuZCBbZ2lwaHldKGh0dHBzOi8vZ2lwaHkuY29tLykuCgpJIHVwbG9hZCB0aGUgbmVjZXNzYXJ5IGdpZnMgYW5kIGltYWdlcyBhbmQgc2ltcGx5IGxpbmsgdGhlbSB0aHJvdWdoIHRoZSBtYXJrZG93bjoKCmBgYAo8IS0tIEV4YW1wbGUgR2lmIC0tPiAKIVt0aWxdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQxNzQyMTUzNTg2L3ZxTlR0dEdURi5naWYpIAoKPCEtLSBFeGFtcGxlIEltYWdlIC0tPiAKIVtJbWd1ciBJbWFnZV0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDE3NDIxNTUyMTMva3NKem9wRHlvLnBuZykKYGBgCgohW2V4YW1wbGUgaW1hZ2VzXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0MTc0MjE1Njg2OS9YWnNBcFd4TUsucG5nKQoKIyMjIFF1aWNrc3RhcnRzCgpBZnRlcndhcmQsIEkgaW5jbHVkZSBzZXZlcmFsIHNlY3Rpb25zIHRoYXQgaGVscCBvdGhlciBjb250cmlidXRvcnMgZ2V0IHF1aWNrbHkgc3RhcnRlZCB3aXRoIHRoZSBhcHAgd2l0aCB0aGUgZm9sbG93aW5nIHNlY3Rpb25zOgoKLSBQcmVyZXF1aXNpdGVzIOKAlEkgcXVpY2tseSBsYXkgb3V0IHRoZSBDTEkgY29tbWFuZHMgdG8gZ2V0IHN0YXJ0ZWQKLSBSdW5uaW5nIHRoZSB0ZXN0c+KAiuKAlOKAikNvbW1hbmRzIG5lZWRlZCB0byBkb3VibGUtY2hlY2sgb3ZlciB0aGUgY29kZSBhbmQgbWFrZSBzdXJlIGV2ZXJ5dGhpbmcgaXMgc3RpbGwgQS1va2F5Ci0gUm9hZG1hcOKAiuKAlOKAikp1c3QgYSBzbWFsbCBzZWN0aW9uIGxpbmtpbmcgdG8gdGhlIGlzc3VlcyBwYWdlIGZvciB0aGUgR2l0aHViIHJlcG9zaXRvcnkgdG8ga25vdyB3aGljaCBpc3N1ZXMgY2FuIGJlIHdvcmtlZCBvbgotIERlcGxveW1lbnTigIrigJTigIpCcmllZiBzdW1tYXJ5IG9uIGhvdyB0aGUgcHJvamVjdCBpcyBkZXBsb3llZCB0byBuZXRsaWZ5Ci0gVmVyc2lvbmluZ+KAiuKAlOKAikV4cGxhbmF0aW9uIG9mIGhvdyB2ZXJzaW9uaW5nIHdvcmtzLiBJbiB0aGlzIGNhc2UsIFNlbVZlciBpcyB1c2VkIGFzIGl0IHNlZW1zIHRvIGJlIHRoZSBpbmR1c3RyeSBzdGFuZGFyZAoKIyMjIENvbnRyaWJ1dGluZwoKVGhpcyBpcyBwcm9iYWJseSBvbmUgb2YgdGhlIG1vcmUgaW1wb3J0YW50IHNlY3Rpb25zIG9mIHRoZSBlbnRpcmUgUkVBRE1FIHdoZXJlIHlvdSBjYW4gcmVmZXJlbmNlLCBhdCBsZWFzdCBpbiBteSBjYXNlLCBhIENPTlRSSUJVVElORy5tZCBmb3IgYSBtb3JlIGluLWRlcHRoIGV4cGxhbmF0aW9uIG9mIGhvdyB0byBjb250cmlidXRlIHRvIHRoZSBwcm9qZWN0LgoKR2l0aHViIGNhbiBoZWxwIG91dCB3aXRoIGEgZ2VuZXJpYyBmb3JtYXQgYnV0IEkgc3VnZ2VzdCBtYWtpbmcgYWRqdXN0bWVudHMgcmVzcGVjdGl2ZSB0byB5b3VyIHByb2plY3QuCgpJZGVhbGx5LCB0aGlzIHNlY3Rpb24gc2hvdWxkIHJlZmVyZW5jZSB0aGUgQ09ERVxfT0ZcX0NPTkRVQ1QgYW5kIGFueSBzcGVjaWFsIHN0ZXBzIG5lZWRlZCBmb3IgdGhlIHB1bGwgcmVxdWVzdCBwcm9jZXNzLgoKIyMjIE1pc2NlbGxhbmVvdXMKCkF0IHRoZSB2ZXJ5IGVuZCwgSSBhZGRlZCBhIHNtYWxsIHNlY3Rpb24gdG8gYmUgYWJsZSB0byBjb250YWN0IG1lIGFzIHdlbGwgYXMgc29tZSBsZWdhbCBpbmZvcm1hdGlvbiBhcyB0aGUgYXBwIGlzIHBva2Vtb24gcmVsYXRlZCBpbiBuYXR1cmUuCgpBbmQgdGhhdOKAmXMgaXQhIExldCBtZSBrbm93IHdoYXQgeW91IHRoaW5rIGFib3V0IHRoZSBSRUFETUUgb3IgaWYgeW91IGhhdmUgYW55IG90aGVyIGRldGFpbHMgdGhhdCB5b3UgaW5jbHVkZSBpbiB5b3VyIHByb2plY3TigJlzIFJFQURNRXMKCl9PcmlnaW5hbGx5IHB1Ymxpc2hlZCBhdF8gW19odHRwczovL3JlbGF0YWJsZWNvZGUuY29tX10oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9kZXZlbG9wZXItYmxvZy1udXpsb2NrZS10cmFja2VyLXBhcnQtNS1yZWFkbWUvKSBfb24gSmFudWFyeSA5LCAyMDIyLl8=
+# Developer Blog: Nuzlocke Tracker — Part 5 — README
+
+### Developer Blog: Nuzlocke Tracker — Part 5 — README
+
+![splash](https://cdn.hashnode.com/res/hashnode/image/upload/v1641742150770/O01NPO-hM.jpeg)
+_Photo by Studio Media on Unsplash_
+
+It’s been a while since I added an entry to the series, for the past few months it’s mostly just been working through submitted bugs and added small features! But after some conversations, I figured I’d add another entry explaining the thought process for working through the README file.
+
+A good readme can give a base explanation of the intention and proposed solution of the project as well as give a quick guide on how to start contributing to the application (if it’s open-source)
+
+Here’s the [README](https://github.com/diballesteros/nuzlocke/blob/master/README.md) to check it out while reading through this short blog post.
+
+### Status checks
+
+At the very top of my README, I opted into leaving some quick status badges for several of the third-party libraries I have associated with my app: [codecov](https://about.codecov.io/), [cypress](https://www.cypress.io/), [codeql](https://codeql.github.com/), [netlify](https://www.netlify.com/), and several Github status points!
+
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1641742152339/R96eKU9N5.png)
+
+I feel like this gives a pretty sweet overview of the health of the app!
+
+### About
+
+I split this section up into two sections. A quick list of the main features of the app and a ‘How it works’ section with gifs and screenshots! I feel like these screenshots give a much more tangible view of how the application works. These can be hooked up pretty easily using [Imgur](https://imgur.com/) and [giphy](https://giphy.com/).
+
+I upload the necessary gifs and images and simply link them through the markdown:
+
+```
+<!-- Example Gif --> 
+![til](https://cdn.hashnode.com/res/hashnode/image/upload/v1641742153586/vqNTttGTF.gif) 
+
+<!-- Example Image --> 
+![Imgur Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1641742155213/ksJzopDyo.png)
+```
+
+![example images](https://cdn.hashnode.com/res/hashnode/image/upload/v1641742156869/XZsApWxMK.png)
+
+### Quickstarts
+
+Afterward, I include several sections that help other contributors get quickly started with the app with the following sections:
+
+- Prerequisites —I quickly lay out the CLI commands to get started
+- Running the tests — Commands needed to double-check over the code and make sure everything is still A-okay
+- Roadmap — Just a small section linking to the issues page for the Github repository to know which issues can be worked on
+- Deployment — Brief summary on how the project is deployed to netlify
+- Versioning — Explanation of how versioning works. In this case, SemVer is used as it seems to be the industry standard
+
+### Contributing
+
+This is probably one of the more important sections of the entire README where you can reference, at least in my case, a CONTRIBUTING.md for a more in-depth explanation of how to contribute to the project.
+
+Github can help out with a generic format but I suggest making adjustments respective to your project.
+
+Ideally, this section should reference the CODE\_OF\_CONDUCT and any special steps needed for the pull request process.
+
+### Miscellaneous
+
+At the very end, I added a small section to be able to contact me as well as some legal information as the app is pokemon related in nature.
+
+And that’s it! Let me know what you think about the README or if you have any other details that you include in your project’s READMEs
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/developer-blog-nuzlocke-tracker-part-5-readme/) _on January 9, 2022._
