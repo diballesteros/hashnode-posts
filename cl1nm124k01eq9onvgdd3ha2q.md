@@ -1,1 +1,154 @@
-IyMgSG93IHRvIGFkZCBDeXByZXNzICYgQ29kZWNvdiBpbiBHaXRodWIgQWN0aW9ucyBpbiBSZWFjdCBBcHAKCkhhdmluZyBhIHRob3JvdWdoIENJL0NEIHBpcGVsaW5lIGZvciBhbiBhcHBsaWNhdGlvbiBpcyBjcml0aWNhbCB0byB0aGUgc3VjY2VzcyBvZiB0aGUgYXBwbGljYXRpb24uIFR5cGljYWxseSBpbiB0aGVzZSBzYW1lIHBpcGVsaW5lcywgaXQgaXMgbm9ybWFsIHRvIGluY2x1ZGUgYSB0ZXN0aW5nIHBpcGVsaW5lIHRvIG1ha2Ugc3VyZSBldmVyeXRoaW5nIGlzIHN0aWxsIHdvcmtpbmcgY29ycmVjdGx5LgoKW0N5cHJlc3NdKGh0dHBzOi8vd3d3LmN5cHJlc3MuaW8vKSBpcyBhIHBvcHVsYXIgRTJFIHRlc3RpbmcgZnJhbWV3b3JrIHdpdGggYSByb2J1c3Qgc3lzdGVtIHRvIHRydWx5IHRlc3Qgb3V0IHRoZSB1c2VyIGV4cGVyaWVuY2UuIFdoaWxzdCBbQ29kZWNvdl0oaHR0cHM6Ly9hYm91dC5jb2RlY292LmlvLykgaXMgYSBkZXZlbG9wbWVudCBjeWNsZSB0b29sIHRvIGNoZWNrIG91dCBob3cgbXVjaCBvZiB0aGUgY29kZSBpcyBhY3R1YWxseSBiZWluZ8KgdGVzdGVkLgoKVXNpbmcgYm90aCBvZiB0aGVzZSB0b29scyBpbiB0YW5kZW0gY2FuIGdpdmUgdXNlZnVsIGZlZWRiYWNrLCBlc3BlY2lhbGx5IGlmIGluY29ycG9yYXRlZCBpbnRvIHRoZSBDSS9DRCBwaXBlbGluZXMhCgojIyMgUmVxdWlyZW1lbnRzCgoqICAgQmFzaWMga25vd2xlZGdlIG9mIEdpdGh1YsKgQWN0aW9ucwoqICAgU29tZSBDeXByZXNzIHRlc3RzIGhhdmUgYWxyZWFkeSBiZWVuIGltcGxlbWVudGVkCiogICBSZWFjdCBhcHAgcmVhZHkgdG8gZ28gYW5kIG9uIEdpdGh1YiBhcyBhIHJlcG8hIChCdWlsdCB3aXRoIENyZWF0ZSBSZWFjdMKgQXBwKQoKIyMjIEluc3RydW1lbnRhdGlvbgoKQ29kZWNvdiBtdXN0IHJlY2VpdmUgYSBjb2RlIGNvdmVyYWdlIHJlcG9ydC4gVGhpcyBjb2RlIGNvdmVyYWdlIHJlcG9ydCBjYW4gYmUgY3JlYXRlZCB2aWEgaW5zdHJ1bWVudGluZyB0aGUgdGVzdGluZyB0b29scy4gSWYgeW91ciBSZWFjdCBBcHAgaGFwcGVuZWQgdG8gYmUgY3JlYXRlZCB2aWEgQ3JlYXRlLVJlYWN0LUFwcCB0aGVuIHRoaXMgY2FuIGJlIGVhc2lseSBkb25lIHdpdGggYSBwYWNrYWdlOiBbQGN5cHJlc3MvaW5zdHJ1bWVudC1jcmFdKGh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL0BjeXByZXNzL2luc3RydW1lbnQtY3JhKS4gVGhpcyB3aWxsIGF1dG9tYXRpY2FsbHkgaW5zdHJ1bWVudCB5b3VyIGFwcCB3aGVuIGV4ZWN1dGluZyB0aGUgdGVzdHMsIGJ1dCB3ZSBuZWVkIHRvIG1vZGlmeSBvdXIgKipwYWNrYWdlLmpzb24qKgoKRmlyc3QsIGxldOKAmXMgaW5zdGFsbCB0aGUgbmVjZXNzYXJ5IGRlcGVuZGVuY2llczoKCgpgYGAKeWFybiBhZGQgQGN5cHJlc3MvY29kZS1jb3ZlcmFnZSBAY3lwcmVzcy9pbnN0cnVtZW50LWNyYSAtLWRldgpgYGAgCgoKVGhlc2UgdHdvIHBhY2thZ2VzIGFsbG93IHVzIHRvIGNyZWF0ZSBhbmQgaW5zdHJ1bWVudCBvdXIgUmVhY3TCoGFwcC4KCkluIHNjcmlwdHMgbGV04oCZcyBhZGQgdHdvIGNvbW1hbmRzOgoKCmBgYAoic2NyaXB0cyI6IAogICAgeyAgCiAgICAgICAgLy8gLi4uT3RoZXIgY29tbWFuZHMgCiAgICAgICAgImxvY2FsOmluc3RydW1lbnQiOiAicmVhY3Qtc2NyaXB0cyAtciBAY3lwcmVzcy9pbnN0cnVtZW50LWNyYSBzdGFydCIsIAogICAgICAgICJjaTppbnN0cnVtZW50IjogIkNIT0tJREFSXF9VU0VQT0xMSU5HPTEgcmVhY3Qtc2NyaXB0cyAtciBAY3lwcmVzcy9pbnN0cnVtZW50LSAKICAgICAgICAgIGNyYSBzdGFydCIsIAogICAgIH0sCmBgYCAKCgpUaGUgZmlyc3QgY29tbWFuZCBpcyB0byBpbnN0cnVtZW50IGl0IGxvY2FsbHkgdG8gY2hlY2sgb3V0IGEgY292ZXJhZ2UgcmVwb3J0IGxvY2FsbHksIHRoZSBzZWNvbmQgY29tbWFuZCB3aWxsIGJlIHRoZSBidWlsZCBjb21tYW5kIGZvciB0aGUgQ0kgcGlwZWxpbmUgaW4gR2l0aHViwqBBY3Rpb25zLgoKSWYgeW91IHVzZSB0aGUgbG9jYWwgY29tbWFuZCBhbmQgYmVnaW4gdG8gdXNlIHRoZSBhcHAgYSByZXBvcnQgaXMgZ2VuZXJhdGVkIGluIHRoZSBjb3ZlcmFnZSBmb2xkZXIgYXQgdGhlIHJvb3Qgb2YgdGhlwqBhcHA6CgohW1Jlc3VsdHNdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjM4NDY4ODExMTY1L1NDc3V5ODN4ZTIucG5nKQoKSSByZWNvbW1lbmQgYWRkaW5nIHRoaXMgbmV3IGZvbGRlciB0byB0aGXCoCoqLmdpdGlnbm9yZSoqCgpJZiB5b3UgbmVlZCB0byBleGNsdWRlIGFueSBmaWxlcyBmcm9tIHRoZSBpbnN0cnVtZW50YXRpb24gdGhpcyBjYW4gYmUgZG9uZSBpbiB0aGUgcGFja2FnZS5qc29uOgoKCmBgYAoibnljIjogeyAKICAgICJleGNsdWRlIjogXAogICAgICAgWyAic3JjL3NlcnZpY2VXb3JrZXIudHMiLCAic3JjL3NlcnZpY2VXb3JrZXJSZWdpc3RyYXRpb24udHMiLCBcXSAKIH0sCmBgYCAKCknigJltIHBlcnNvbmFsbHkgZXhjbHVkaW5nIGZpbGVzIGFzc29jaWF0ZWQgd2l0aCB0aGUgc2VydmljZcKgd29ya2VyLgoKIyMjIENvZGVjb3YgYW5kwqBDeXByZXNzCgpMZXTigJlzIGdldCBDb2RlY292IGFuZCBDeXByZXNzIGludGVncmF0ZWQgd2l0aCBvdXIgR2l0aHViIHJlcG8uIE5hdmlnYXRlIHRvIHRoZSBmb2xsb3dpbmcgdHdvwqBwYWdlczoKCkxvZ2luLCBpbnRlZ3JhdGUsIGFuZCBnaXZlIHBlcm1pc3Npb25zIHRvIHRoZSByZXNwZWN0aXZlIEdpdGh1YiBSZXBvLiBUYWtlIGludG8gYWNjb3VudCB0aGF0IGlmIGl0IGlzIG5vdCBvcGVuIHNvdXJjZSB0aGlzIHdpbGwgcmVxdWlyZcKgcGF5aW5nLgoKQ3lwcmVzcyBEYXNoYm9hcmQgaGFzIGEgbGltaXQgZm9yIHRlc3RzIHBlcsKgbW9udGguCgojIyMgVGhlIHBpcGVsaW5lCgpOb3cgdGhhdCBvdXIgaW50ZWdyYXRpb25zIGFyZSBjb25uZWN0ZWQgd2UgbmVlZCB0byBjcmVhdGUgdGhlIHJlc3BlY3RpdmUgcGlwZWxpbmVzIGluIEdpdGh1YiBBY3Rpb25zLiBMZXQncyBjcmVhdGUgYcKgKiouZ2l0aHViKiogZm9sZGVyIGluIHRoZSByb290IG9mIG91ciBmb2xkZXIgd2l0aCBhbiBpbnRlcm5hbCBmb2xkZXIgbmFtZWQgKip3b3JrZmxvd3MqKi4gSW5zaWRlIGxldCdzIGNyZWF0ZSBvbmUgbW9yZSBmaWxlIG5hbWVkwqAqKm1haW4ueW1sKioKCllvdSBjYW4gZmluZCB0aGUgZnVsbCBleGFtcGxlIG9mIHRoZSBmaWxlwqBoZXJlOgoKW2h0dHBzOi8vZ2l0aHViLmNvbS9kaWJhbGxlc3Rlcm9zL251emxvY2tlL2Jsb2IvbWFzdGVyLy5naXRodWIvd29ya2Zsb3dzL21haW4ueW1sXShodHRwczovL2dpdGh1Yi5jb20vZGliYWxsZXN0ZXJvcy9udXpsb2NrZS9ibG9iL21hc3Rlci8uZ2l0aHViL3dvcmtmbG93cy9tYWluLnltbCkKClRoaXMgY2FuIGVzc2VudGlhbGx5IGJlIGNvcGllZCBhbmQgcGFzdGVkIG1ha2luZyBzdXJlIHRoZSBjb21tYW5kcyBleGlzdCBhbmQgYXJlwqBjb3JyZWN0LgoKSeKAmWxsIGV4cGxhaW4gYSBmZXcgb2YgdGhlIGltcG9ydGFudCBwYXJ0czoKCiMjIyBCdWlsZGluZyB0aGXCoEFydGlmYWN0CgpzdGVwczogLSBuYW1lOiBDaGVja291dCB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHYyIC0gbmFtZTogQ3lwcmVzcyBpbnN0YWxsIHVzZXM6IGN5cHJlc3MtaW8vZ2l0aHViLWFjdGlvbkB2Mi45Ljcgd2l0aDogcnVuVGVzdHM6IGZhbHNlICMgcmVwb3J0IG1hY2hpbmUgcGFyYW1ldGVycyAtIHJ1bjogeWFybiBjeXByZXNzIGluZm8gLSBydW46IG5vZGUgLXAgJ29zLmNwdXMoKScgLSBydW46IHlhcm4gbGludCAtIHJ1bjogeWFybiBidWlsZCAtIG5hbWU6IFNhdmUgYnVpbGQgZm9sZGVyIHVzZXM6IGFjdGlvbnMvdXBsb2FkLWFydGlmYWN0QHYyIHdpdGg6IG5hbWU6IGJ1aWxkIGlmLW5vLWZpbGVzLWZvdW5kOiBlcnJvciBwYXRoOiBidWlsZAoKSSB3YW50IHRvIHJ1biB0aGUgdGVzdHMgb24gc2V2ZXJhbCBicm93c2VycyBzbyBJ4oCZbGwgZmlyc3QgY3JlYXRlIGEgc3RlcCB0byBjcmVhdGUgYW4gYXJ0aWZhY3Qgb2YgdGhlIGJ1aWxkIGZvbGRlciB0byBzaGFyZSB3aXRoIHRoZSBvdGhlciBwYXJhbGxlbGl6YXRpb25zLiBJIHZhbGlkYXRlIHNvbWUgb2YgdGhlIHNwZWNzIGFuZCB0aGUgY3lwcmVzc8KgdmVyc2lvbi4KCiMjIyBSdW5uaW5nIHRoZSB0ZXN0cyBhbmQgdXBsb2FkaW5nCgpBZnRlcndhcmQsIEnigJlsbCBydW4gdGhlIHRlc3RzIGluIGV2ZXJ5IGNvbnRhaW5lcjoKCmBgYAogc3RlcHM6CiAgICAgIC0gbmFtZTog8J+bqyBDaGVja291dAogICAgICAgIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjIKCiAgICAgIC0gbmFtZTog8J+PlyBEb3dubG9hZCB0aGUgYnVpbGQgZm9sZGVycwogICAgICAgIHVzZXM6IGFjdGlvbnMvZG93bmxvYWQtYXJ0aWZhY3RAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogYnVpbGQKICAgICAgICAgIHBhdGg6IGJ1aWxkCgogICAgICAtIG5hbWU6IPCfkrsgJ1VJIFRlc3RzIC0gQ2hyb21lJwogICAgICAgIHVzZXM6IGN5cHJlc3MtaW8vZ2l0aHViLWFjdGlvbkB2Mi45LjcKICAgICAgICB3aXRoOgogICAgICAgICAgc3RhcnQ6IHlhcm4gcnVuIGRldmVsb3A6Y2kKICAgICAgICAgIHdhaXQtb246IGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMAogICAgICAgICAgd2FpdC1vbi10aW1lb3V0OiAxMjAKICAgICAgICAgIGJyb3dzZXI6IGNocm9tZQogICAgICAgICAgcmVjb3JkOiB0cnVlCiAgICAgICAgICBwYXJhbGxlbDogdHJ1ZQogICAgICAgICAgZ3JvdXA6ICdVSSAtIENocm9tZSAtIE1haW4nCiAgICAgICAgICBzcGVjOiAnY3lwcmVzcy9pbnRlZ3JhdGlvbi9tYWluLyonCiAgICAgICAgZW52OgogICAgICAgICAgQ1lQUkVTU19QUk9KRUNUX0lEOiAke3sgc2VjcmV0cy5DWVBSRVNTX1BST0pFQ1RfSUQgfX0KICAgICAgICAgIENZUFJFU1NfUkVDT1JEX0tFWTogJHt7IHNlY3JldHMuQ1lQUkVTU19SRUNPUkRfS0VZIH19CiAgICAgICAgICBHSVRIVUJfVE9LRU46ICR7eyBzZWNyZXRzLkdJVEhVQl9UT0tFTiB9fQoKICAgICAgLSBuYW1lOiDinIUgVXBsb2FkIGNvdmVyYWdlIHRvIENvZGVjb3YKICAgICAgICB1c2VzOiBjb2RlY292L2NvZGVjb3YtYWN0aW9uQHYyCmBgYAoKVGhlIG1vc3QgaW1wb3J0YW50IHBvcnRpb24gaGVyZSBpcyB1c2luZyB0aGUgYWxyZWFkeSBwcmUtZXhpc3RpbmcgR2l0SHViIGFjdGlvbiBmb3IgY3lwcmVzcyB3aXRoICoqY3lwcmVzcy1pby9naXRodWItYWN0aW9uQHYyLjkuNyoqCgpBbHNvLCBJ4oCZbSB1c2luZyB0aGUgY29tbWFuZCBwcmV2aW91c2x5ICoqY2k6aW5zdHJ1bWVudCAqKnRvIHJ1biB0aGUgYnVpbGQuIExpa2V3aXNlLCBJIGhhdmUgaW5jbHVkZWQgdGhlIHRva2VucyB0byBpbnRlZ3JhdGUgdGhlIEN5cHJlc3MgZGFzaGJvYXJkLiBJZiB5b3VyIHJlcG9zaXRvcnkgaXMgcHJpdmF0ZSB5b3UgKiptdXN0KiogYWxzbyBpbmNsdWRlIGEgdG9rZW4gZm9ywqBDb2RlY292LgoKVGhlIGZpbmFsIHBvcnRpb24gVXBsb2FkIGNvdmVyYWdlIHRvIENvZGVjb3YgYXV0b21hdGljYWxseSB1cGxvYWRzIHRoZSByZXBvcnQgdG8gQ29kZWNvdiBpZiB0aGUgR2l0aHViIGludGVncmF0aW9uIGlzIGluwqBwbGFjZS4KCmBgYApuYW1lOiBDeXByZXNzIG9uOiBcW3B1c2hcXSBqb2JzOgpgYGAKCkRvbuKAmXQgZm9yZ2V0IHRoYXQgeW91IGNhbiBjdXN0b21pemUgd2hhdCBhY3Rpb25zIHRoZSB3b3JrZmxvdyB3aWxsIHRyaWdnZXIuIEkgaGF2ZSBpdCBoZXJlIGZvciBldmVyecKgcHVzaC4KCiMjIyBFeGFtcGxlIG9mwqByZXN1bHRzCgpOb3cgd2l0aCBhIHB1c2gsIHlvdeKAmWxsIGJlIGFibGUgdG8gc2VlIHRoZSB3b3JrZmxvdyBiZWluZyBleGVjdXRlZCBpbiB0aGUgQWN0aW9ucyB0YWIgb2YgdGhlIHJlc3BlY3RpdmUgcmVwbzoKCiFbY29kZWNvdl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2Mzg0Njg4MTQ1NzgvbW9wSmcwcW5GLnBuZykKCgpBbmQgaW4gdGhlIHJlc3BlY3RpdmUgcHVsbCByZXF1ZXN0cyB5b3UgY2FuIHNlZSB0aGXCoHJlcG9ydHM6CgohW2NvZGVjb3ZdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjM4NDY4ODE3NDk3L0tmekRsWDh4WC5wbmcpCgohW2NvZGVjb3ZdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjM4NDY4ODIwNTQxL0pfM2xlUGN5ZC5wbmcpCgoKSWYgeW91IGhhdmUgYW55IG1vcmUgcXVlc3Rpb25zIGxldCBtZSBrbm93IGluIHRoZSBjb21tZW50c8KgYmVsb3cuCgpDaGVjayBvdXQgbW9yZSBjb250ZW50IGF0IFtSZWxhdGFibGUgQ29kZV0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbSkKCl9PcmlnaW5hbGx5IHB1Ymxpc2hlZCBhdF8gW19odHRwczovL3JlbGF0YWJsZWNvZGUuY29tX10oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9ob3ctdG8tYWRkLWN5cHJlc3MtY29kZWNvdi1pbi1naXRodWItYWN0aW9ucy1pbi1yZWFjdC1hcHAvKSBfb24gU2VwdGVtYmVyIDE5LMKgMjAyMS5f
+# How to add Cypress & Codecov in Github Actions in React App
+
+Having a thorough CI/CD pipeline for an application is critical to the success of the application. Typically in these same pipelines, it is normal to include a testing pipeline to make sure everything is still working correctly.
+
+[Cypress](https://www.cypress.io/) is a popular E2E testing framework with a robust system to truly test out the user experience. Whilst [Codecov](https://about.codecov.io/) is a development cycle tool to check out how much of the code is actually being tested.
+
+Using both of these tools in tandem can give useful feedback, especially if incorporated into the CI/CD pipelines!
+
+### Requirements
+
+*   Basic knowledge of Github Actions
+*   Some Cypress tests have already been implemented
+*   React app ready to go and on Github as a repo! (Built with Create React App)
+
+### Instrumentation
+
+Codecov must receive a code coverage report. This code coverage report can be created via instrumenting the testing tools. If your React App happened to be created via Create-React-App then this can be easily done with a package: [@cypress/instrument-cra](https://www.npmjs.com/package/@cypress/instrument-cra). This will automatically instrument your app when executing the tests, but we need to modify our **package.json**
+
+First, let’s install the necessary dependencies:
+
+
+```
+yarn add @cypress/code-coverage @cypress/instrument-cra --dev
+``` 
+
+
+These two packages allow us to create and instrument our React app.
+
+In scripts let’s add two commands:
+
+
+```
+"scripts": 
+    {  
+        // ...Other commands 
+        "local:instrument": "react-scripts -r @cypress/instrument-cra start", 
+        "ci:instrument": "CHOKIDAR\_USEPOLLING=1 react-scripts -r @cypress/instrument- 
+          cra start", 
+     },
+``` 
+
+
+The first command is to instrument it locally to check out a coverage report locally, the second command will be the build command for the CI pipeline in Github Actions.
+
+If you use the local command and begin to use the app a report is generated in the coverage folder at the root of the app:
+
+![Results](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468811165/SCsuy83xe2.png)
+
+I recommend adding this new folder to the **.gitignore**
+
+If you need to exclude any files from the instrumentation this can be done in the package.json:
+
+
+```
+"nyc": { 
+    "exclude": \
+       [ "src/serviceWorker.ts", "src/serviceWorkerRegistration.ts", \] 
+ },
+``` 
+
+I’m personally excluding files associated with the service worker.
+
+### Codecov and Cypress
+
+Let’s get Codecov and Cypress integrated with our Github repo. Navigate to the following two pages:
+
+Login, integrate, and give permissions to the respective Github Repo. Take into account that if it is not open source this will require paying.
+
+Cypress Dashboard has a limit for tests per month.
+
+### The pipeline
+
+Now that our integrations are connected we need to create the respective pipelines in Github Actions. Let's create a **.github** folder in the root of our folder with an internal folder named **workflows**. Inside let's create one more file named **main.yml**
+
+You can find the full example of the file here:
+
+[https://github.com/diballesteros/nuzlocke/blob/master/.github/workflows/main.yml](https://github.com/diballesteros/nuzlocke/blob/master/.github/workflows/main.yml)
+
+This can essentially be copied and pasted making sure the commands exist and are correct.
+
+I’ll explain a few of the important parts:
+
+### Building the Artifact
+
+steps: - name: Checkout uses: actions/checkout@v2 - name: Cypress install uses: cypress-io/github-action@v2.9.7 with: runTests: false # report machine parameters - run: yarn cypress info - run: node -p 'os.cpus()' - run: yarn lint - run: yarn build - name: Save build folder uses: actions/upload-artifact@v2 with: name: build if-no-files-found: error path: build
+
+I want to run the tests on several browsers so I’ll first create a step to create an artifact of the build folder to share with the other parallelizations. I validate some of the specs and the cypress version.
+
+### Running the tests and uploading
+
+Afterward, I’ll run the tests in every container:
+
+```
+ steps:
+      - name: 🛫 Checkout
+        uses: actions/checkout@v2
+
+      - name: 🏗 Download the build folders
+        uses: actions/download-artifact@v2
+        with:
+          name: build
+          path: build
+
+      - name: 💻 'UI Tests - Chrome'
+        uses: cypress-io/github-action@v2.9.7
+        with:
+          start: yarn run develop:ci
+          wait-on: http://localhost:3000
+          wait-on-timeout: 120
+          browser: chrome
+          record: true
+          parallel: true
+          group: 'UI - Chrome - Main'
+          spec: 'cypress/integration/main/*'
+        env:
+          CYPRESS_PROJECT_ID: ${{ secrets.CYPRESS_PROJECT_ID }}
+          CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ✅ Upload coverage to Codecov
+        uses: codecov/codecov-action@v2
+```
+
+The most important portion here is using the already pre-existing GitHub action for cypress with **cypress-io/github-action@v2.9.7**
+
+Also, I’m using the command previously **ci:instrument **to run the build. Likewise, I have included the tokens to integrate the Cypress dashboard. If your repository is private you **must** also include a token for Codecov.
+
+The final portion Upload coverage to Codecov automatically uploads the report to Codecov if the Github integration is in place.
+
+```
+name: Cypress on: \[push\] jobs:
+```
+
+Don’t forget that you can customize what actions the workflow will trigger. I have it here for every push.
+
+### Example of results
+
+Now with a push, you’ll be able to see the workflow being executed in the Actions tab of the respective repo:
+
+![codecov](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468814578/mopJg0qnF.png)
+
+
+And in the respective pull requests you can see the reports:
+
+![codecov](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468817497/KfzDlX8xX.png)
+
+![codecov](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468820541/J_3lePcyd.png)
+
+
+If you have any more questions let me know in the comments below.
+
+Check out more content at [Relatable Code](https://relatablecode.com)
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/how-to-add-cypress-codecov-in-github-actions-in-react-app/) _on September 19, 2021._
