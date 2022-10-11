@@ -1,1 +1,146 @@
-IyMgSG93IHRvIGVhc2lseSB0cmlnZ2VyIHJlYWN0LXNwcmluZyBhbmltYXRpb24gd2hlbiBpbiB2aWV3CgoKIVtlYXNpbHkgdHJpZ2dlciByZWFjdC1zcHJpbmcgYW5pbWF0aW9uXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MTEwNDQyOTYwNS9OaE5ubTBGU00ucG5nKQoKW3JlYWN0LXNwcmluZ10oaHR0cHM6Ly9yZWFjdC1zcHJpbmcuaW8vKSBpcyBhIGxpYnJhcnkgdG8gZWFzaWx5IGNyZWF0ZSBhbmQgaW50ZWdyYXRlIGFuaW1hdGlvbnMgaW4gYSBSZWFjdCBhcHAuIEEgcG9zc2libGUgdXNlLWNhc2Ugb2YgdGhlIGxpYnJhcnkgaXMgdHJpZ2dlcmluZyBhbiBhbmltYXRpb24gb25seSB3aGVuIGEgcGFydGljdWxhciByZWYgb3IgY29tcG9uZW50IGlzIGluIHZpZXcuIEluIHRoaXMgdHV0b3JpYWwsIEnigJlsbCBjb3ZlciBob3cgdG8gc2V0IHVwIHJlYWN0LXNwcmluZyBhbmQgdGhlIGhvb2tzIG5lY2Vzc2FyeSEKClRoaXMgZ3VpZGUgYXNzdW1lcyBmYW1pbGlhcml0eSB3aXRoIFJlYWN0IGFuZCByZWFjdC1zcHJpbmcgYW5kIHRoZSBmdW5kYW1lbnRhbHMgb2YgUmVhY3QgSG9va3MuCgojIyBSZXF1aXJlbWVudHMKCkZvciB0aGUgc2FrZSBvZiB0aGUgZXhhbXBsZSBsZXTigJlzIHNheSB3ZSBoYXZlIGEgd2VicGFnZSB0aGF0IGlzIHNwbGl0IGludG8gdHdvIHNlY3Rpb25zLiBCb3RoIHNlY3Rpb25zIHRha2UgdXAgdGhlIGVudGlyZSB2aWV3cG9ydC4gV2hlbiBzY3JvbGxpbmcgZG93biB0byB0aGUgc2Vjb25kIHBhZ2UgbGV04oCZcyBoYXZlIGEgaGVhZGVyIGZseSBpbiBmcm9tIHRoZSByaWdodC4KCiMjIEdldHRpbmcgc3RhcnRlZAoKRmlyc3QsIGxldOKAmXMgc2V0IHVwIHRoZSBwYWdlIHdpdGgganVzdCB0aGUgdmlzdWFsIHBvcnRpb246CgpgYGBqcwo8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJncmV5IiB9fT4KICAgICAgICA8aDE+VGhpcyBpcyBteSBmaXJzdCBwYWdlPC9oMT4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAid2hpdGUiIH19PgogICAgICAgIDxoMj5UaGlzIHNob3VsZCBjb21lIGZseWluZyBpbjwvaDI+CiAgICAgIDwvZGl2Pgo8L2Rpdj4KYGBgCgpJ4oCZdmUgYWRkZWQgc29tZSBzdHlsZXMgdG8gYmV0dGVyIGRpZmZlcmVudGlhdGUgYmV0d2VlbiBib3RoIHNlY3Rpb25zLgoKTm93IHdpdGggdGhlIHN0eWxlcyBvdXQgb2YgdGhlIHdheSBsZXTigJlzIHNldCB1cCB0aGUgcmVhY3Qtc3ByaW5nIGhvb2sgdG8gbWFrZSBpdCBmbHkgaW4uIFdlIG5lZWQgdG8gdXNlIHVzZVNwcmluZyB0byBzZXQgdXAgdGhlIGFuaW1hdGlvbiBhbmQgY2hhbmdlIHRoZSBoMiBlbGVtZW50IHRvIGFuIGFuaW1hdGVkIGgyIGVsZW1lbnQuCgpgYGBqcwogY29uc3QgaGVhZGVyU3R5bGUgPSB1c2VTcHJpbmcoewogICAgY29uZmlnOiB7IGR1cmF0aW9uOiA1MDAgfSwKICAgIGZyb206IHsgb3BhY2l0eTogMCwgbGVmdDogIi01MDBweCIgfSwKICAgIHRvOiB7CiAgICAgIG9wYWNpdHk6IDEsCiAgICAgIGxlZnQ6ICItNTAwcHgiCiAgICB9CiAgfSk7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJncmV5IiB9fT4KICAgICAgICA8aDE+VGhpcyBpcyBteSBmaXJzdCBwYWdlPC9oMT4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAid2hpdGUiIH19PgogICAgICAgIDxhbmltYXRlZC5oMiBzdHlsZT17aGVhZGVyU3R5bGV9PgogICAgICAgICAgVGhpcyBzaG91bGQgY29tZSBmbHlpbmcgaW4KICAgICAgICA8L2FuaW1hdGVkLmgyPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7CmBgYAoKUGVyZmVjdC4gQnV0IHdhaXQgb3VyIGhvb2sgaXMgbWlzc2luZyBzb21lIHZhbGlkYXRpb25zIGluIG9yZGVyIHRvIHRyYW5zaXRpb24gYmV0d2VlbiB0d28gc3R5bGVzLiBMdWNraWx5LCBtb2Rlcm4gYnJvd3NlcnMgb2ZmZXIgYWNjZXNzIHRvIHRoZSBJbnRlcnNlY3Rpb24gT2JzZXJ2ZXIgQVBJLiBXaXRob3V0IGdldHRpbmcgaW50byB0aGUgbml0dHktZ3JpdHR5LCB0aGlzIEFQSSBsZXRzIHVzIGRldGVjdCBlbGVtZW50cyB0aGF0IGFyZSB2aXNpYmxlLgoKIyMgSW50ZXJzZWN0aW9uIE9ic2VydmVyCkxldOKAmXMgZ28gYWhlYWQgYW5kIGNyZWF0ZSB0aGUgaG9vayB3ZeKAmXJlIGdvaW5nIHRvIHVzZToKCmBgYGpzCmZ1bmN0aW9uIHVzZUludGVyc2VjdGlvbk9ic2VydmVyKAogIGVsZW1lbnRSZWYsCiAgeyB0aHJlc2hvbGQgPSAwLCByb290ID0gbnVsbCwgcm9vdE1hcmdpbiA9ICIwJSIsIGZyZWV6ZU9uY2VWaXNpYmxlID0gZmFsc2UgfQopIHsKICBjb25zdCBbZW50cnksIHNldEVudHJ5XSA9IHVzZVN0YXRlKCk7CgogIGNvbnN0IGZyb3plbiA9IGVudHJ5Py5pc0ludGVyc2VjdGluZyAmJiBmcmVlemVPbmNlVmlzaWJsZTsKCiAgY29uc3QgdXBkYXRlRW50cnkgPSAoW2VudHJ5XSkgPT4gewogICAgc2V0RW50cnkoZW50cnkpOwogIH07CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBub2RlID0gZWxlbWVudFJlZj8uY3VycmVudDsKICAgIGNvbnN0IGhhc0lPU3VwcG9ydCA9ICEhd2luZG93LkludGVyc2VjdGlvbk9ic2VydmVyOwoKICAgIGlmICghaGFzSU9TdXBwb3J0IHx8IGZyb3plbiB8fCAhbm9kZSkgcmV0dXJuOwoKICAgIGNvbnN0IG9ic2VydmVyUGFyYW1zID0geyB0aHJlc2hvbGQsIHJvb3QsIHJvb3RNYXJnaW4gfTsKICAgIGNvbnN0IG9ic2VydmVyID0gbmV3IEludGVyc2VjdGlvbk9ic2VydmVyKHVwZGF0ZUVudHJ5LCBvYnNlcnZlclBhcmFtcyk7CgogICAgb2JzZXJ2ZXIub2JzZXJ2ZShub2RlKTsKCiAgICByZXR1cm4gKCkgPT4gb2JzZXJ2ZXIuZGlzY29ubmVjdCgpOwogIH0sIFtlbGVtZW50UmVmLCB0aHJlc2hvbGQsIHJvb3QsIHJvb3RNYXJnaW4sIGZyb3plbl0pOwoKICByZXR1cm4gZW50cnk7Cn0KYGBgCgpBbHJpZ2h0LCBsZXTigJlzIGV4YW1wbGUgaG93IHRoaXMgaG9vayB3b3Jrcy4gRXNzZW50aWFsbHkgaXQgcmVjZWl2ZXMgYSByZWYsIHRoZSBub2RlIHN0b3JlZCBpbiB0aGUgcmVmIGlzIHRoZW4gc2V0IHRvIGJlIG9ic2VydmVkIGJ5IHRoZSBJbnRlcnNlY3Rpb25PYnNlcnZlci4gQSBjYWxsYmFjayBpcyBwYXNzZWQgdG8gdGhlIG9ic2VydmVyIHNvIGl0IGlzIGNhbGxlZCB3aGVuIGluIHZpZXcuCgpBIGxvY2FsIHN0YXRlIGlzIHRoZW4gc2V0IGFuZCB3ZSByZXR1cm4gdGhpcyBzYW1lIGVudHJ5LiBBbiBhZGRpdGlvbmFsIHBhcmFtZXRlciBpcyBhdmFpbGFibGUgdG8gZnJlZXplIHRoZSB0cmlnZ2VyIHNvIGl0IGlzbuKAmXQgZXhlY3V0ZWQgbXVsdGlwbGUgdGltZXMuCgojIyBIb29raW5nIGl0IHVwCgpOZXh0LCBsZXTigJlzIGNyZWF0ZSB0aGUgcmVmIGFuZCBob29rIGl0IHVwIHRvIHRoZSBuZXcgaG9vayB3ZSBqdXN0IGNyZWF0ZWQ6CgpgYGBqcwogIGNvbnN0IHRyaWdnZXJSZWYgPSB1c2VSZWYoKTsKICBjb25zdCBkYXRhUmVmID0gdXNlSW50ZXJzZWN0aW9uT2JzZXJ2ZXIodHJpZ2dlclJlZiwgewogICAgZnJlZXplT25jZVZpc2libGU6IHRydWUKICB9KTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJBcHAiPgogICAgICA8ZGl2IHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogImdyZXkiIH19PgogICAgICAgIDxoMT5UaGlzIGlzIG15IGZpcnN0IHBhZ2U8L2gxPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ3aGl0ZSIgfX0+CiAgICAgICAgPGFuaW1hdGVkLmgyIHN0eWxlPXtoZWFkZXJTdHlsZX0+CiAgICAgICAgICBUaGlzIHNob3VsZCBjb21lIGZseWluZyBpbgogICAgICAgIDwvYW5pbWF0ZWQuaDI+CiAgICAgICAgPGRpdiByZWY9e3RyaWdnZXJSZWZ9IC8+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CmBgYAoKV2Ugc2V0IHVwIGEgdHJpZ2dlciByZWYgcmlnaHQgYmVsb3cgdGhlIGhlYWRlciBhbmQgd2XigJlyZSBzZW5kaW5nIHRoaXMgc2FtZSByZWYgdG8gdXNlSW50ZXJzZWN0aW9uT2JzZXJ2ZXIuCgpJZiB3ZSBnbyBhaGVhZCBhbmQgY29uc29sZS5sb2coKSB0aGUgZGF0YVJlZiB3ZSBzaG91bGQgc2VlIGl0IGdldHRpbmcgcG9wdWxhdGVkIGlmIHdlIHNjcm9sbCBkb3duLgoKSW5zaWRlIHRoZSBvYmplY3QgdGhlcmUgaXMgYSBwYXJ0aWN1bGFyIHByb3BlcnR5IHRoYXQgaW50ZXJlc3RzIHVzOgoKIVtWYWx1ZXMgb2YgZW50cnkgb2YgSW50ZXJzZWN0aW9uT2JzZXJ2ZXJdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ5Mjg0OTY1NTMzLy1fQnZFdjZqcC5wbmcpCgppc0ludGVyc2VjdGluZyBpcyBleGFjdGx5IHdoYXQgaXQgc2F5cy4gV2hlbiBpdOKAmXMgdmlzaWJsZSBhbmQgaW50ZXJzZWN0aW5nIHdpdGggdGhlIERPTS92aWV3cG9ydCBpdCB3aWxsIGNoYW5nZSBvdmVyIHRvIHRydWUuIExldOKAmXMgZ28gYWhlYWQgYW5kIHNldCB1cCB0aGUgdXNlU3ByaW5nIHRvIHZhbGlkYXRlIHRoaXMgcHJvcGVydHkuCgpgYGBqcwpjb25zdCBoZWFkZXJTdHlsZSA9IHVzZVNwcmluZyh7CiAgICBjb25maWc6IHsgZHVyYXRpb246IDUwMCB9LAogICAgZnJvbTogeyBvcGFjaXR5OiAwLCBsZWZ0OiAiLTUwMHB4IiB9LAogICAgdG86IHsKICAgICAgb3BhY2l0eTogZGF0YVJlZj8uaXNJbnRlcnNlY3RpbmcgPyAxIDogMCwKICAgICAgbGVmdDogZGF0YVJlZj8uaXNJbnRlcnNlY3RpbmcgPyAiMHB4IiA6ICItNTAwcHgiCiAgICB9CiAgfSk7CmBgYAoKQW5kIHRoYXTigJlzIGl0ISBIZXJl4oCZcyB0aGUgd29ya2luZyBleGFtcGxlOgoKJVtodHRwczovL2NvZGVzYW5kYm94LmlvL2VtYmVkL3RyaWdnZXItcmVhY3Qtc3ByaW5nLWluLXZpZXctYzVlNzY/Zm9udHNpemU9MTQmaGlkZW5hdmlnYXRpb249MSZ0aGVtZT1kYXJrXQoKSWYgeW91IGxpa2VkIHRoZSB0dXRvcmlhbCBvciBoYXZlIGFueXRoaW5nIGVsc2UgeW914oCZZCBsaWtlIHRvIHNlZSBsZXQgbWUga25vdyBpbiB0aGUgY29tbWVudHMgYmVsb3cu
+# How to easily trigger react-spring animation when in view
+
+
+![easily trigger react-spring animation](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104429605/NhNnm0FSM.png)
+
+[react-spring](https://react-spring.io/) is a library to easily create and integrate animations in a React app. A possible use-case of the library is triggering an animation only when a particular ref or component is in view. In this tutorial, I’ll cover how to set up react-spring and the hooks necessary!
+
+This guide assumes familiarity with React and react-spring and the fundamentals of React Hooks.
+
+## Requirements
+
+For the sake of the example let’s say we have a webpage that is split into two sections. Both sections take up the entire viewport. When scrolling down to the second page let’s have a header fly in from the right.
+
+## Getting started
+
+First, let’s set up the page with just the visual portion:
+
+```js
+<div className="App">
+      <div style={{ backgroundColor: "grey" }}>
+        <h1>This is my first page</h1>
+      </div>
+      <div style={{ backgroundColor: "white" }}>
+        <h2>This should come flying in</h2>
+      </div>
+</div>
+```
+
+I’ve added some styles to better differentiate between both sections.
+
+Now with the styles out of the way let’s set up the react-spring hook to make it fly in. We need to use useSpring to set up the animation and change the h2 element to an animated h2 element.
+
+```js
+ const headerStyle = useSpring({
+    config: { duration: 500 },
+    from: { opacity: 0, left: "-500px" },
+    to: {
+      opacity: 1,
+      left: "-500px"
+    }
+  });
+
+  return (
+    <div className="App">
+      <div style={{ backgroundColor: "grey" }}>
+        <h1>This is my first page</h1>
+      </div>
+      <div style={{ backgroundColor: "white" }}>
+        <animated.h2 style={headerStyle}>
+          This should come flying in
+        </animated.h2>
+      </div>
+    </div>
+  );
+```
+
+Perfect. But wait our hook is missing some validations in order to transition between two styles. Luckily, modern browsers offer access to the Intersection Observer API. Without getting into the nitty-gritty, this API lets us detect elements that are visible.
+
+## Intersection Observer
+Let’s go ahead and create the hook we’re going to use:
+
+```js
+function useIntersectionObserver(
+  elementRef,
+  { threshold = 0, root = null, rootMargin = "0%", freezeOnceVisible = false }
+) {
+  const [entry, setEntry] = useState();
+
+  const frozen = entry?.isIntersecting && freezeOnceVisible;
+
+  const updateEntry = ([entry]) => {
+    setEntry(entry);
+  };
+
+  useEffect(() => {
+    const node = elementRef?.current;
+    const hasIOSupport = !!window.IntersectionObserver;
+
+    if (!hasIOSupport || frozen || !node) return;
+
+    const observerParams = { threshold, root, rootMargin };
+    const observer = new IntersectionObserver(updateEntry, observerParams);
+
+    observer.observe(node);
+
+    return () => observer.disconnect();
+  }, [elementRef, threshold, root, rootMargin, frozen]);
+
+  return entry;
+}
+```
+
+Alright, let’s example how this hook works. Essentially it receives a ref, the node stored in the ref is then set to be observed by the IntersectionObserver. A callback is passed to the observer so it is called when in view.
+
+A local state is then set and we return this same entry. An additional parameter is available to freeze the trigger so it isn’t executed multiple times.
+
+## Hooking it up
+
+Next, let’s create the ref and hook it up to the new hook we just created:
+
+```js
+  const triggerRef = useRef();
+  const dataRef = useIntersectionObserver(triggerRef, {
+    freezeOnceVisible: true
+  });
+
+  return (
+    <div className="App">
+      <div style={{ backgroundColor: "grey" }}>
+        <h1>This is my first page</h1>
+      </div>
+      <div style={{ backgroundColor: "white" }}>
+        <animated.h2 style={headerStyle}>
+          This should come flying in
+        </animated.h2>
+        <div ref={triggerRef} />
+      </div>
+    </div>
+```
+
+We set up a trigger ref right below the header and we’re sending this same ref to useIntersectionObserver.
+
+If we go ahead and console.log() the dataRef we should see it getting populated if we scroll down.
+
+Inside the object there is a particular property that interests us:
+
+![Values of entry of IntersectionObserver](https://cdn.hashnode.com/res/hashnode/image/upload/v1649284965533/-_BvEv6jp.png)
+
+isIntersecting is exactly what it says. When it’s visible and intersecting with the DOM/viewport it will change over to true. Let’s go ahead and set up the useSpring to validate this property.
+
+```js
+const headerStyle = useSpring({
+    config: { duration: 500 },
+    from: { opacity: 0, left: "-500px" },
+    to: {
+      opacity: dataRef?.isIntersecting ? 1 : 0,
+      left: dataRef?.isIntersecting ? "0px" : "-500px"
+    }
+  });
+```
+
+And that’s it! Here’s the working example:
+
+%[https://codesandbox.io/embed/trigger-react-spring-in-view-c5e76?fontsize=14&hidenavigation=1&theme=dark]
+
+If you liked the tutorial or have anything else you’d like to see let me know in the comments below.
