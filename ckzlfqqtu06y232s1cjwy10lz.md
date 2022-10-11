@@ -1,1 +1,66 @@
-IyMgU3VwZXJjaGFyZ2UgeW91ciBhcHAgd2l0aCBydW50aW1lIHR5cGUtY2hlY2tpbmcgdXNpbmcgWk9ECgoKIVtTdXBlcmNoYXJnZSB5b3VyIGFwcCB3aXRoIHJ1bnRpbWUgdHlwZS1jaGVja2luZyB1c2luZyBaT0RdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUxMTAzMDY4NDAwL3dDckZuQmIzbS5wbmcpCgpUeXBlLWNoZWNraW5nIGluIEphdmFzY3JpcHQgYXBwbGljYXRpb25zIGlzIGJlY29taW5nIG1vcmUgYW5kIG1vcmUgbm9ybWFsaXplZCB3aXRoIFR5cGVzY3JpcHQuIEhvd2V2ZXIsIG9uZSBjb21tb24gY29tcGxhaW50IG9mIFR5cGVzY3JpcHQgaXMgdGhhdCBpdCBkb2VzbuKAmXQgZW5zdXJlIHR5cGUtc2FmZXR5IGluIGEgcnVudGltZSBlbnZpcm9ubWVudC4gW1pPRF0oaHR0cHM6Ly9naXRodWIuY29tL2NvbGluaGFja3Mvem9kKSBjYW4gc29sdmUgdGhlc2UgaXNzdWVzLCBhcyBpdCBvZmZlcnMgdHlwZS1zYWZldHkgY2hlY2tzIGF0IHJ1bnRpbWUsIHRha2Ugbm90ZSB0aGF0IHRoaXMgd29ya3MgaW4gY29uanVuY3Rpb24gd2l0aCBUeXBlc2NyaXB0IQoKQXMgYSBzbWFsbCBkaXNjbGFpbWVyLCB0aGlzIGlzbuKAmXQgYSBkaXNzIGF0IFR5cGVzY3JpcHQuIEl04oCZcyBhbWF6aW5nIGFuZCBtYWtlcyB3cml0aW5nIGNvZGUgYSBsb3QgZmFzdGVyIGFzIGl0IGluc3RhbnRseSByZXBvcnRzIGVycm9ycyBpbiB0aGUgSURFLCBidXQgYSBsaXR0bGUgbW9yZSBzYWZldHkgbmV2ZXIgaHVydCBhbnlvbmUuCgpJbiB0aGlzIGFydGljbGUsIEnigJlsbCBxdWlja2x5IGdvIG92ZXIgaG93IHRvIHNldCB1cCBaT0QgYW5kIGFuIGV4YW1wbGUgb2YgaXQgd2hhdCBpdCBvZmZlcnMhCgojIyMgV2hhdCBpcyBaT0Q/CgpCeSBkZWZpbml0aW9uIG9mIHRoZSBjcmVhdG9ycyBvZiB0aGlzIHBhY2thZ2U6Cgo+IF9ab2QgaXMgYSBUeXBlU2NyaXB0LWZpcnN0IHNjaGVtYSBkZWNsYXJhdGlvbiBhbmQgdmFsaWRhdGlvbiBsaWJyYXJ5LiBJ4oCZbSB1c2luZyB0aGUgdGVybSDigJxzY2hlbWHigJ0gdG8gYnJvYWRseSByZWZlciB0byBhbnkgZGF0YSB0eXBlLCBmcm9tIGEgc2ltcGxlXyBfc3RyaW5nIHRvIGEgY29tcGxleCBuZXN0ZWQgb2JqZWN0Ll8KClN3ZWV0ISBUaGUgYW1hemluZyB0aGluZyBhYm91dCB0aGlzIGlzIHRoYXQgaXQgd29ya3MgaW4gcnVudGltZSBzbyB3ZSBjYW4gZmVlbCBjb25zaWRlcmFibHkgc2FmZXIgdGhhbiB3aGF0IHdlIGV4cGVjdCBmcm9tIEFQSSBhbmQgVHlwZXNjcmlwdCB3aWxsIF9hY3R1YWxseV8gbWF0Y2ggdGhlIHJlc3BvbnNlIGZyb20gQVBJLgoKIyMjIFRoZSBTZXR1cAoKTGV04oCZcyBnbyBhaGVhZCBhbmQgZmlyc3QgaW5zdGFsbCB0aGUgbGlicmFyeToKCmBgYApucG0gaW5zdGFsbCB6b2QgdHlwZXNjcmlwdApgYGAKCk1ha2Ugc3VyZSB0aGF0IGluIHlvdXIgdHNjb25maWcuanNvbiB0aGF0IHRoZSBjb21waWxlciBoYXMgdGhlIHN0cmljdCBvcHRpb24gc2V0IHRvIHRydWUuCgpgYGAKeyAKICAgIC8vIC4uLiAKICAgICJjb21waWxlck9wdGlvbnMiOiB7IAogICAgICAgIC8vIC4uLiAKICAgICAgICAic3RyaWN0IjogdHJ1ZSAKICAgIH0gCn0KYGBgCgpFYXN5IGVub3VnaC4gTm93IHdlIGNhbiBzdGFydCBiZWdpbm5pbmcgdG8gY29kZS4gRm9yIHRoaXMgZXhhbXBsZSwgd2XigJlsbCBiZSB1c2luZyB0aGUgUG9rZW1vbiBBUEkgdG8gcXVpY2tseSBoYXZlIHNvbWV0aGluZyBhdmFpbGFibGUgdG8gYWxsLiBNb3JlIGluZm8gb24gaXQgaXMgW2hlcmVdKGh0dHBzOi8vcG9rZWFwaS5jby8pLgoKIyMjIFRoZSBTY2hlbWEKClpPRCB3b3JrcyBieSBoYXZpbmcgYSBzY2hlbWEgb2YgdGhlIHR5cGUgYW5kIHRoZW4gdmFsaWRhdGluZyBpdC4gSWYgSSB3YW50ZWQgdG8ganVzdCB2YWxpZGF0ZSBhIHN0cmluZyBJ4oCZZCBjcmVhdGUgdGhlIGZvbGxvd2luZzoKCiFbQ29kZV0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDQ3NjY4ODc5MDcvdWtPM2xLLUpjLnBuZykKCkFwcGx5aW5nIHRoaXMgdG8gYW4gQVBJIGlzIGZhaXJseSBzaW1wbGUgYXMgd2UganVzdCBuZWVkIHRvIGtub3cgdGhlIG9iamVjdCBvZiB0aGUgcmVzcG9uc2UuCgohW0NvZGVdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ0NzY2ODg5NzYzLzhQbnJDNDZNWS5wbmcpCgpOb3cgbGV04oCZcyBxdWlja2x5IGJ1aWxkIG91dCBzb21lIHNpbXBsZSBmZXRjaCByZXF1ZXN0cyB0byB0ZXN0IHRoaXMgb3V0LgoKIVtDb2RlXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NDc2Njg5MTQwMy93RWEtUFNFVW8ucG5nKQoKSGVyZSBJ4oCZbSB1c2luZyB0d28gdmVyeSBzaW1wbGUgcmVxdWVzdHMuIFRoZSBmaXJzdCBvbmUgaGFzIGEgcmVzcG9uc2UgdHlwZSB0aGF0IGRpcmVjdGx5IGNvcnJlbGF0ZXMgd2l0aCB0aGUgc2NoZW1hIHdlIGNyZWF0ZWQgZWFybGllci4gVGhlIHNlY29uZCB3aGlsZSBpbnN0YW50bHkgZ2VuZXJhdGVzIGFuIGVycm9yIGFmdGVyIHBhcnNpbmcgYXMgaXQgZG9lcyBub3QgbWF0Y2ggdGhlIHNjaGVtYS4gVGhpcyBlcnJvciBjYW4gYmUgaGFuZGxlZCBpbiBhIHZhcmlldHkgb2YgZGlmZmVyZW50IHdheXMgc28gSSBzdWdnZXN0IGNoZWNraW5nIG91dCB0aGUgWk9EIGRvY3MgdG8gZ2V0IGEgYmV0dGVyIHVuZGVyc3RhbmRpbmcuCgojIyMgQ29uY2x1c2lvbgoKQW5kIHRoYXTigJlzIGl0ISBJdOKAmXMgYSB2ZXJ5IHNpbXBsZSBsaWJyYXJ5IHRvIGltcGxlbWVudCBidXQgeW91IGNhbiBzZWUgZ3JlYXQgYmVuZWZpdHMgZnJvbSB0aGUgZ2V0LWdvIGluIHRoZSBjb25maWRlbmNlIG9mIHRoZSBhcHBsaWNhdGlvbiBhdCBydW50aW1lLgoKSGVyZSBpcyBhIHNtYWxsIHNhbmRib3ggd2l0aCBhbiBleGFtcGxlIG9mIHRoZSBjb2RlIGFib3ZlLiBUaGVyZSBhcmUgdHdvIGJ1dHRvbnMgdG8gdGVzdCBvdXQgYm90aCByZXF1ZXN0cyBhbmQgaG93IHRoZSBzY2hlbWEgcGFyc2VzIHRoZSBjb2RlLgoKW2h0dHBzOi8vY29kZXNhbmRib3guaW8vZW1iZWQvem9kLXR5cGUtY2hlY2stMDlnM2M/Zm9udHNpemU9MTQmaGlkZW5hdmlnYXRpb249MSZ0aGVtZT1kYXJrXShodHRwczovL2NvZGVzYW5kYm94LmlvL2VtYmVkL3pvZC10eXBlLWNoZWNrLTA5ZzNjP2ZvbnRzaXplPTE0JmhpZGVuYXZpZ2F0aW9uPTEmdGhlbWU9ZGFyaykKCl9PcmlnaW5hbGx5IHB1Ymxpc2hlZCBhdF8gW19odHRwczovL3JlbGF0YWJsZWNvZGUuY29tX10oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9zdXBlcmNoYXJnZS15b3VyLWFwcC13aXRoLXJ1bnRpbWUtdHlwZS1jaGVja2luZy11c2luZy16b2QvKSBfb24gRmVicnVhcnkgMTMsIDIwMjIuXw==
+# Supercharge your app with runtime type-checking using ZOD
+
+
+![Supercharge your app with runtime type-checking using ZOD](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103068400/wCrFnBb3m.png)
+
+Type-checking in Javascript applications is becoming more and more normalized with Typescript. However, one common complaint of Typescript is that it doesn’t ensure type-safety in a runtime environment. [ZOD](https://github.com/colinhacks/zod) can solve these issues, as it offers type-safety checks at runtime, take note that this works in conjunction with Typescript!
+
+As a small disclaimer, this isn’t a diss at Typescript. It’s amazing and makes writing code a lot faster as it instantly reports errors in the IDE, but a little more safety never hurt anyone.
+
+In this article, I’ll quickly go over how to set up ZOD and an example of it what it offers!
+
+### What is ZOD?
+
+By definition of the creators of this package:
+
+> _Zod is a TypeScript-first schema declaration and validation library. I’m using the term “schema” to broadly refer to any data type, from a simple_ _string to a complex nested object._
+
+Sweet! The amazing thing about this is that it works in runtime so we can feel considerably safer than what we expect from API and Typescript will _actually_ match the response from API.
+
+### The Setup
+
+Let’s go ahead and first install the library:
+
+```
+npm install zod typescript
+```
+
+Make sure that in your tsconfig.json that the compiler has the strict option set to true.
+
+```
+{ 
+    // ... 
+    "compilerOptions": { 
+        // ... 
+        "strict": true 
+    } 
+}
+```
+
+Easy enough. Now we can start beginning to code. For this example, we’ll be using the Pokemon API to quickly have something available to all. More info on it is [here](https://pokeapi.co/).
+
+### The Schema
+
+ZOD works by having a schema of the type and then validating it. If I wanted to just validate a string I’d create the following:
+
+![Code](https://cdn.hashnode.com/res/hashnode/image/upload/v1644766887907/ukO3lK-Jc.png)
+
+Applying this to an API is fairly simple as we just need to know the object of the response.
+
+![Code](https://cdn.hashnode.com/res/hashnode/image/upload/v1644766889763/8PnrC46MY.png)
+
+Now let’s quickly build out some simple fetch requests to test this out.
+
+![Code](https://cdn.hashnode.com/res/hashnode/image/upload/v1644766891403/wEa-PSEUo.png)
+
+Here I’m using two very simple requests. The first one has a response type that directly correlates with the schema we created earlier. The second while instantly generates an error after parsing as it does not match the schema. This error can be handled in a variety of different ways so I suggest checking out the ZOD docs to get a better understanding.
+
+### Conclusion
+
+And that’s it! It’s a very simple library to implement but you can see great benefits from the get-go in the confidence of the application at runtime.
+
+Here is a small sandbox with an example of the code above. There are two buttons to test out both requests and how the schema parses the code.
+
+[https://codesandbox.io/embed/zod-type-check-09g3c?fontsize=14&hidenavigation=1&theme=dark](https://codesandbox.io/embed/zod-type-check-09g3c?fontsize=14&hidenavigation=1&theme=dark)
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/supercharge-your-app-with-runtime-type-checking-using-zod/) _on February 13, 2022._
