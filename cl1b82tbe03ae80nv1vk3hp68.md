@@ -1,1 +1,105 @@
-IyMgSG93IHRvIHN1cGVyY2hhcmdlIHlvdXIgSFRNTCBsaW5rIHRhZyB3aXRoIHRoZXNlIGZvdXIgdHJpY2tzCgoKIVtob3cgdG8gc3VwZXJjaGFyZ2UgeW91ciBIVE1MIGxpbmsgdGFnIHdpdGggdGhlc2UgZm91ciB0cmlja3NdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUxMTAyMDI4MzA4L2prOHo5OHVHbi5wbmcpCgojIyMgSW50cm9kdWN0aW9uCgpUaGUgSFRNTCBsaW5rIHRhZyBpcyBvbmUgb2YgdGhlIGZpcnN0IHRhZ3MgZXZlcnlvbmUgbGVhcm5zIGFib3V0IHdoZW4gZmlyc3QgZGl2aW5nIGludG8gSFRNTC4gVGhlIG1vc3QgY29tbW9uIHVzZSBjYXNlIGlzIHRvIGp1c3QgbG9hZCB1cCBhIHN0eWxlc2hlZXQgYW5kIGZvcmdldCBpdCBhYm91dC4KCmBgYGh0bWwKPGxpbmsgaHJlZj0iL3N0eWxlcy5jc3MiIHJlbD0ic3R5bGVzaGVldCIgLz4KYGBgCgoqKl9Ib3dldmVyXyoqICwgdGhlIGxpbmsgdGFnIGhhcyBiZWVuIHVwZGF0ZWQgdGhyb3VnaG91dCB0aGUgeWVhcnMgYW5kIGhhcyBzZXZlcmFsIGZlYXR1cmVzIHRoYXQgY2FuIHN1cGVyY2hhcmdlIHRoZSBwZXJmb3JtYW5jZSBvZiB5b3VyIGFwcGxpY2F0aW9uIGlmIHVzZWQgY29ycmVjdGx5LgoKIyMjIExpbmsgdGFnIGF0dHJpYnV0ZTogUHJlbG9hZAoKVGhlICoqcHJlbG9hZCoqIHZhbHVlIGZvciB0aGUgKipyZWwqKiBhdHRyaWJ1dGUgbGV0cyB0aGUgZGV2ZWxvcGVyIGRlY2xhcmUgYSBmZXRjaCByZXF1ZXN0IGZyb20gdGhlIGxpbmsgdGFnLiBUaGlzIGFsbG93cyB0aGUgcGFnZSB0byBzdGFydCBsb2FkaW5nIHRoZSByZXNvdXJjZSBzcGVjaWZpZWQgaW4gdGhlIHRhZyBlYXJsaWVyIOKPsC4gVGhpcyBjYW4gY3JlYXRlIHNldmVyYWwgYmVuZWZpdHMhCgpGb3IgZXhhbXBsZSwgd2l0aCB0aGlzIHRhZywgeW91IGFyZSBhYmxlIHRvIHNwZWNpZnkgcmVzb3VyY2VzIHRoYXQgd2lsbCBtb3N0IGRlZmluaXRlbHkgYmUgdXNlZCBsYXRlciBvbiBpbiB0aGUgd2VicGFnZSwgc3VjaCBhcyBpbXBvcnRlZCBzY3JpcHRzIG9yIGxhcmdlIG1lZGlhIGZpbGVzLiBUaGlzIGlzIHBhaXJlZCB3aXRoIHRoZSAqKmFzKiogYXR0cmlidXRlIHRvIHNwZWNpZnkgdG8gdGhlIGJyb3dzZXIgd2hhdCB0eXBlIG9mIHJlc291cmNlIHdl4oCZcmUgZGVhbGluZyB3aXRoLgoKYGBgaHRtbAo8bGluayByZWw9InByZWxvYWQiIGhyZWY9Im15X3ZpZGVvLm1wNCIgYXM9InZpZGVvIiAvPgpgYGAKCkFsbCBpbiBhbGwsIHRoaXMgY2FuIGhlbHAgd2l0aCAqKnJlbmRlci1ibG9ja2luZyoqIHJlc291cmNlcyBhbmQgaGVscCB0aGUgYnJvd3NlciBtb3JlIGFjY3VyYXRlbHkgcGFyc2UgdGhlIHJlc291cmNlIHRvIGNhY2hlIGNvcnJlY3RseS4KCiMjIyBMaW5rIHRhZyBhdHRyaWJ1dGU6IFByZWZldGNoCgpBbm90aGVyIHBlcmZvcm1hbmNlIG9wdGltaXphdGlvbiEgVGhlICoqcHJlZmV0Y2gqKiB2YWx1ZSBmb3IgdGhlICoqcmVsKiogdGFnIGFsbG93cyB1cywgZGV2ZWxvcGVycywgdG8gc3BlY2lmeSBhIHJlc291cmNlIGZvciB0aGUgYnJvd3NlciB0byBmZXRjaCB3aGlsZSBpdOKAmXMgaWRsZS4KCkluIG9yZGVyIGZvciB0aGUgYnJvd3NlciB0byByZWNvZ25pemUgeW91IGhhdmUgdG8gZGVjbGFyZSBpdCBhcyBvbmUgb2YgdHdvIHdheXM6CgpgYGBodG1sCjxsaW5rIHJlbD0icHJlZmV0Y2ggc3R5bGVzaGVldCIgaHJlZj0ibXlfb3RoZXJfc3R5bGUuY3NzIiAvPgo8bGluayByZWw9Im5leHQiIGhyZWY9InRlc3QuaHRtbCIgLz4KYGBgCgpPYnRhaW5pbmcgdGhlICoqc3R5bGVzaGVldCoqIG5lZWRlZCBpbiB0aGUgZnV0dXJlIHdpdGggcHJlZmV0Y2ggYW5kIHRoZSBmb2xsb3dpbmcgcGFnZXMgKipIVE1MKiogd2l0aCBuZXh0IPCfmoAKCldoYXQgaXMgY29uc2lkZXJlZCBpZGxlIHRpbWU/IFBlciB0aGUgb2ZmaWNpYWwgTUROIGRvY3M6Cgo+IF9JbiB0aGUgY3VycmVudCBpbXBsZW1lbnRhdGlvbiAoTW96aWxsYSAxLjIpLCBpZGxlIHRpbWUgaXMgZGV0ZXJtaW5lZCB1c2luZyB0aGVfIF9uc0lXZWJQcm9ncmVzc0xpc3RlbmVyIEFQSS4gV2UgYXR0YWNoIGEgbGlzdGVuZXIgdG8gdGhlIHRvcGxldmVsXyBfbnNJV2ViUHJvZ3Jlc3Mgb2JqZWN0ICgiQG1vemlsbGEub3JnL2RvY2xvYWRlcnNlcnZpY2U7MSIpLiBGcm9tIHRoaXMsIHdlIHJlY2VpdmUgZG9jdW1lbnQgc3RhcnQgJiBzdG9wIG5vdGlmaWNhdGlvbnMsIGFuZCB3ZSBhcHByb3hpbWF0ZSBpZGxlIHRpbWUgYXMgdGhlIHBlcmlvZCBiZXR3ZWVuIHRoZSBsYXN0IGRvY3VtZW50IHN0b3AgYW5kIHRoZSBuZXh0IGRvY3VtZW50IHN0YXJ0LiBUaGUgbGFzdCBkb2N1bWVudCBzdG9wIG5vdGlmaWNhdGlvbiBvY2N1cnMgcm91Z2hseSB3aGVuIHRoZSBvbkxvYWQgaGFuZGxlciB3b3VsZCBmaXJlIGZvciB0aGUgdG9wbGV2ZWwgZG9jdW1lbnQuIFRoaXMgaXMgd2hlbiB3ZSBraWNrIG9mZiBwcmVmZXRjaCByZXF1ZXN0cy4gSWYgYSBzdWJmcmFtZSBjb250YWlucyBwcmVmZXRjaGluZyBoaW50cywgcHJlZmV0Y2hpbmcgd2lsbCBub3QgYmVnaW4gdW50aWwgdGhlIHRvcC1tb3N0IGZyYW1lIGFuZCBhbGwgaXRzICJjaGlsZCIgZnJhbWVzIGZpbmlzaCBsb2FkaW5nLl8KCj4gW19odHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9IVFRQL0xpbmtcX3ByZWZldGNoaW5nXF9GQVFfXShodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9IVFRQL0xpbmtfcHJlZmV0Y2hpbmdfRkFRKQoKIyMjIExpbmsgdGFnIGF0dHJpYnV0ZTogbWVkaWEKCiMjIyBNZWRpYQoKVGhlIGxpbmsgdGFncyBjYW4gY29udGFpbiBhIG1lZGlhIGF0dHJpYnV0ZSB0byBzcGVjaWZ5IHdoYXQgdHlwZSBvZiBzY3JlZW4gc2hvdWxkIGJlIGhhbmRsaW5nIGl0OgoKLSBhbGwKLSBwcmludAotIHNjcmVlbgotIHNwZWVjaAotIGJyYWlsbGUgKERlcHJlY2F0ZWQpCi0gZW1ib3NzZWQgKERlcHJlY2F0ZWQpCi0gaGFuZGhlbGQgKERlcHJlY2F0ZWQpCi0gcHJvamVjdGlvbiAoRGVwcmVjYXRlZCkKLSB0dHkgKERlcHJlY2F0ZWQpCi0gdHYgKERlcHJlY2F0ZWQpCgpJ4oCZbGwgbGVhdmUgdGhpcyBbbGlua10oaHR0cHM6Ly93d3cudzMub3JnL1RSL0NTUzIxL21lZGlhLmh0bWwlMjNtZWRpYS10eXBlcykgZXhwbGFpbmluZyBtb3JlIGluIGRldGFpbCB3aGF0IGVhY2ggcHJvcGVydHkgbWVhbnMuIFRoZXNlIGNhbiBhbHNvIG1ha2UgeW91ciBwYWdlcyBtb3JlIGFjY2Vzc2libGUuIFRoaXMgW2FydGljbGUgb2YgbWluZV0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9tYWtlLXlvdXItd2Vic2l0ZS1tb3JlLWFjY2Vzc2libGUtd2l0aC10aGVzZS1yZXNwb25zaXZlLWRlc2lnbi10aXBzLykgZ29lcyBtb3JlIGluLWRlcHRoLgoKYGBgaHRtbAo8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImJyYWlsbGUuY3NzIiBtZWRpYT0iYnJhaWxsZSIgLz4KYGBgCgpIb3dldmVyLCB0aGlzIG1lZGlhIGF0dHJpYnV0ZSBjYW4gYWxzbyBiZSB1c2VkIGZvciBkaWZmZXJlbnQgc2NyZWVuIHNpemVzIGFuZCBjYW4gYmUgdXNlZCBpbiBjb25qdW5jdGlvbiB3aXRoIG90aGVyIGZlYXR1cmVzIG9uIHRoaXMgbGlzdCEKCmBgYGh0bWwKPGxpbmsgcmVsPSJwcmVsb2FkIiBocmVmPSJIVUdFLnBuZyIgYXM9ImltYWdlIiBtZWRpYT0iKG1pbi13aWR0aDogNjAxcHgpIj4KYGBgCgojIyMgTGluayB0YWcgYXR0cmlidXRlOiBhbHRlcm5hdGUKCkRpZCB5b3Uga25vdyB5b3UgY2FuIHByb3ZpZGUgYWx0ZXJuYXRlIHN0eWxlc2hlZXRzIHRvIHRoZSB1c2VyPyBUaGUgbGluayB0YWcgcHJvcGVydHkgcmVsIGNhbiBoYXZlIGEgc3VmZml4IHdvcmQ6ICoqYWx0ZXJuYXRlKiouIFRoaXMgd29yZCBjYW4gc3BlY2lmeSBhIGRpZmZlcmVudCBzdHlsZXNoZWV0IGZvciB0aGUgdXNlciB0byB1c2UuCgpGb3IgZXhhbXBsZToKCmBgYGh0bWwKPGxpbmsgaHJlZj0ic3R5bGVzLmNzcyIgdGl0bGU9Ik1haW4iIHJlbD0ic3R5bGVzaGVldCIgLz4gCjxsaW5rIGhyZWY9ImFsdGVybmF0ZS5jc3MiIHRpdGxlPSJBbHRlcm5hdGUiIHJlbD0iYWx0ZXJuYXRlIHN0eWxlc2hlZXQiIC8+CmBgYAoKVGhlIHRpdGxlIGF0dHJpYnV0ZSBpcyB1c2VkIHRvIHNwZWNpZnkgdGhlIG5hbWUgb2YgdGhlIHN0eWxlc2hlZXQgaW4gdGhlIG9wdGlvbnMuIFRoZSBvcHRpb25zIGNhbiBiZSBsb2NhdGVkIGRpcmVjdGx5IGZyb20gdGhlIGJyb3dzZXI6CgohW0FsdGVybmF0ZSBzdHlsZXNoZWV0XShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0ODUwMjkyMTA2NC8yMWlyYzNEU0EuZ2lmKQoKSW4gRmlyZWZveCB0aGVzZSBjYW4gYmUgb3BlbmVkIHVwIGJ5IGhpdHRpbmcgRjEwLgoKSG93ZXZlciwgdGhpcyBoYXMgKipsaW1pdGVkIGNvbXBhdGliaWxpdHkqKiBhY3Jvc3MgYnJvd3NlcnMgc28gZG9u4oCZdCByZWx5IG9uIHRoaXMgZnVuY3Rpb25hbGl0eS4gRXhhbXBsZSBmcm9tIHRoZSBbT2ZmaWNpYWwgTUROIGRvY3NdKGh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3JnL2VuLVVTL2RvY3MvV2ViL0NTUy9BbHRlcm5hdGl2ZV9zdHlsZV9zaGVldHMpLgoKIyMjIENvbmNsdXNpb24KClVzaW5nIHRoZXNlIHRpcHMgY2FuIGRlZmluaXRlbHkgaW5jcmVhc2UgdGhlIHVzYWJpbGl0eSBvZiB0aGUgd2Vic2l0ZSBieSBzZXZlcmFsIHBlcmNlbnRhZ2UgcG9pbnRzLiBBIGxpdHRsZSBvcHRpbWl6YXRpb24gbmV2ZXIgaHVydCBhbnlvbmUuCgpJZiB5b3UgaGF2ZSBhbnkgb3RoZXIgd2F5IHRvIHRha2UgYWR2YW50YWdlIG9mIGxlc3Nlci1rbm93biBmZWF0dXJlcyBvZiBIVE1MIGdvIGFoZWFkIGFuZCBtZW50aW9uIGl0IGluIHRoZSBjb21tZW50cyBiZWxvdyEKCk1vcmUgY29udGVudCBhdCBbUmVsYXRhYmxlIENvZGVdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20pCgpJZiB5b3UgbGlrZWQgdGhpcyBmZWVsIGZyZWUgdG8gY29ubmVjdCB3aXRoIG1lIG9uIFtMaW5rZWRJbl0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2RpZWdvLWJhbGxlc3Rlcm9zLTk0NjhhNzEzNi8pIG9yIFtUd2l0dGVyXShodHRwczovL3R3aXR0ZXIuY29tL3JlbGF0YWJsZWNvZGVyKS4KCkNoZWNrIG91dCBteSBmcmVlIGRldmVsb3BlciByb2FkbWFwIGFuZCB3ZWVrbHkgdGVjaCBpbmR1c3RyeSBuZXdzIGluIG15IFtuZXdzbGV0dGVyXShodHRwczovL3JlbGF0YWJsZWNvZGUuc3Vic3RhY2suY29tLyku
+# How to supercharge your HTML link tag with these four tricks
+
+
+![how to supercharge your HTML link tag with these four tricks](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102028308/jk8z98uGn.png)
+
+### Introduction
+
+The HTML link tag is one of the first tags everyone learns about when first diving into HTML. The most common use case is to just load up a stylesheet and forget it about.
+
+```html
+<link href="/styles.css" rel="stylesheet" />
+```
+
+**_However_** , the link tag has been updated throughout the years and has several features that can supercharge the performance of your application if used correctly.
+
+### Link tag attribute: Preload
+
+The **preload** value for the **rel** attribute lets the developer declare a fetch request from the link tag. This allows the page to start loading the resource specified in the tag earlier ⏰. This can create several benefits!
+
+For example, with this tag, you are able to specify resources that will most definitely be used later on in the webpage, such as imported scripts or large media files. This is paired with the **as** attribute to specify to the browser what type of resource we’re dealing with.
+
+```html
+<link rel="preload" href="my_video.mp4" as="video" />
+```
+
+All in all, this can help with **render-blocking** resources and help the browser more accurately parse the resource to cache correctly.
+
+### Link tag attribute: Prefetch
+
+Another performance optimization! The **prefetch** value for the **rel** tag allows us, developers, to specify a resource for the browser to fetch while it’s idle.
+
+In order for the browser to recognize you have to declare it as one of two ways:
+
+```html
+<link rel="prefetch stylesheet" href="my_other_style.css" />
+<link rel="next" href="test.html" />
+```
+
+Obtaining the **stylesheet** needed in the future with prefetch and the following pages **HTML** with next 🚀
+
+What is considered idle time? Per the official MDN docs:
+
+> _In the current implementation (Mozilla 1.2), idle time is determined using the_ _nsIWebProgressListener API. We attach a listener to the toplevel_ _nsIWebProgress object ("@mozilla.org/docloaderservice;1"). From this, we receive document start & stop notifications, and we approximate idle time as the period between the last document stop and the next document start. The last document stop notification occurs roughly when the onLoad handler would fire for the toplevel document. This is when we kick off prefetch requests. If a subframe contains prefetching hints, prefetching will not begin until the top-most frame and all its "child" frames finish loading._
+
+> [_https://developer.mozilla.org/en-US/docs/Web/HTTP/Link\_prefetching\_FAQ_](https://developer.mozilla.org/en-US/docs/Web/HTTP/Link_prefetching_FAQ)
+
+### Link tag attribute: media
+
+### Media
+
+The link tags can contain a media attribute to specify what type of screen should be handling it:
+
+- all
+- print
+- screen
+- speech
+- braille (Deprecated)
+- embossed (Deprecated)
+- handheld (Deprecated)
+- projection (Deprecated)
+- tty (Deprecated)
+- tv (Deprecated)
+
+I’ll leave this [link](https://www.w3.org/TR/CSS21/media.html%23media-types) explaining more in detail what each property means. These can also make your pages more accessible. This [article of mine](https://relatablecode.com/make-your-website-more-accessible-with-these-responsive-design-tips/) goes more in-depth.
+
+```html
+<link rel="stylesheet" href="braille.css" media="braille" />
+```
+
+However, this media attribute can also be used for different screen sizes and can be used in conjunction with other features on this list!
+
+```html
+<link rel="preload" href="HUGE.png" as="image" media="(min-width: 601px)">
+```
+
+### Link tag attribute: alternate
+
+Did you know you can provide alternate stylesheets to the user? The link tag property rel can have a suffix word: **alternate**. This word can specify a different stylesheet for the user to use.
+
+For example:
+
+```html
+<link href="styles.css" title="Main" rel="stylesheet" /> 
+<link href="alternate.css" title="Alternate" rel="alternate stylesheet" />
+```
+
+The title attribute is used to specify the name of the stylesheet in the options. The options can be located directly from the browser:
+
+![Alternate stylesheet](https://cdn.hashnode.com/res/hashnode/image/upload/v1648502921064/21irc3DSA.gif)
+
+In Firefox these can be opened up by hitting F10.
+
+However, this has **limited compatibility** across browsers so don’t rely on this functionality. Example from the [Official MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Alternative_style_sheets).
+
+### Conclusion
+
+Using these tips can definitely increase the usability of the website by several percentage points. A little optimization never hurt anyone.
+
+If you have any other way to take advantage of lesser-known features of HTML go ahead and mention it in the comments below!
+
+More content at [Relatable Code](https://relatablecode.com)
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/diego-ballesteros-9468a7136/) or [Twitter](https://twitter.com/relatablecoder).
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
