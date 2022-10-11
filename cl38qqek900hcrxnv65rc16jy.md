@@ -1,1 +1,110 @@
-IyMgSmF2YVNjcmlwdCBMZWV0Q29kZSBCZXN0IFRpbWUgdG8gQnV5IGFuZCBTZWxsIFN0b2NrCgojIyMgUHJvbXB0CgpZb3UgYXJlIGdpdmVuIGFuIGFycmF5wqBgcHJpY2VzYMKgd2hlcmXCoGBwcmljZXNbaV1gwqBpcyB0aGUgcHJpY2Ugb2YgYSBnaXZlbiBzdG9jayBvbiB0aGXCoGBpdGhgwqBkYXkuCgpZb3Ugd2FudCB0byBtYXhpbWl6ZSB5b3VyIHByb2ZpdCBieSBjaG9vc2luZyBhwqAqKnNpbmdsZSBkYXkqKsKgdG8gYnV5IG9uZSBzdG9jayBhbmQgY2hvb3NpbmcgYcKgKipkaWZmZXJlbnQgZGF5IGluIHRoZSBmdXR1cmUqKsKgdG8gc2VsbCB0aGF0IHN0b2NrLgoKUmV0dXJuwqAqdGhlIG1heGltdW0gcHJvZml0IHlvdSBjYW4gYWNoaWV2ZSBmcm9tIHRoaXMgdHJhbnNhY3Rpb24qLiBJZiB5b3UgY2Fubm90IGFjaGlldmUgYW55IHByb2ZpdCwgcmV0dXJuwqBgMGAuCgoqKkV4YW1wbGUgMToqKgoKYGBgdGV4dApJbnB1dDogcHJpY2VzID0gWzcsMSw1LDMsNiw0XQpPdXRwdXQ6IDUKRXhwbGFuYXRpb246IEJ1eSBvbiBkYXkgMiAocHJpY2UgPSAxKSBhbmQgc2VsbCBvbiBkYXkgNSAocHJpY2UgPSA2KSwgcHJvZml0ID0gNi0xID0gNS4KTm90ZSB0aGF0IGJ1eWluZyBvbiBkYXkgMiBhbmQgc2VsbGluZyBvbiBkYXkgMSBpcyBub3QgYWxsb3dlZCBiZWNhdXNlIHlvdSBtdXN0IGJ1eSBiZWZvcmUgeW91IHNlbGwuCmBgYAoKIyMjIEFuYWx5emluZyB0aGUgcHJvYmxlbQoKQXMgd2l0aCB0aGUgcHJldmlvdXMgcHJvYmxlbXMgdGhlIGZpcnN0IGFwcGFyZW50IHNvbHV0aW9uIGlzIHRvIGdvIGZvciB0aGUgYnJ1dGUgZm9yY2Ugc29sdXRpb24uIEhlcmUgd2Ugd291bGQgaXRlcmF0ZSBvdmVyIHRoZSBhcnJheSB0d2ljZSBjaGVja2luZyBldmVyeSBzdWJ0cmFjdGlvbiBiZXR3ZWVuIGV2ZXJ5IHN1YnNlcXVlbnQgdmFsdWUgYW5kIGp1c3QgZ3JhYiB0aGUgaGlnaGVzdCBwcm9maXQuCgpBIHZpc3VhbCBleGFtcGxlIG9mIHRoaXMgY291bGQgbG9vayBsaWtlIHRoaXM6CgohW0phdmFTY3JpcHQgTGVldENvZGVdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUyNjY0NjAwOTEyL0MtTHlZYk5URy5wbmcgYWxpZ249ImxlZnQiKQoKIyMjIEZpcnN0IHNvbHV0aW9uCgpMZXQncyBnbyBhaGVhZCBhbmQgd3JpdGUgb3V0IHRoZSBjb2RlIGZvciB3aGF0IHdlIG1lbnRpb25lZCBhYm92ZS4KCmBgYGpzCmZ1bmN0aW9uIG1heFByb2ZpdChwcmljZXMpIHsKICBsZXQgcHJvZml0ID0gMDsKICBmb3IgKGxldCBpID0gMDsgaSA8IHByaWNlcy5sZW5ndGggLSAxOyBpKyspIHsKICAgIGZvciAobGV0IGogPSBpICsgMTsgaiA8IHByaWNlcy5sZW5ndGg7IGorKykgewogICAgICBjb25zdCBjdXJyZW50UHJvZml0ID0gcHJpY2VzW2pdIC0gcHJpY2VzW2ldCgogICAgICBpZiAoY3VycmVudFByb2ZpdCA+IHByb2ZpdCApIHsKICAgICAgICBwcm9maXQgPSBjdXJyZW50UHJvZml0CiAgICAgIH0KICAgIH0KICB9CgogIHJldHVybiBwcm9maXQ7Cn0KYGBgCgpIZXJlIHdlIGNvbXBhcmUgdGhlIHByaWNlIG9mIHRoZSBuZXh0IGVsZW1lbnQgaW4gdGhlIGFycmF5IHdpdGggdGhlIGN1cnJlbnQuIFRoZSBiZXN0IHdheSB0byBjb25jZXB0dWFsaXplIHRoaXMgaXMgdGhhdCBgaWAgaXMgb3VyIGluZGV4IGFuZCBgamAgaXMgb3VyIHBvaW50ZXIgdGhhdCBrZWVwcyBpdGVyYXRpbmcuCgpXZSB1c2UgdHdvIGBmb3JgIGxvb3BzIHRvIGZpbmQgdGhlIG1heGltdW0gcHJvZml0LiBUaGlzIHdpbGwgaGF2ZSBhIGNvbXBsZXhpdHkgb2YgTyhuXjIpLiBUaGlzIGlzIGEgcHJldHR5IGJpZyBwcm9ibGVtIGFzIGl0IGlzIHZlcnkgc2xvdyEgSG93ZXZlciwgd2UgY2FuIG9wdGltaXplIHRoaXMgYnkgaXRlcmF0aW5nIG92ZXIgdGhlIGFycmF5IG9ubHkgb25jZS4KCiMjIyBTZWNvbmQgU29sdXRpb24KCkJ1dCB3aGF0IHdvdWxkIGEgc2luZ2xlIGl0ZXJhdGlvbiBsb29rIGxpa2U/CgpXaXRoIGNvZGUgaXQgd291bGQgbG9vayBzb21ldGhpbmcgbGlrZSB0aGlzOgoKYGBganMKdmFyIG1heFByb2ZpdCA9IGZ1bmN0aW9uKHByaWNlcykgewogICAgbGV0IHByb2ZpdCA9IDA7CiAKICAgIGxldCBzdG9ja1RvQnV5ID0gcHJpY2VzWzBdOwogICAgCiAgICBmb3IobGV0IGkgPSAxOyBpIDwgcHJpY2VzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgaWYgKHN0b2NrVG9CdXkgPiBwcmljZXNbaV0pIHsKICAgICAgICAgICAgc3RvY2tUb0J1eSA9IHByaWNlc1tpXQogICAgICAgIH0KICAgICAgICAKICAgICAgICBjb25zdCBjdXJyZW50UHJvZml0ID0gcHJpY2VzW2ldIC0gc3RvY2tUb0J1eTsKICAgICAgICAKICAgICAgICBpZiAoY3VycmVudFByb2ZpdCA+IHByb2ZpdCkgewogICAgICAgICAgICBwcm9maXQgPSBjdXJyZW50UHJvZml0OwogICAgICAgIH0KICAgIH0KICAgIAogICAgcmV0dXJuIHByb2ZpdDsKfTsKYGBgCgpXZSBncmFiIHRoZSBpbml0aWFsIGBzdG9ja1RvQnV5YCBmcm9tIHRoZSBmaXJzdCBlbGVtZW50IGluIHRoZSBhcnJheS4gVGhlbiB3ZSBjYW4gYmVnaW4gaXRlcmF0aW5nIG92ZXIgdGhlIGFycmF5IChza2lwcGluZyB0aGUgZmlyc3QpLiBXZSBjb21wYXJlIGlmIHRoZSBuZXh0IHN0b2NrIGlzIG9mIGEgaGlnaGVyIHByaWNlIHRoYW4gb3VyIGN1cnJlbnRseSBzZWxlY3RlZCBzdG9jay4gSWYgc28gaXTigJlsbCB5aWVsZCB1cyBhIGhpZ2hlciBwcm9maXQgc28gd2Ugc3dpdGNoIGl0IG91dC4gCgpIb3dldmVyLCB0aGlzIGFsc28gc2VydmVzIGFzIGEgcmVzZXQgbWVjaGFuaXNtLiBJZiB0aGUgc3RvY2sgaXMgb2YgYSBoaWdoZXIgdmFsdWUgd2Uga25vdyB0aGF0IGZyb20gdGhpcyBwb2ludCBmb3J3YXJkIGl0IHdpbGwgbm90IGJlIGhpZ2hlciBwcm9maXQgdGhhbiBpZiBpdCB3YXMgd2l0aCB0aGUgcHJldmlvdXNseSBzZWxlY3RlZCBzdG9jay4KCmBgYGpzCnN0b2NrVG9CdXkgPSBwcmljZXNbaV0KYGBgCgpBZnRlciB0aGF0LCB3ZSBjYWxjdWxhdGUgb3VyIG5ldyBgY3VycmVudFByb2ZpdGAsICB0aGlzIGlzIGp1c3QgYSB0ZW1wb3JhcnkgdmFsdWUgaW4gb3VyIGN1cnJlbnQgaXRlcmF0aW9uLgoKYGBganMKY29uc3QgY3VycmVudFByb2ZpdCA9IHByaWNlc1tpXSAtIHN0b2NrVG9CdXk7CmBgYApUaGVuIHdlIGNvbXBhcmUgaXQgd2l0aCB0aGUgdmFsdWUgd2Ugc2F2ZWQgb3V0c2lkZSBvZiBvdXIgYGZvcmAgbG9vcC4gSWYgaXQncyBoaWdoZXIgdGhlbiB0aGF0J3MgZXhhY3RseSB3aGF0IHdlIHdhbnQuIAoKTm90aWNlIHdlIGNyZWF0ZWQgdGhlIHZhcmlhYmxlIHdpdGggYDBgIGF0IGZpcnN0IHNvIHRoYXQgaWYgd2UgZG9u4oCZdCBmaW5kIGFueSBwcm9maXQgd2UgY2FuIGp1c3QgcmV0dXJuIGl0IGFzIGlzLgoKIyMjIyBHcmVlZHkgQWxnb3JpdGhtCgpCdXQgd2hhdCBpcyB0aGlzIGNhbGxlZD8KCldoYXQgd2XigJlyZSBkb2luZyBoZXJlIGlzIHNlbGVjdGluZyB0aGUgYmVzdCBvcHRpb24gb24gZXZlcnkgaXRlcmF0aW9uIGFuZCBmb3JnZXR0aW5nIGFib3V0IHBhc3Qgc2VsZWN0aW9ucyBUaGlzIGlzIGNhbGxlZCBhIGdyZWVkeSBhbGdvcml0aG0uCgpIZXJlJ3MgYSBbV2lraXBlZGlhIGFydGljbGVdKGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0dyZWVkeV9hbGdvcml0aG0pIGlmIHlvdSB3YW50IHRvIHJlYWQgdXAgbW9yZSBvbiBpdCAoeW91IHNob3VsZCkuCgojIyMgTGV0J3MgY29ubmVjdAoKSWYgeW91IGxpa2VkIHRoaXMgZmVlbCBmcmVlIHRvIGNvbm5lY3Qgd2l0aCBtZSBvbiBbTGlua2VkSW5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9yZWxhdGFibGVjb2RlKSBvciBbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVyLmNvbS9yZWxhdGFibGVjb2RlcikKCkNoZWNrIG91dCBteSBmcmVlIGRldmVsb3BlciByb2FkbWFwIGFuZCB3ZWVrbHkgdGVjaCBpbmR1c3RyeSBuZXdzIGluIG15IFtuZXdzbGV0dGVyXShodHRwczovL3JlbGF0YWJsZWNvZGUuc3Vic3RhY2suY29tLyku
+# JavaScript LeetCode Best Time to Buy and Sell Stock
+
+### Prompt
+
+You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
+
+You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
+
+Return *the maximum profit you can achieve from this transaction*. If you cannot achieve any profit, return `0`.
+
+**Example 1:**
+
+```text
+Input: prices = [7,1,5,3,6,4]
+Output: 5
+Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+```
+
+### Analyzing the problem
+
+As with the previous problems the first apparent solution is to go for the brute force solution. Here we would iterate over the array twice checking every subtraction between every subsequent value and just grab the highest profit.
+
+A visual example of this could look like this:
+
+![JavaScript LeetCode](https://cdn.hashnode.com/res/hashnode/image/upload/v1652664600912/C-LyYbNTG.png align="left")
+
+### First solution
+
+Let's go ahead and write out the code for what we mentioned above.
+
+```js
+function maxProfit(prices) {
+  let profit = 0;
+  for (let i = 0; i < prices.length - 1; i++) {
+    for (let j = i + 1; j < prices.length; j++) {
+      const currentProfit = prices[j] - prices[i]
+
+      if (currentProfit > profit ) {
+        profit = currentProfit
+      }
+    }
+  }
+
+  return profit;
+}
+```
+
+Here we compare the price of the next element in the array with the current. The best way to conceptualize this is that `i` is our index and `j` is our pointer that keeps iterating.
+
+We use two `for` loops to find the maximum profit. This will have a complexity of O(n^2). This is a pretty big problem as it is very slow! However, we can optimize this by iterating over the array only once.
+
+### Second Solution
+
+But what would a single iteration look like?
+
+With code it would look something like this:
+
+```js
+var maxProfit = function(prices) {
+    let profit = 0;
+ 
+    let stockToBuy = prices[0];
+    
+    for(let i = 1; i < prices.length; i++) {
+        if (stockToBuy > prices[i]) {
+            stockToBuy = prices[i]
+        }
+        
+        const currentProfit = prices[i] - stockToBuy;
+        
+        if (currentProfit > profit) {
+            profit = currentProfit;
+        }
+    }
+    
+    return profit;
+};
+```
+
+We grab the initial `stockToBuy` from the first element in the array. Then we can begin iterating over the array (skipping the first). We compare if the next stock is of a higher price than our currently selected stock. If so it’ll yield us a higher profit so we switch it out. 
+
+However, this also serves as a reset mechanism. If the stock is of a higher value we know that from this point forward it will not be higher profit than if it was with the previously selected stock.
+
+```js
+stockToBuy = prices[i]
+```
+
+After that, we calculate our new `currentProfit`,  this is just a temporary value in our current iteration.
+
+```js
+const currentProfit = prices[i] - stockToBuy;
+```
+Then we compare it with the value we saved outside of our `for` loop. If it's higher then that's exactly what we want. 
+
+Notice we created the variable with `0` at first so that if we don’t find any profit we can just return it as is.
+
+#### Greedy Algorithm
+
+But what is this called?
+
+What we’re doing here is selecting the best option on every iteration and forgetting about past selections This is called a greedy algorithm.
+
+Here's a [Wikipedia article](https://en.wikipedia.org/wiki/Greedy_algorithm) if you want to read up more on it (you should).
+
+### Let's connect
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/relatablecode) or [Twitter](https://twitter.com/relatablecoder)
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
