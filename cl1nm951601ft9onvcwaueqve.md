@@ -1,1 +1,136 @@
-IyMgSG93IHRvIG1ha2UgYSBzaW1wbGUgc2xpZGVyIGNvbXBvbmVudCBpbiBSZWFjdAoKCiFbSG93IHRvIG1ha2UgYSBzaW1wbGUgc2xpZGVyIGNvbXBvbmVudCBpbiBSZWFjdF0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTExMDM4NDc5ODgvSVBtamRqb1RWLnBuZykKCkEgdmVyeSBjb21tb24gY29tcG9uZW50IHRvIHVzZSBpbiBmb3JtcyBvciB0byByZWNlaXZlIG51bWVyaWMgaW5wdXQgd2l0aCBhIG5vbi1hcmJpdHJhcnkgcmFuZ2UgaXMgdG8gdXNlIGEgc2xpZGVyIGNvbXBvbmVudC4gSG93ZXZlciwgdGhpcyBjYW4gZWFzaWx5IGJlIGRvbmUgd2l0aCBzb21lIGJhc2ljIEhUTUwgYW5kIENTUyB3aGlsc3QgYWRkaW5nIHNvbWUgcmVhY3QtecKgcHJvcHMuCgpUaGUgYmFzaWMgdXNhZ2UgY2FuIGJlIGltcGxlbWVudGVkIHdpdGggYSBzaW1wbGUgSFRNTCBJbnB1dC4gU29tZXRoaW5nIHRoYXQgaXMgbm90IHJlYWRpbHkgYXBwYXJlbnQgaXMgdGhhdCBhbiBpbnB1dCBjYW4gYmUgb2YgdmFyaW91cyB0eXBlcy4gT25lIG9mIHRoZXNlIGlzIG9mIHR5cGXCoHJhbmdlLgoKVGhpcyBpcyBob3cgaXQgbm9ybWFsbHnCoGxvb2tzOgoKIVtpbnB1dF0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2Mzg0Njg3NzMwMjQvUUNBbjUtZUQ5LnBuZykKCkhUTUwgSW5wdXQgdHlwZcKgcmFuZ2UKCmBgYAo8aW5wdXQgdHlwZT0icmFuZ2UiIC8+CmBgYAoKSG93ZXZlciwgd2hpbGUgdGhpcyBtYXkgZnVsZmlsbCB0aGUgc2xpZGVyIGNvbXBvbmVudCBuZWNlc3NpdHkgdGhlcmUgYXJlIGEgZmV3IHRoaW5ncyB0aGF0IGxpbWl0IGl0LiBXZSBzaG91bGQgYWRkIHNvbWUgc3R5bGluZyBhbmQgbWFrZSBpdCBzbyB0aGUgdmFsdWVzIG9mIHRoZSBtaW4gYW5kwqBtYXguCgojIyMgU3R5bGluZwoKTGV04oCZcyBkaWcgaW50byB0aGXCoENTUwoKYGBgCmlucHV0XFt0eXBlPSdyYW5nZSdcXSB7ICAKICAgIC13ZWJraXQtYXBwZWFyYW5jZTogbm9uZTsgICAKICAgIGhlaWdodDogN3B4OyAgIAogICAgYmFja2dyb3VuZDogZ3JleTsgICAKICAgIGJvcmRlci1yYWRpdXM6IDVweDsgICAKICAgIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgjRDQ2QTZBLCAjRDQ2QTZBKTsgICAKICAgIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7ICAgCn0KYGBgCgohW2lucHV0XShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYzODQ2ODc3NDM5OC85dnRBOVFQSkUucG5nKQoKQmFyIFN0eWxlZAoKVGhpcyBmaXJzdCBiaXQgb2Ygc3R5bGluZyBpcyB0byB0YXJnZXQgdGhlIGJhciB0YXJnZXRpbmcgdGhlIGNvbG9yIGFuZMKgc2hhcGU6CgpIb3dldmVyIGl0IHN0aWxsIGxvb2tzIGEgYml0IGF3a3dhcmQgd2l0aCB0aGUgY2lyY2xlIGJlaW5nIG9mIGEgZGlmZmVyZW50IGNvbG9yLCB3ZSBjYW4gdGFyZ2V0IHRoaXMgcG9ydGlvbiB3aXRoIGEgc2VsZWN0b3I6IC13ZWJraXQtc2xpZGVyLXRodW1iCgpgYGAKaW5wdXRcW3R5cGU9J3JhbmdlJ1xdOjotd2Via2l0LXNsaWRlci10aHVtYiB7ICAgCiAgIFwtd2Via2l0LWFwcGVhcmFuY2U6IG5vbmU7ICAgCiAgIGhlaWdodDogMjBweDsgICAKICAgd2lkdGg6IDIwcHg7ICAgCiAgIGJvcmRlci1yYWRpdXM6IDUwJTsgICAKICAgYmFja2dyb3VuZDogI0Q0NkE2QTsgICAKICAgY3Vyc29yOiBwb2ludGVyOyAgIAogICBib3gtc2hhZG93OiAwIDAgMnB4IDAgIzU1NTsgICAKfQpgYGAKCiFbaW5wdXRdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjM4NDY4Nzc1ODQ2L08yTVo1TXBZci5wbmcpCgpUaHVtYiBTdHlsZWQKClNpbXBsZSBlbm91Z2ggd2UganVzdCBtYWtlIHRoZSBjaXJjbGUgYSBiaXQgYmlnZ2VyIGFuZCBjaGFuZ2UgdGhlIGNvbG9yIHRvIG1hdGNoIHRoZSByZXN0IG9mIHRoZSBjb21wb25lbnQuCgpIb3dldmVyIGl0cyBub3QgdmVyeSBjbGVhciB3aGF0IHBhcnQgb2YgdGhlIGJhciBpcyBiZWluZyBmaWxsZWQsIHNvIGxldOKAmXMgY2hhbmdlIHRoYXQgYnkgY2hhbmdpbmcgdGhlIHRyYWNrIG9mIHRoZcKgc2xpZGVyOgoKYGBgCmlucHV0XFt0eXBlPSJyYW5nZSJcXTo6LXdlYmtpdC1zbGlkZXItcnVubmFibGUtdHJhY2sgeyAgIAogICBcLXdlYmtpdC1hcHBlYXJhbmNlOiBub25lOyAgIAogICBib3gtc2hhZG93OiBub25lOyAgIAogICBib3JkZXI6IG5vbmU7ICAgCiAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OyAgIAp9CmBgYAoKQnV0LCB3ZSBhbHNvIG5lZWQgYSB3YXkgdG8gY2FsY3VsYXRvciB0aGUgY3VycmVudCBiYWNrZ3JvdW5kIHNpemUgb2YgdGhlwqBiYXI6CgpgYGAKY29uc3QgXFt2YWx1ZSwgc2V0VmFsdWVcXSA9IHVzZVN0YXRlKDApOyAgIAogICBjb25zdCBNQVggPSAxMDsgICAKICAgY29uc3QgZ2V0QmFja2dyb3VuZFNpemUgPSAoKSA9PiB7ICAgCiAgIHJldHVybiB7IAogICAgICBiYWNrZ3JvdW5kU2l6ZTogXGAkeyh2YWx1ZSBcKiAxMDApIC8gTUFYfSUgMTAwJVxgIAogICB9OyAKfTsgCmBgYAoKYGBgCjxpbnB1dCB0eXBlPSJyYW5nZSIgICAKbWluPSIwIiAgIAptYXg9e01BWH0gICAKb25DaGFuZ2U9eyhlKSA9PiBzZXRWYWx1ZShlLnRhcmdldC52YWx1ZSl9ICAgCnN0eWxlPXtnZXRCYWNrZ3JvdW5kU2l6ZSgpfSB2YWx1ZT17dmFsdWV9ICAgCi8+CmBgYAoKTGV04oCZcyBicmVhayBkb3duIGEgZmV3IGdhcHMgb2Yga25vd2xlZGdlIGhlcmUuIFdoZW4gYW4gaW5wdXQgaXMgb2YgdHlwZSB5b3UgaGF2ZSBhY2Nlc3MgdG8gc2V2ZXJhbCBkaWZmZXJlbnQgcHJvcGVydGllcywgdHdvIG9mIHdoaWNoIGFyZSBtaW4gYW5kIG1heCB3aGljaCBzZXQgdGhlIHR3byBkaWZmZXJlbnQgZW5kcyBvZiB0aGXCoHNsaWRlci4KCkVzc2VudGlhbGx5IHdl4oCZcmUganVzdCBjYWxjdWxhdGluZyB0aGUgcGVyY2VudGFnZSBzaXplIG9mIHRoZSBiYWNrZ3JvdW5kIGNvbG9yIGJhc2VkIG9uIHRoZSB2YWx1ZSBhbmQgcG9zc2libGUgbWF4wqB2YWx1ZS4KCiFbaW5wdXRdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjM4NDY4Nzc3MjM4L0ZOVG9CNllObS5wbmcpCgpTdHlsZWQgQmFja2dyb3VuZAoKIyMjIEFjdGl2ZSBTdHlsaW5nCgpXaXRoIHRoZSBiYXIgc3R5bGVkIGxldOKAmXMgZm9jdXMgb24gc29tZSBVWCBlbmhhbmNlbWVudCwgd2l0aCBzb21lIHBzZXVkby1jbGFzc2VzIHdlIGNhbiBtYWtlIHRoZSB0aHVtYiBsb29rIGEgYml0IHByZXR0aWVyIHRvIHRoZcKgdXNlcjoKCmBgYAppbnB1dFxbdHlwZT0icmFuZ2UiXF06Oi13ZWJraXQtc2xpZGVyLXRodW1iOmhvdmVyIHsgICAKICAgIGJveC1zaGFkb3c6ICNkNDZhNmE1MCAwcHggMHB4IDBweCA4cHg7ICAgCn0gCgppbnB1dFxbdHlwZT0icmFuZ2UiXF06Oi13ZWJraXQtc2xpZGVyLXRodW1iOmFjdGl2ZSB7ICAgCiAgICBib3gtc2hhZG93OiAjZDQ2YTZhNTAgMHB4IDBweCAwcHggMTFweDsgICAKICAgIHRyYW5zaXRpb246IGJveC1zaGFkb3cgMzUwbXMgY3ViaWMtYmV6aWVyKDAuNCwgMCwgMC4yLCAxKSAwbXMsIGxlZnQgMzUwbXMgY3ViaWMtIAogICAgYmV6aWVyKDAuNCwgMCwgMC4yLCAxKSAwbXMsIGJvdHRvbSAzNTBtcyBjdWJpYy1iZXppZXIoMC40LCAwLCAwLjIsIDEpIDBtczsgICAKfQpgYGAKCkFzIHdlbGwgYXMgYWRkaW5nIHNvbWUgdHJhbnNpdGlvbiBzdHlsaW5nIHRvIHRoZSB0aHVtYsKgaXRzZWxmOgoKYGBgCmlucHV0XFt0eXBlPSJyYW5nZSJcXTo6LXdlYmtpdC1zbGlkZXItdGh1bWIgeyAgIAovLyAuLi5vdGhlciBzdHlsZXM7ICAgCiAgICB0cmFuc2l0aW9uOiBiYWNrZ3JvdW5kIDAuM3MgZWFzZS1pbi1vdXQ7ICAgCn0KYGBgCgpBbmQgdGhhdOKAmXMgaXQhIEhlcmUgaXMgYSBmdWxseSB3b3JraW5nwqBleGFtcGxlOgoKPGlmcmFtZSBzcmM9Imh0dHBzOi8vY2RuLmVtYmVkbHkuY29tL3dpZGdldHMvbWVkaWEuaHRtbD9zcmM9aHR0cHMlM0ElMkYlMkZjb2Rlc2FuZGJveC5pbyUyRmVtYmVkJTJGazg2OG8mYW1wO2Rpc3BsYXlfbmFtZT1Db2RlU2FuZGJveCZhbXA7dXJsPWh0dHBzJTNBJTJGJTJGY29kZXNhbmRib3guaW8lMkZzJTJGazg2OG8mYW1wO2ltYWdlPWh0dHBzJTNBJTJGJTJGY29kZXNhbmRib3guaW8lMkZhcGklMkZ2MSUyRnNhbmRib3hlcyUyRms4NjhvJTJGc2NyZWVuc2hvdC5wbmcmYW1wO2tleT1hMTlmY2MxODRiOTcxMWUxYjQ3NjQwNDBkM2RjNWMwNyZhbXA7dHlwZT10ZXh0JTJGaHRtbCZhbXA7c2NoZW1hPWNvZGVzYW5kYm94IiB3aWR0aD0iMTAwMCIgaGVpZ2h0PSI1MDAiIGZyYW1lYm9yZGVyPSIwIiBzY3JvbGxpbmc9Im5vIj48YSBocmVmPSJodHRwczovL21lZGl1bS5jb20vbWVkaWEvODc1ZGZhYzhjMmI4NWViYTUyZThkMDE3MTQ2OTJiNTAvaHJlZiI+aHR0cHM6Ly9tZWRpdW0uY29tL21lZGlhLzg3NWRmYWM4YzJiODVlYmE1MmU4ZDAxNzE0NjkyYjUwL2hyZWY8L2E+PC9pZnJhbWU+CgpEbyB5b3UgaGF2ZSBhIHByZWZlcnJlZCBzbGlkZXIgY29tcG9uZW50PyBMZXQgbWUga25vdyBpbiB0aGUgY29tbWVudHPCoGJlbG93LgoKRmluZCBtb3JlIGFydGljbGVzIGF0IFtSZWxhdGFibGUgQ29kZV0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbSkKCl9PcmlnaW5hbGx5IHB1Ymxpc2hlZCBhdF8gW19odHRwczovL3JlbGF0YWJsZWNvZGUuY29tX10oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9ob3ctdG8tbWFrZS1hLXNpbXBsZS1zbGlkZXItY29tcG9uZW50LWluLXJlYWN0LykgX29uIE9jdG9iZXIgMTcswqAyMDIxLl8=
+# How to make a simple slider component in React
+
+
+![How to make a simple slider component in React](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103847988/IPmjdjoTV.png)
+
+A very common component to use in forms or to receive numeric input with a non-arbitrary range is to use a slider component. However, this can easily be done with some basic HTML and CSS whilst adding some react-y props.
+
+The basic usage can be implemented with a simple HTML Input. Something that is not readily apparent is that an input can be of various types. One of these is of type range.
+
+This is how it normally looks:
+
+![input](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468773024/QCAn5-eD9.png)
+
+HTML Input type range
+
+```
+<input type="range" />
+```
+
+However, while this may fulfill the slider component necessity there are a few things that limit it. We should add some styling and make it so the values of the min and max.
+
+### Styling
+
+Let’s dig into the CSS
+
+```
+input\[type='range'\] {  
+    -webkit-appearance: none;   
+    height: 7px;   
+    background: grey;   
+    border-radius: 5px;   
+    background-image: linear-gradient(#D46A6A, #D46A6A);   
+    background-repeat: no-repeat;   
+}
+```
+
+![input](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468774398/9vtA9QPJE.png)
+
+Bar Styled
+
+This first bit of styling is to target the bar targeting the color and shape:
+
+However it still looks a bit awkward with the circle being of a different color, we can target this portion with a selector: -webkit-slider-thumb
+
+```
+input\[type='range'\]::-webkit-slider-thumb {   
+   \-webkit-appearance: none;   
+   height: 20px;   
+   width: 20px;   
+   border-radius: 50%;   
+   background: #D46A6A;   
+   cursor: pointer;   
+   box-shadow: 0 0 2px 0 #555;   
+}
+```
+
+![input](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468775846/O2MZ5MpYr.png)
+
+Thumb Styled
+
+Simple enough we just make the circle a bit bigger and change the color to match the rest of the component.
+
+However its not very clear what part of the bar is being filled, so let’s change that by changing the track of the slider:
+
+```
+input\[type="range"\]::-webkit-slider-runnable-track {   
+   \-webkit-appearance: none;   
+   box-shadow: none;   
+   border: none;   
+   background: transparent;   
+}
+```
+
+But, we also need a way to calculator the current background size of the bar:
+
+```
+const \[value, setValue\] = useState(0);   
+   const MAX = 10;   
+   const getBackgroundSize = () => {   
+   return { 
+      backgroundSize: \`${(value \* 100) / MAX}% 100%\` 
+   }; 
+}; 
+```
+
+```
+<input type="range"   
+min="0"   
+max={MAX}   
+onChange={(e) => setValue(e.target.value)}   
+style={getBackgroundSize()} value={value}   
+/>
+```
+
+Let’s break down a few gaps of knowledge here. When an input is of type you have access to several different properties, two of which are min and max which set the two different ends of the slider.
+
+Essentially we’re just calculating the percentage size of the background color based on the value and possible max value.
+
+![input](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468777238/FNToB6YNm.png)
+
+Styled Background
+
+### Active Styling
+
+With the bar styled let’s focus on some UX enhancement, with some pseudo-classes we can make the thumb look a bit prettier to the user:
+
+```
+input\[type="range"\]::-webkit-slider-thumb:hover {   
+    box-shadow: #d46a6a50 0px 0px 0px 8px;   
+} 
+
+input\[type="range"\]::-webkit-slider-thumb:active {   
+    box-shadow: #d46a6a50 0px 0px 0px 11px;   
+    transition: box-shadow 350ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, left 350ms cubic- 
+    bezier(0.4, 0, 0.2, 1) 0ms, bottom 350ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;   
+}
+```
+
+As well as adding some transition styling to the thumb itself:
+
+```
+input\[type="range"\]::-webkit-slider-thumb {   
+// ...other styles;   
+    transition: background 0.3s ease-in-out;   
+}
+```
+
+And that’s it! Here is a fully working example:
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fcodesandbox.io%2Fembed%2Fk868o&amp;display_name=CodeSandbox&amp;url=https%3A%2F%2Fcodesandbox.io%2Fs%2Fk868o&amp;image=https%3A%2F%2Fcodesandbox.io%2Fapi%2Fv1%2Fsandboxes%2Fk868o%2Fscreenshot.png&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=codesandbox" width="1000" height="500" frameborder="0" scrolling="no"><a href="https://medium.com/media/875dfac8c2b85eba52e8d01714692b50/href">https://medium.com/media/875dfac8c2b85eba52e8d01714692b50/href</a></iframe>
+
+Do you have a preferred slider component? Let me know in the comments below.
+
+Find more articles at [Relatable Code](https://relatablecode.com)
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/how-to-make-a-simple-slider-component-in-react/) _on October 17, 2021._
