@@ -1,1 +1,164 @@
-IyMgSG93IHRvIG1pZ3JhdGUgQ3JlYXRlLVJlYWN0LUFwcCB0byBSZWFjdCB2ZXJzaW9uIDE4CgohW21pZ3JhdGUtcmVhY3QtYXBwXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MTEwMTU2NDA3MC85S0Qwc05lZzIucG5nKQoKIyMjIEludHJvZHVjdGlvbgoKUmVhY3QganVzdCByZWNlbnRseSBjYW1lIG91dCB3aXRoIGEgbmV3IHZlcnNpb24gb2YgdGhlaXIgbGlicmFyeTogUmVhY3QgdmVyc2lvbiAxOC4gSSBoYXZlIGEgZmV3IGFwcHMgdGhhdCBJ4oCZdmUgYmVlbiBtYWludGFpbmluZyBmb3IgYSB3aGlsZSBub3cgdGhhdCB3ZeKAmXJlIGJvb3RzdHJhcHBlZCB3aXRoIENyZWF0ZS1SZWFjdC1BcHAuIEnigJlsbCBnbyBvdmVyIGhvdyB0byBtaWdyYXRlIHRvIHZlcnNpb24gMTggYW5kIHRoZSBpc3N1ZXMgSSByYW4gaW50byBhbG9uZyB0aGUgd2F5LgoKW0hlcmVdKGh0dHBzOi8vcmVhY3Rqcy5vcmcvYmxvZy8yMDIyLzAzLzI5L3JlYWN0LXYxOC5odG1sKSB5b3UgY2FuIGZpbmQgdGhlIGxpc3Qgb2YgY2hhbmdlcyBmb3IgUmVhY3QgMTguCgpJIGFsc28gaGF2ZSBhIHNtYWxsIHdyaXRlLXVwIGZvciBteSB0aG91Z2h0cyBvbiBpdCBbaGVyZV0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLnN1YnN0YWNrLmNvbS9wL3JlYWN0LTE4LWZpbmFsbHktb3V0LWFuZC1uZXctY3NzP3M9dykuCgojIyMgQ3JlYXRlLVJlYWN0LUFwcCBtaWdyYXRpb24gdG8gUmVhY3QgdmVyc2lvbiAxOAoKVGhlIGFjdHVhbCBwcm9jZXNzIG9mIG1pZ3JhdGluZyBpcyBwcmV0dHkgcXVpY2suIExldOKAmXMgaW5zdGFsbCB0aGUgbmVjZXNzYXJ5IGRlcGVuZGVuY2llczoKCmBgYGJhc2gKeWFybiBhZGQgcmVhY3QgcmVhY3QtZG9tCmBgYAoKVGhlIHRlYW0gYmVoaW5kIGNyZWF0ZS1yZWFjdC1hcHAgYWxzbyBjYW1lIG91dCB3aXRoIHZlcnNpb24gNS4wLjEgdG8gaGVscCB0aGUgbWlncmF0aW9uIHByb2Nlc3MgYW5kIG1ha2UgYW55IG5ldyBhcHBzIGNvbWUgd2l0aCBpdCBvdXQgb2YgdGhlIGJveDoKCmBgYGJhc2gKbnBtIGluc3RhbGwgLS1zYXZlIC0tc2F2ZS1leGFjdCByZWFjdC1zY3JpcHRzQDUuMC4xIAoKb3IgCgp5YXJuIGFkZCAtLWV4YWN0IHJlYWN0LXNjcmlwdHNANS4wLjEKYGBgCgpJZiB5b3XigJlyZSB1c2luZyBUeXBlc2NyaXB0IGRvbuKAmXQgZm9yZ2V0IHRvIHVwZGF0ZSB5b3VyIHR5cGVzIG5vdCBvbmx5IGZvciBSZWFjdCBidXQgZm9yIGRpZmZlcmVudCAqKnRoaXJkLXBhcnR5KiogbGlicmFyaWVzLiBBIGxvdCBoYXZlIHVwZGF0ZWQgdGhlaXIgYXBwcy4KCmBgYGJhc2gKeWFybiBhZGQgQHR5cGVzL3JlYWN0IEB0eXBlcy9yZWFjdC1kb20gQHR5cGVzL25vZGUgLS1kZXYKYGBgCgojIyMgTWFuZGF0b3J5IGNoYW5nZXMKClRoZSBmaXJzdCB0aGluZyB3ZSBoYXZlIHRvIGRvIGlzIGNoYW5nZSBob3cgb3VyIHJvb3Qgbm9kZSBpcyBiZWluZyByZW5kZXJlZCBieSBSZWFjdC4gVGhlIF9maXJzdF8gY29kZSBibG9jayBpcyBob3cgaXQgb3JpZ2luYWxseSBsb29rcy4KCmBgYHRzCmltcG9ydCBSZWFjdERPTSBmcm9tICdyZWFjdC1kb20nOyAKaW1wb3J0IEFwcCBmcm9tICcuL0FwcCc7IAoKUmVhY3RET00ucmVuZGVyKCA8QXBwIC8+ICwgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKSApOwpgYGAKCk5vdyB3ZeKAmXJlIGdvaW5nIHRvIHVzZSB0aGUgbmV3bHkgYWRkZWQgKipjcmVhdGVSb290KiogZnVuY3Rpb246CgpgYGB0cwppbXBvcnQgeyBjcmVhdGVSb290IH0gZnJvbSAncmVhY3QtZG9tL2NsaWVudCc7IAppbXBvcnQgQXBwIGZyb20gJy4vQXBwJzsgCgpjb25zdCBjb250YWluZXIgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9vdCcpOyAKY29uc3Qgcm9vdCA9IGNyZWF0ZVJvb3QoY29udGFpbmVyKTsgCgpyb290LnJlbmRlcig8QXBwIC8+KTsKYGBgCgojIyMgQ3JlYXRlLVJlYWN0LUFwcCBtaWdyYXRpb24gdG8gUmVhY3QgdmVyc2lvbiAxODogVHlwZXNjcmlwdAoKSWYgeW91IGRvbuKAmXQgdXNlIFR5cGVzY3JpcHQgeW91IGNhbiBza2lwIHRoaXMgcG9ydGlvbi4KCkZpcnN0LCBsZXTigJlzIGNoZWNrIG91dCBob3cgbWFueSBlcnJvcnMgd2UgaGF2ZSB0byBkZWFsIHdpdGguIFRoaXMgd2lsbCB2YXJ5IGZyb20gcHJvamVjdCB0byBwcm9qZWN0IGRlcGVuZGluZyBvbiBob3cgbWFueSBpbmNvbXBhdGlibGUgdGhpcmQtcGFydHkgbGlicmFyaWVzIHlvdSBtYXkgaGF2ZSBidXQgdGhleeKAmWxsIGFsbCBiZSByZXNvbHZlZCBpbiBhIHNpbWlsYXIgZmFzaGlvbi4KClJ1biB0aGUgZm9sbG93aW5nIGNvbW1hbmQ6CgpPdWNoLCB3ZSBnb3QgMzYgZXJyb3JzIHRvIHJlc29sdmUuIEx1Y2tpbHkgbW9zdCBvZiB0aGVtIGFyZSB0aGUgc2FtZS4KCiFbMzYgZXJyb3JzXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MDU0NTE4MzE0MS92SDZ5MldFdGgucG5nKQoKSSB1c2UgW1NlbWFudGljIFVJXShodHRwczovL3JlYWN0LnNlbWFudGljLXVpLmNvbS8pIGluIHRoaXMgcHJvamVjdCBhbmQgdGhlcmUgd2VyZSBzZXZlcmFsIGVycm9ycyB3aXRoIHRoZSBVSSBSYWRpbyBjb21wb25lbnQuIEZvciBleGFtcGxlLCBJIGhhZCBhICoqc2V0VmlldyoqIGZ1bmN0aW9uIHRoYXQgdG9vayBpbiB0aGUgcGFyYW1ldGVycyBmcm9tIHRoZSAqKm9uQ2hhbmdlKiogcHJvcC4gRm9yIHNvbWUgcmVhc29uLCBJIGxvc3QgdGhlIHR5cGluZyBvbiB0aGUgKiplKiogYW5kICoqZGF0YSoqIHBhcmFtZXRlcnMuCgpgYGAKUGFyYW1ldGVyICdkYXRhJyBpbXBsaWNpdGx5IGhhcyBhbiAnYW55JyB0eXBlLiBvbkNoYW5nZT17KGUsIGRhdGEpID0+IHNldFZpZXcoZGF0YS52YWx1ZSBhcyBudW1iZXIpfQpgYGAKCkkgaGl0ICoqRjEyKiogKFdpbmRvd3MgdXNlcnMpIG9yIHJpZ2h0LWNsaWNraW5nIGFuZCBoZWFkaW5nIHRvIHRoZSBUeXBlIGRlZmluaXRpb24uIE9uIHRoZSBwcm9wIG9mIG9uQ2hhbmdlIHRvIGNoZWNrIG91dCB3aGF0IGl0IHNob3VsZCBiZSByZXR1cm5pbmcgYW5kIG1hbnVhbGx5IHNldCB0aGUgdHlwZXMgdG8gdGhlIGZ1bmN0aW9uLgoKIVt0eXBlc10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTA1NDUxODQyMDYvTm94RFF3ZzZfLnBuZykKCk1ha2Ugc3VyZSB0byBpbXBvcnQgdGhlIHR5cGUgZnJvbSB0aGUgbGlicmFyeSBhbmQgc2V0IHRoZSB0eXBlcyBpbnNpZGUgdGhlIGZ1bmN0aW9uIGl0c2VsZi4KCmBgYHRzCmltcG9ydCB0eXBlIHsgQ2hlY2tib3hQcm9wcyB9IGZyb20gJ3NlbWFudGljLXVpLXJlYWN0JzsKCgo8UmFkaW8gCi8vIG90aGVyIHByb3BzIApvbkNoYW5nZT17KGU6IFJlYWN0LkZvcm1FdmVudDxIVE1MSW5wdXRFbGVtZW50PiwgZGF0YTogQ2hlY2tib3hQcm9wcykgPT4geyAvLyB3aGF0ZXZlciB5b3VyIGZ1bmN0aW9uIGRvZXMgfSB9IAovPgpgYGAKCiMjIyBDcmVhdGUtUmVhY3QtQXBwIG1pZ3JhdGlvbiB0byBSZWFjdCB2ZXJzaW9uIDE4OiBTZW50cnkKCkkgYWxzbyB1c2UgdGhlIFNlbnRyeSBsaWJyYXJ5IHRvIHRyYWNrIGVycm9ycyBpbiBteSBwcm9qZWN0LiBbSGVyZeKAmXMgYSBxdWljayB3cml0ZS11cF0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9ob3ctdG8tcXVpY2tseS1hZGQtZXJyb3ItdHJhY2tpbmctd2l0aC1zZW50cnkvKSBvbiBob3cgdGhhdCB3b3Jrcy4gRm9yIHNlbnRyeSwgSSBnb3Qgc29tZSBlcnJvcnMgd2l0aCB0aGUgRXJyb3JCb3VuZGFyeSBjb21wb25lbnQuIFRoaXMgd2lsbCBwcm9iYWJseSBiZSBwYXRjaGVkIHVwIGJ1dCB3ZSBjYW4gZG8gaXQgYWhlYWQgb2YgdGltZSB1bnRpbCB0aGVuLgoKUmVhY3QgdmVyc2lvbiAxOCByZXF1aXJlcyBjaGlsZHJlbiB0byBiZSBleHBsaWNpdGx5IGRlY2xhcmVkIGluIHRoZSBwcm9wcywgaGVuY2UgdGhlIGVycm9yOgoKYGBgCmVycm9yIFRTMjc2OTogTm8gb3ZlcmxvYWQgbWF0Y2hlcyB0aGlzIGNhbGwuIE92ZXJsb2FkIDEgb2YgMiwgJyhwcm9wczogRXJyb3JCb3VuZGFyeVByb3BzIHwgUmVhZG9ubHk8RXJyb3JCb3VuZGFyeVByb3BzPik6IEVycm9yQm91bmRhcnknLCBnYXZlIHRoZSBmb2xsb3dpbmcgZXJyb3IuCmBgYAoKVGhhbmtmdWxseSwgdGhlcmXigJlzIGEgbGlicmFyeSBjYWxsZWQgcGF0Y2gtcGFja2FnZSB0aGF0IGFsbG93cyB1cyB0byBmaXggdGhpcyB1cC4gTGV04oCZcyBpbnN0YWxsIGl0LgoKYGBgYmFzaAp5YXJuIGFkZCBwYXRjaC1wYWNrYWdlIC0tZGV2CmBgYAoKQXMgYmVmb3JlIGxldOKAmXMgY2hlY2sgb3V0IHRoZSB0eXBlIGRlZmluaXRpb25zIGZvciB0aGUgRXJyb3JCb3VuZGFyeSBieSBzdGVwcGluZyBpbnRvIGl0LiBIaXR0aW5nIEYxMiBvciByaWdodC1jbGlja2luZyBhbmQgZ29pbmcgdG8gdGhlIFR5cGUgZGVmaW5pdGlvbi4KCiFbdHlwZSBkZWZpbml0aW9uXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MDU0NTE4NTM1OS9kQTQxUWo3d1MucG5nKQoKQXMgc3VzcGVjdGVkIHRoZSB0eXBlIGRvZXMgbm90IGhhdmUgdGhlIGNoaWxkcmVuIHByb3AuIExldOKAmXMgYWRkIGl0IGJ5IHNldHRpbmcgaXQgdG8gYSAqKlJlYWN0LlJlYWN0Tm9kZSoqLgoKYGBgdHMKZXhwb3J0IGRlY2xhcmUgdHlwZSBFcnJvckJvdW5kYXJ5UHJvcHMgPSB7IApjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlOwogLy8uLi5yZXN0IG9mIHRoZSB0eXBlLCBqdXN0IGlnbm9yZSBpdApgYGAKCkluIG9yZGVyIGZvciAqKnBhdGNoLXBhY2thZ2UqKiB0byByZWNvZ25pemUgdGhpcyBjaGFuZ2Ugd2Ugc2hvdWxkIHJ1biB0aGUgZm9sbG93aW5nIGNvbW1hbmQgaW4gb3VyIHRlcm1pbmFsOgoKYGBgYmFzaApucHggcGF0Y2gtcGFja2FnZSBAc2VudHJ5L3JlYWN0CmBgYAoKVGhpcyB3aWxsIGNyZWF0ZSBhIGZpbGUgaW4gb3VyIHByb2plY3QgaW5kaWNhdGluZyB0aGUgY2hhbmdlcyB3ZSBwYXRjaGVkIGluIHRoZSBsaWJyYXJ5LgoKYGBgCmRpZmYgLS1naXQgYS9ub2RlX21vZHVsZXMvQHNlbnRyeS9yZWFjdC90eXBlcy9lcnJvcmJvdW5kYXJ5LmQudHMgYi9ub2RlX21vZHVsZXMvQHNlbnRyeS9yZWFjdC90eXBlcy9lcnJvcmJvdW5kYXJ5LmQudHMKaW5kZXggNGUxZjMyNi4uNzc5ZTBlNyAxMDA2NDQgCi0tLSBhL25vZGVfbW9kdWxlcy9Ac2VudHJ5L3JlYWN0L3R5cGVzL2Vycm9yYm91bmRhcnkuZC50cyAKKysrIGIvbm9kZV9tb2R1bGVzL0BzZW50cnkvcmVhY3QvdHlwZXMvZXJyb3Jib3VuZGFyeS5kLnRzIApAQCAtOSw2ICs5LDcgQEAgZXhwb3J0IGRlY2xhcmUgdHlwZSBGYWxsYmFja1JlbmRlciA9IChlcnJvckRhdGE6IHsKIHJlc2V0RXJyb3IoKTogdm9pZDsKIH0pID0+IFJlYWN0LlJlYWN0RWxlbWVudDsgZXhwb3J0IGRlY2xhcmUgdHlwZSBFcnJvckJvdW5kYXJ5UHJvcHMgPSB7IAorIGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7IAovICoqSWYgYSBTZW50cnkgcmVwb3J0IGRpYWxvZyBzaG91bGQgYmUgcmVuZGVyZWQgb24gZXJyb3IgKi8gc2hvd0RpYWxvZz86IGJvb2xlYW47IAovKioKYGBgCgpUaGUgZmluYWwgc3RlcCBpcyB0byBhZGQgdGhlIGZvbGxvd2luZyBsaW5lIHRvIG91ciAqKnNjcmlwdHMqKiBpbiBvdXIgKipwYWNrYWdlLmpzb24qKi4KCmBgYAoic2NyaXB0cyI6IHsKIC8vIC4uLm90aGVyIHNjcmlwdHMgCiJwb3N0aW5zdGFsbCI6ICJwYXRjaC1wYWNrYWdlIiAKfQpgYGAKCiMjIyBTaWRlbm90ZQoKQXMgYSBzbWFsbCBhc2lkZSBpZiB0aGVyZSBhcmUgYW55IGxpYnJhcmllcyB5b3UgZG9u4oCZdCB3YW50IHRvIHBhdGNoIGFuZCBqdXN0IHdhbnQgdG8gaWdub3JlIHRoZSBlcnJvcnMgZm9yIHRoZSB0aW1lIGJlaW5nIHdoaWxlIHRoZSBtYWludGFpbmVycyBmaXggdGhlbSB1cC4gKE9yIGFsdGVybmF0aXZlbHksIHlvdSBjYW4gb3BlbiB1cCBhIFBSIHRvIGZpeCBpdCEg8J+YrCkgSnVzdCBhZGQgc29tZSB0cy1pZ25vcmUgdG8gdGhlIGZpbGUgcmlnaHQgYmVmb3JlIHRoZSBlcnJvcjoKCiMjIyBXcmFwcGluZyBpdCB1cAoKQ3JlYXRlLVJlYWN0LUFwcCBpcyBzdGlsbCB0aGUgbW9zdCB3aWRlbHkgdXNlZCBtZXRob2QgdG8gYm9vdHN0cmFwIFJlYWN0IGFwcHMgc28gYmVpbmcgYWJsZSB0byBtaWdyYXRlIGl0IGlzIHByZXR0eSBpbXBvcnRhbnQgZm9yIHNvbWUgdXNlcnMuIPCfmoAKCklmIHlvdSBsaWtlZCB0aGlzIGNoZWNrIG91dCBvdGhlciBwb3N0cyBsaWtlIHRoaXMgYXQgW1JlbGF0YWJsZSBDb2RlXShodHRwczovL3JlbGF0YWJsZWNvZGUuY29tKQoKSWYgeW91IGxpa2VkIHRoaXMgZmVlbCBmcmVlIHRvIGNvbm5lY3Qgd2l0aCBtZSBvbiBbTGlua2VkSW5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9yZWxhdGFibGVjb2RlKSBvciBbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVyLmNvbS9yZWxhdGFibGVjb2RlcikKCkNoZWNrIG91dCBteSBmcmVlIGRldmVsb3BlciByb2FkbWFwIGFuZCB3ZWVrbHkgdGVjaCBpbmR1c3RyeSBuZXdzIGluIG15IFtuZXdzbGV0dGVyXShodHRwczovL3JlbGF0YWJsZWNvZGUuc3Vic3RhY2suY29tLyku
+# How to migrate Create-React-App to React version 18
+
+![migrate-react-app](https://cdn.hashnode.com/res/hashnode/image/upload/v1651101564070/9KD0sNeg2.png)
+
+### Introduction
+
+React just recently came out with a new version of their library: React version 18. I have a few apps that I’ve been maintaining for a while now that we’re bootstrapped with Create-React-App. I’ll go over how to migrate to version 18 and the issues I ran into along the way.
+
+[Here](https://reactjs.org/blog/2022/03/29/react-v18.html) you can find the list of changes for React 18.
+
+I also have a small write-up for my thoughts on it [here](https://relatablecode.substack.com/p/react-18-finally-out-and-new-css?s=w).
+
+### Create-React-App migration to React version 18
+
+The actual process of migrating is pretty quick. Let’s install the necessary dependencies:
+
+```bash
+yarn add react react-dom
+```
+
+The team behind create-react-app also came out with version 5.0.1 to help the migration process and make any new apps come with it out of the box:
+
+```bash
+npm install --save --save-exact react-scripts@5.0.1 
+
+or 
+
+yarn add --exact react-scripts@5.0.1
+```
+
+If you’re using Typescript don’t forget to update your types not only for React but for different **third-party** libraries. A lot have updated their apps.
+
+```bash
+yarn add @types/react @types/react-dom @types/node --dev
+```
+
+### Mandatory changes
+
+The first thing we have to do is change how our root node is being rendered by React. The _first_ code block is how it originally looks.
+
+```ts
+import ReactDOM from 'react-dom'; 
+import App from './App'; 
+
+ReactDOM.render( <App /> , document.getElementById('root') );
+```
+
+Now we’re going to use the newly added **createRoot** function:
+
+```ts
+import { createRoot } from 'react-dom/client'; 
+import App from './App'; 
+
+const container = document.getElementById('root'); 
+const root = createRoot(container); 
+
+root.render(<App />);
+```
+
+### Create-React-App migration to React version 18: Typescript
+
+If you don’t use Typescript you can skip this portion.
+
+First, let’s check out how many errors we have to deal with. This will vary from project to project depending on how many incompatible third-party libraries you may have but they’ll all be resolved in a similar fashion.
+
+Run the following command:
+
+Ouch, we got 36 errors to resolve. Luckily most of them are the same.
+
+![36 errors](https://cdn.hashnode.com/res/hashnode/image/upload/v1650545183141/vH6y2WEth.png)
+
+I use [Semantic UI](https://react.semantic-ui.com/) in this project and there were several errors with the UI Radio component. For example, I had a **setView** function that took in the parameters from the **onChange** prop. For some reason, I lost the typing on the **e** and **data** parameters.
+
+```
+Parameter 'data' implicitly has an 'any' type. onChange={(e, data) => setView(data.value as number)}
+```
+
+I hit **F12** (Windows users) or right-clicking and heading to the Type definition. On the prop of onChange to check out what it should be returning and manually set the types to the function.
+
+![types](https://cdn.hashnode.com/res/hashnode/image/upload/v1650545184206/NoxDQwg6_.png)
+
+Make sure to import the type from the library and set the types inside the function itself.
+
+```ts
+import type { CheckboxProps } from 'semantic-ui-react';
+
+
+<Radio 
+// other props 
+onChange={(e: React.FormEvent<HTMLInputElement>, data: CheckboxProps) => { // whatever your function does } } 
+/>
+```
+
+### Create-React-App migration to React version 18: Sentry
+
+I also use the Sentry library to track errors in my project. [Here’s a quick write-up](https://relatablecode.com/how-to-quickly-add-error-tracking-with-sentry/) on how that works. For sentry, I got some errors with the ErrorBoundary component. This will probably be patched up but we can do it ahead of time until then.
+
+React version 18 requires children to be explicitly declared in the props, hence the error:
+
+```
+error TS2769: No overload matches this call. Overload 1 of 2, '(props: ErrorBoundaryProps | Readonly<ErrorBoundaryProps>): ErrorBoundary', gave the following error.
+```
+
+Thankfully, there’s a library called patch-package that allows us to fix this up. Let’s install it.
+
+```bash
+yarn add patch-package --dev
+```
+
+As before let’s check out the type definitions for the ErrorBoundary by stepping into it. Hitting F12 or right-clicking and going to the Type definition.
+
+![type definition](https://cdn.hashnode.com/res/hashnode/image/upload/v1650545185359/dA41Qj7wS.png)
+
+As suspected the type does not have the children prop. Let’s add it by setting it to a **React.ReactNode**.
+
+```ts
+export declare type ErrorBoundaryProps = { 
+children: React.ReactNode;
+ //...rest of the type, just ignore it
+```
+
+In order for **patch-package** to recognize this change we should run the following command in our terminal:
+
+```bash
+npx patch-package @sentry/react
+```
+
+This will create a file in our project indicating the changes we patched in the library.
+
+```
+diff --git a/node_modules/@sentry/react/types/errorboundary.d.ts b/node_modules/@sentry/react/types/errorboundary.d.ts
+index 4e1f326..779e0e7 100644 
+--- a/node_modules/@sentry/react/types/errorboundary.d.ts 
++++ b/node_modules/@sentry/react/types/errorboundary.d.ts 
+@@ -9,6 +9,7 @@ export declare type FallbackRender = (errorData: {
+ resetError(): void;
+ }) => React.ReactElement; export declare type ErrorBoundaryProps = { 
++ children: React.ReactNode; 
+/ **If a Sentry report dialog should be rendered on error */ showDialog?: boolean; 
+/**
+```
+
+The final step is to add the following line to our **scripts** in our **package.json**.
+
+```
+"scripts": {
+ // ...other scripts 
+"postinstall": "patch-package" 
+}
+```
+
+### Sidenote
+
+As a small aside if there are any libraries you don’t want to patch and just want to ignore the errors for the time being while the maintainers fix them up. (Or alternatively, you can open up a PR to fix it! 😬) Just add some ts-ignore to the file right before the error:
+
+### Wrapping it up
+
+Create-React-App is still the most widely used method to bootstrap React apps so being able to migrate it is pretty important for some users. 🚀
+
+If you liked this check out other posts like this at [Relatable Code](https://relatablecode.com)
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/relatablecode) or [Twitter](https://twitter.com/relatablecoder)
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
