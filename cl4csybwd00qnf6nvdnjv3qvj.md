@@ -1,1 +1,118 @@
-IyMgVGVzdGluZyBhIFJlYWN0aW9uIEFwcGxpY2F0aW9uIHVwZGF0aW5nIHRvIEN5cHJlc3MgVmVyc2lvbiAxMAoKIyMjIEludHJvZHVjdGlvbgoKSW4gdGhlIGxhc3QgYXJ0aWNsZSBvZiB0aGlzIHNlcmllcywgd2Ugd2VudCBvdmVyIGhvdyB0byBjcmVhdGUgYSB0ZXN0IHdpdGggQ3lwcmVzcywgYW4gZW5kLXRvLWVuZCB0ZXN0aW5nIGZyYW1ld29yay4gQ2hlY2sgaXQgb3V0IFtoZXJlXShodHRwczovL3JlbGF0YWJsZWNvZGUuY29tL3Rlc3RpbmctYS1yZWFjdC1hcHBsaWNhdGlvbi1jcmVhdGluZy1hLWN5cHJlc3MtdGVzdCkuIEN5cHJlc3MgaXMgYSBmZWF0dXJlZnVsIGZyYW1ld29yayB0aGF0IGhhcyBvbmx5IGltcHJvdmVkIHdpdGggaXRzIG5ldyB2ZXJzaW9uLCBhbmQgaXRzIG1haW4gdmlldyBnb3QgYSBtYWtlb3ZlciB0byBnaXZlIGl0IGEgbW9yZSBtb2Rlcm4gbG9vay4KCiFbbmV3IEN5cHJlc3Mgc2NyZWVuXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1NTA0NjI5ODQxMi9hVE5xWFNqd24ucG5nIGFsaWduPSJsZWZ0IikKCkxldCdzIGJyaWVmbHkgZ28gb3ZlciB0aGUgc21hbGwgYmFyZWJvbmVzIGFwcGxpY2F0aW9uIHdlJ3ZlIG1hZGUgdXAgdG8gdGhpcyBwb2ludC4KCldoZW4gY2xpY2tpbmcgb24gYSBidXR0b24gaXQgZmV0Y2hlcyBwb3N0cyBmcm9tIGEgc2VydmljZSBhbmQgZGlzcGxheXMgdGhlbSBvbiB0aGUgcGFnZToKCiFbQ3lwcmVzcyB0ZXN0XShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1NTA0NTcyMzA4NC9sZnZnMXNQbm4ucG5nIGFsaWduPSJsZWZ0IikKCkZvciByZWZlcmVuY2UsIHlvdSBjYW4gZmluZCB0aGUgcmVwb3NpdG9yeSBbaGVyZV0oaHR0cHM6Ly9naXRodWIuY29tL2RpYmFsbGVzdGVyb3MvcmVhY3QtdGVzdGluZykuCgojIyMgVXBkYXRpbmcgQ3lwcmVzcwoKRmlyc3QsIGxldCdzIGdvIGFoZWFkIGFuZCB1cGRhdGUgb3VyIEN5cHJlc3MgcGFja2FnZS4gSWYgdGhpcyBpcyB5b3VyIGZpcnN0IHRpbWUgdXNpbmcgQ3lwcmVzcywgaXQnbGwgYWxzbyBpbnN0YWxsIGl0LgoKYGBgYmFzaAp5YXJuIGFkZCBjeXByZXNzIC0tZGV2CmBgYAoKb3IgaWYgeW91J3JlIHVzaW5nIGBucG1gIGZpcnN0IHVuaW5zdGFsbCBpdCB0aGVuIHJlLWluc3RhbGwgaXQuIEkndmUgaGFkIGlzc3VlcyB3aXRoIHVwZGF0aW5nIHRoZSBwYWNrYWdlIHNvIEkgcHJlZmVyIHJlaW5zdGFsbGluZyBpdCBmcmVzaC4gSWYgc29tZW9uZSBpbiB0aGUgY29tbWVudHMgaGFzIGEgYmV0dGVyIHdheSBwbGVhc2UgbGV0IG1lIGtub3chCgpgYGBiYXNoCm5wbSB1bmluc3RhbGwgY3lwcmVzcwpucG0gaW5zdGFsbCBjeXByZXNzIC0tc2F2ZS1kZXYKYGBgCgpUaGlzIHNob3VsZCB1cGRhdGUgQ3lwcmVzcyB0byBpdHMgbmV3ZXN0IHZlcnNpb24gMTAuIEFzIG9mIHRoaXMgYXJ0aWNsZSwgdGhpcyBpcyB2ZXJzaW9uIDEwLjEuMC4gSWYgeW91IGFyZSBoYXZpbmcgY29tcGF0aWJpbGl0eSBpc3N1ZXMgd2hpbGUgcmVhZGluZyB0aGlzIGFydGljbGUgSSBzdWdnZXN0IGNoZWNraW5nIG91dCB0aGUgb2ZmaWNpYWwgW0N5cHJlc3MgY2hhbmdlbG9nXShodHRwczovL2RvY3MuY3lwcmVzcy5pby9ndWlkZXMvcmVmZXJlbmNlcy9jaGFuZ2Vsb2cpLgoKRWFzeSBlbm91Z2guIE5vdyBsZXQncyBoZWFkIGludG8gdGhlIGJyZWFraW5nIGNoYW5nZXMuCgojIyMgQ3lwcmVzcyBDb25maWd1cmF0aW9uIGZpbGUKCkxldCdzIHRyeSBydW5uaW5nIEN5cHJlc3MuCgpgYGBqcwpucG0gcnVuIGRldgpucG0gcnVuIHRlc3QtZTJlCmBgYAoKSWYgeW91IHN0aWxsIGhhdmUgY3lwcmVzcyBvcGVuIHlvdSdsbCBub3RpY2UgYSBzaW1pbGFyIGVycm9yOgoKIVtDeXByZXNzIGNvbmZpZ3VyYXRpb24gZmlsZSBlcnJvcl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTUwNDgzNTk0MzcvQ3ZjNmI2SWZCLnBuZyBhbGlnbj0ibGVmdCIpCgpDeXByZXNzIG5vdyB1c2VzIGEgZGlmZmVyZW50IGNvbmZpZ3VyYXRpb24gZmlsZS4gTGV0J3MgZGVsZXRlIG91ciBgY3lwcmVzcy5qc29uYCBhbmQgY3JlYXRlIGEgbmV3IGBjeXByZXNzLmNvbmZpZy5qc2AKClRoaXMgbmV3IGZpbGUgaGFzIGEgYGRlZmluZUNvbmZpZ2AgZnVuY3Rpb24gdGhhdCB3aWxsIGNvbnRhaW4gYWxsIG9mIG91ciBvbGQgb3B0aW9ucy4gV2hpY2ggaW4gdGhpcyBjYXNlIHdhcyBqdXN0IHRoZSBgYmFzZVVybGAgb3B0aW9uLgoKYGBganMKY29uc3QgeyBkZWZpbmVDb25maWcgfSA9IHJlcXVpcmUoJ2N5cHJlc3MnKTsKCm1vZHVsZS5leHBvcnRzID0gZGVmaW5lQ29uZmlnKHsKCWUyZTogewoJCWJhc2VVcmw6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAnLAogICAgICAgIHNwZWNQYXR0ZXJuOiAnY3lwcmVzcy9pbnRlZ3JhdGlvbi8qKi8qLnNwZWMudHMnLAoJfSwKfSk7CmBgYAoKTm93IHdlJ2xsIGdldCB0aGUgbmV3IG1vZGVybiBzY3JlZW46CgohW25ldyBDeXByZXNzIHNjcmVlbl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTUwNDg2NjMzODUvNXNmWTFMdzdDLnBuZyBhbGlnbj0ibGVmdCIpCgoKIyMjIFJlc29sdmluZyBlcnJvcnMKCldlJ2xsIGdldCBtZXQgd2l0aCBvdXIgZmlyc3QgZXJyb3Igd2hlbiB3ZSBjbGljayBvbiB0aGUgZW5kLXRvLWVuZCB0ZXN0aW5nIG9wdGlvbjoKCiFbQ3lwcmVzcyBlcnJvciBubyBzdXBwb3J0RmlsZV0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTUwNTAzODIyMjMvdnpJZmVUelRELnBuZyBhbGlnbj0ibGVmdCIpCgpUaGlzIGlzIHNpbXBsZSwgaGVhZCBpbnRvIHlvdXIgQ3lwcmVzcyBkaXJlY3RvcnkgYW5kIHJlbmFtZSBgY3lwcmVzcy9zdXBwb3J0L2luZGV4LmpzYCB0byBgY3lwcmVzcy9zdXBwb3J0L2UyZS5qc2AKCiFbQ3lwcmVzcyBjaG9vc2luZyBhIGJyb3dzZXJdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjU1MDUwOTI2NTU1L0lSWXNFWGVxUy5wbmcgYWxpZ249ImxlZnQiKQoKTm93IHdlIGNhbiBjaG9vc2UgYSBicm93c2VyIHRvIGxhdW5jaCBvdXIgdGVzdHMuIExldCdzIHN0YXJ0IHRlc3RpbmcgaW4gQ2hyb21lLiBXaGVuIHdlIGNsaWNrIG9uIGl0IHdlJ2xsIHNlZSB0aGUgb3B0aW9uIHRvIGNyZWF0ZSBvdXIgZmlyc3Qgc3BlYy4gQnV0IHdhaXQsIHdoZXJlIGRpZCBhbGwgb2Ygb3VyIG9sZCB0ZXN0IGZpbGVzIGdvPwoKIVtDeXByZXNzIGNyZWF0ZSBmaXJzdCB0ZXN0XShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1NTA1MTAwMjI5MC9TSjZOZ1NKUTQucG5nIGFsaWduPSJsZWZ0IikKCmlmIHdlIGNsaWNrIG9uICoqVmlldyBzcGVjIHBhdHRlcm4qKiB3ZSdsbCBzZWUgaG93IGl0J3MgbG9va2luZyBmb3IgdGVzdHMuCgohW2N5cHJlc3MgdmlldyBzcGVjIHBhdHRlcm5dKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjU1MDUxMDM3NjU4L0ZpNUpnajdUMi5wbmcgYWxpZ249ImxlZnQiKQoKTG9va3MgbGlrZSBDeXByZXNzIG5vdyBkZWZhdWx0cyB0byB0aGUgYCoqLmN5Lntqcyxqc3gsdHMsdHN4fWAgZXh0ZW5zaW9ucy4gTGV0J3MganVzdCB1cGRhdGUgdGhlIHNwZWMgcGF0dGVybiBmb3IgdGhlIHNha2Ugb2Ygb3VyIGV4YW1wbGUgcHJvamVjdC4gSW4gb3VyIEN5cHJlc3MgY29uZmlndXJhdGlvbiBmaWxlIGxldCdzIGFkZCBhIG5ldyBgc3BlY1BhdHRlcm5gIHByb3BlcnR5LgoKYGBganMKY29uc3QgeyBkZWZpbmVDb25maWcgfSA9IHJlcXVpcmUoJ2N5cHJlc3MnKTsKCm1vZHVsZS5leHBvcnRzID0gZGVmaW5lQ29uZmlnKHsKCWUyZTogewoJCWJhc2VVcmw6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAnLAogICAgICAgIHNwZWNQYXR0ZXJuOiAnY3lwcmVzcy9pbnRlZ3JhdGlvbi8qKi8qLnNwZWMuanMnLAoJfSwKfSk7CmBgYApOb3cgd2UnbGwgc2VlIGFsbCBvZiBvdXIgdGVzdHMgYWdhaW4hCgohW0N5cHJlc3MgdGVzdCBsaXN0XShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1NTA1MTI0NjczNy9aYVpMTTVFOUoucG5nIGFsaWduPSJsZWZ0IikKCldlIGNhbiBub3cgcnVuIG91ciB0ZXN0cyBhcyBub3JtYWwuCgojIyMjIFNvbWUgY2xlYW4tdXAKCldlIGNhbiBhbHNvIGRlbGV0ZSBvdXIgYHBsdWdpbnNgIGZvbGRlciBpbnNpZGUgb3VyIGBjeXByZXNzYCBmb2xkZXIgYXMgaXQgaXMgbm8gbG9uZ2VyIG5lZWRlZC4KCiMjIyBXcmFwcGluZyBpdCB1cAoKRHVlIHRvIEN5cHJlc3MnIG5ldyB2ZXJzaW9uLCBJIGRlY2lkZWQgaXQgd2FzIGJlc3QgdG8gZmlyc3QgdXBkYXRlIG91ciB2ZXJzaW9uLiBOZXh0IHRpbWUgd2UnbGwgY292ZXIgd2hhdCBJIGhhZCB0byBkZWxheSwgaG9va2luZyB1cCBvdXIgdGVzdGluZyBmcmFtZXdvcmtzIHdpdGggYSBjb2RlIGNvdmVyYWdlIGZ1bmN0aW9uYWxpdHkuCgojIyMgTGV0J3MgY29ubmVjdAoKSWYgeW91IGxpa2VkIHRoaXMgZmVlbCBmcmVlIHRvIGNvbm5lY3Qgd2l0aCBtZSBvbiBbTGlua2VkSW5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9yZWxhdGFibGVjb2RlKSBvciBbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVyLmNvbS9yZWxhdGFibGVjb2RlcikKCkNoZWNrIG91dCBteSBmcmVlIGRldmVsb3BlciByb2FkbWFwIGFuZCB3ZWVrbHkgdGVjaCBpbmR1c3RyeSBuZXdzIGluIG15IFtuZXdzbGV0dGVyXShodHRwczovL3JlbGF0YWJsZWNvZGUuc3Vic3RhY2suY29tLykuCgo=
+# Testing a Reaction Application updating to Cypress Version 10
+
+### Introduction
+
+In the last article of this series, we went over how to create a test with Cypress, an end-to-end testing framework. Check it out [here](https://relatablecode.com/testing-a-react-application-creating-a-cypress-test). Cypress is a featureful framework that has only improved with its new version, and its main view got a makeover to give it a more modern look.
+
+![new Cypress screen](https://cdn.hashnode.com/res/hashnode/image/upload/v1655046298412/aTNqXSjwn.png align="left")
+
+Let's briefly go over the small barebones application we've made up to this point.
+
+When clicking on a button it fetches posts from a service and displays them on the page:
+
+![Cypress test](https://cdn.hashnode.com/res/hashnode/image/upload/v1655045723084/lfvg1sPnn.png align="left")
+
+For reference, you can find the repository [here](https://github.com/diballesteros/react-testing).
+
+### Updating Cypress
+
+First, let's go ahead and update our Cypress package. If this is your first time using Cypress, it'll also install it.
+
+```bash
+yarn add cypress --dev
+```
+
+or if you're using `npm` first uninstall it then re-install it. I've had issues with updating the package so I prefer reinstalling it fresh. If someone in the comments has a better way please let me know!
+
+```bash
+npm uninstall cypress
+npm install cypress --save-dev
+```
+
+This should update Cypress to its newest version 10. As of this article, this is version 10.1.0. If you are having compatibility issues while reading this article I suggest checking out the official [Cypress changelog](https://docs.cypress.io/guides/references/changelog).
+
+Easy enough. Now let's head into the breaking changes.
+
+### Cypress Configuration file
+
+Let's try running Cypress.
+
+```js
+npm run dev
+npm run test-e2e
+```
+
+If you still have cypress open you'll notice a similar error:
+
+![Cypress configuration file error](https://cdn.hashnode.com/res/hashnode/image/upload/v1655048359437/Cvc6b6IfB.png align="left")
+
+Cypress now uses a different configuration file. Let's delete our `cypress.json` and create a new `cypress.config.js`
+
+This new file has a `defineConfig` function that will contain all of our old options. Which in this case was just the `baseUrl` option.
+
+```js
+const { defineConfig } = require('cypress');
+
+module.exports = defineConfig({
+	e2e: {
+		baseUrl: 'http://localhost:3000',
+        specPattern: 'cypress/integration/**/*.spec.ts',
+	},
+});
+```
+
+Now we'll get the new modern screen:
+
+![new Cypress screen](https://cdn.hashnode.com/res/hashnode/image/upload/v1655048663385/5sfY1Lw7C.png align="left")
+
+
+### Resolving errors
+
+We'll get met with our first error when we click on the end-to-end testing option:
+
+![Cypress error no supportFile](https://cdn.hashnode.com/res/hashnode/image/upload/v1655050382223/vzIfeTzTD.png align="left")
+
+This is simple, head into your Cypress directory and rename `cypress/support/index.js` to `cypress/support/e2e.js`
+
+![Cypress choosing a browser](https://cdn.hashnode.com/res/hashnode/image/upload/v1655050926555/IRYsEXeqS.png align="left")
+
+Now we can choose a browser to launch our tests. Let's start testing in Chrome. When we click on it we'll see the option to create our first spec. But wait, where did all of our old test files go?
+
+![Cypress create first test](https://cdn.hashnode.com/res/hashnode/image/upload/v1655051002290/SJ6NgSJQ4.png align="left")
+
+if we click on **View spec pattern** we'll see how it's looking for tests.
+
+![cypress view spec pattern](https://cdn.hashnode.com/res/hashnode/image/upload/v1655051037658/Fi5Jgj7T2.png align="left")
+
+Looks like Cypress now defaults to the `**.cy.{js,jsx,ts,tsx}` extensions. Let's just update the spec pattern for the sake of our example project. In our Cypress configuration file let's add a new `specPattern` property.
+
+```js
+const { defineConfig } = require('cypress');
+
+module.exports = defineConfig({
+	e2e: {
+		baseUrl: 'http://localhost:3000',
+        specPattern: 'cypress/integration/**/*.spec.js',
+	},
+});
+```
+Now we'll see all of our tests again!
+
+![Cypress test list](https://cdn.hashnode.com/res/hashnode/image/upload/v1655051246737/ZaZLM5E9J.png align="left")
+
+We can now run our tests as normal.
+
+#### Some clean-up
+
+We can also delete our `plugins` folder inside our `cypress` folder as it is no longer needed.
+
+### Wrapping it up
+
+Due to Cypress' new version, I decided it was best to first update our version. Next time we'll cover what I had to delay, hooking up our testing frameworks with a code coverage functionality.
+
+### Let's connect
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/relatablecode) or [Twitter](https://twitter.com/relatablecoder)
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
+
