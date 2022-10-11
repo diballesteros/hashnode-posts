@@ -1,1 +1,83 @@
-IyMgU2F5IGdvb2RieWUgdG8gWWFybiBhbmQgc2F5IGhlbGxvIHRvIFBOUE0KCiFbc2F5IGdvb2RieWUgdG8geWFybiBhbmQgc2F5IGhlbGxvIHRvIHBucG1dKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUxMTAxNjQyMjc1L0ppM3JjQVlEWC5wbmcpCgojIyMgSW50cm9kdWN0aW9uCgpQTlBNIGlzIGEgcGFja2FnZSBtYW5hZ2VyIHRoYXQgSSBoYXZlIHNlZW4gZmxvYXRpbmcgYXJvdW5kIGZvciBxdWl0ZSBzb21lIHRpbWUgbm93LiBJdOKAmXMgdGFnZ2VkIGFzIGEg4oCcZmFzdCwgZGlzayBzcGFjZS1lZmZpY2llbnQgcGFja2FnZSBtYW5hZ2Vy4oCdLiBCdXQgaW4gd2hhdCB3YXlzPyBXZWxsLCBsZXTigJlzIHRha2UgdGhlIHF1b3RlIHN0cmFpZ2h0IGZyb20gdGhlbSBhcyB3ZWxsLgoKPiBGaWxlcyBpbnNpZGUgbm9kZVxfbW9kdWxlcyBhcmUgbGlua2VkIGZyb20gYSBzaW5nbGUgY29udGVudCBhZGRyZXNzYWJsZSBzdG9yYWdlCgo+IFtfaHR0cHM6Ly9wbnBtLmlvL19dKGh0dHBzOi8vcG5wbS5pby8pCgpDb29sIHNvIGFsbCBwcm9qZWN0cyBzaGFyZSB0aGUgc2FtZSBub2RlXF9tb2R1bGVzLiBCdXTigKYuIGxldOKAmXMgbWFrZSB0aGlzIG1vcmUgaW50ZXJlc3RpbmcuIEnigJlsbCB0YWtlIGEgc21hbGwgZm9sZGVyIEkgaGF2ZSB3aXRoIDUgcHJvamVjdHMgb3Igc28uIEhvb2sgaXQgdXAgdG8gKipwbnBtKiogYW5kIHNlZSB0aGUgc2l6ZSBkaWZmZXJlbmNlLgoKIyMjIEhvdyB0byB1c2UgUE5QTQoKTGV04oCZcyB1c2UgbnBtIHRvIGluc3RhbGwgcG5wbS4g8J+YiAoKYGBgYmFzaApucG0gaW5zdGFsbCAtZyBwbnBtQG5leHQtNwpgYGAKCkFuZCB0aGUgY29tbWFuZHMgYXJlIGV4YWN0bHkgdGhlIHNhbWUgYnV0IHdpdGggYSDwn4W/CgojIyMgSW5pdGlhbCBzdGVwcyBmb3IgUE5QTQoKIVtzaXplXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0OTI0NzkxNzE4OC83MjJDMUdWWjYucG5nKQoKQWxyaWdodCwgd2UgaGF2ZSBhbiBpbml0aWFsIHNpemUgb2YgMS44NEdCIG9uIHRoZSBkaXNrLiBMZXTigJlzIHNlZSBob3cgbXVjaCB3ZSBjYW4gbG93ZXIgdGhpcyBkb3duLgoKIVtzaXplXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0OTI0NzkxODI0NC9sR3FBT0ctZWkuZ2lmKQoKVG9vayBsaWtlIDUgbWludXRlcyBmb3IgU1NEIHRvIGRlbGV0ZSB0aGUgbm9kZVxfbW9kdWxlcyBmb2xkZXJzIGZvciB0aG9zZSBwcm9qZWN0cy4KCkFscmlnaHQsIG5vdyB3ZSBjYW4gZ2V0IHN0YXJ0ZWQgZm9yIHJlYWwuIEluIHRoZSB0ZXJtaW5hbCBJIGp1c3QgaGF2ZSB0byBleGVjdXRlOgoKYGBgYmFzaApwbnBtIGluc3RhbGwKYGBgCgpCdXQgaXQgZmFpbGVkIG9uIHRoZSAqKnBvc3RpbnN0YWxsKiogc2NyaXB0IHBoYXNlLCB3aXRoIHRoZSBmb2xsb3dpbmcgZXJyb3I6CgpgYGAK4pSCIGd5cCB2ZXJiIGNoZWNrIHB5dGhvbiBjaGVja2luZyBmb3IgUHl0aG9uIGV4ZWN1dGFibGUgInB5dGhvbjIiIGluIHRoZSBQQVRICuKUgiBneXAgdmVyYiBgd2hpY2hgIGZhaWxlZCBFcnJvcjogbm90IGZvdW5kOiBweXRob24yIArilIIgZ3lwIHZlcmIgYHdoaWNoYCBmYWlsZWQgYXQgZ2V0Tm90Rm91bmRFcnJvciAoQwpgYGAKCkFwcGFyZW50bHksIEkgZGlkbuKAmXQgaGF2ZSBteSBQeXRob24gZW52aXJvbm1lbnQgdmFyaWFibGUgc2V0IQoKIVtweXRob25dKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ5MjQ3OTE5NDQ5L2VKWXI1WWlCaC5wbmcpCgpBbHJpZ2h0LCB0aGlzIHRpbWUgaXMgYSBzdWNjZXNzOgoKIVtzdWNjZXNzXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0OTI0NzkyMDYxNy8wOXZHdUVfaTdnLnBuZykKCkFuZCB3ZSBnZXQgYSBwbnBtIGxvY2sgZmlsZToKCiFbcG5wbSBsb2NrIGZpbGVdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ5MjQ3OTIxODM4Lzc2NTFFZV84ZS5wbmcpCgpCdXQgaXQgZG9lcyBzZWVtIHRvIGdpdmUgbWUgYSBjcml0aWNhbC1sb29raW5nIGVycm9yIG1lc3NhZ2UgZm9yIG5vdCBoYXZpbmcgYSBwZWVyIGRlcGVuZGVuY3kuIFJlZ2FyZGxlc3MgSeKAmWxsIHF1aWNrbHkgZG8gdGhlIG90aGVyIHByb2plY3RzLgoKQW5kIEkgZW5kZWQgdXAgc2F2aW5nOgoKIVtzaXplIHNhdmVkXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0OTI0NzkyMzA3MC9pV2NQQldjeS0ucG5nKQoKVGhpcyBtYXkgbm90IHNlZW0gbGlrZSBtdWNoIGJ1dCB0aGVzZSB3ZXJlIGp1c3QgNSBsb29zZWx5IHJlbGF0ZWQgcHJvamVjdHMuIE11bHRpcGxpZWQgYWNyb3NzIHRoZSBlbnRpcmV0eSBvZiBteSBsb2NhbCByZXBvc2l0b3JpZXMgYW5kIEkgY291bGQgYmUgc2F2aW5nIGEgbG90IG1vcmUuIEFub3RoZXIgaW1wb3J0YW50IHRoaW5nIHRvIG5vdGUgaXMgdGhhdCBpdCBmZWVscyBmYXN0ZXIgYW5kIHRoZSBsb2dzIGZyb20gdGhlIGluc3RhbGxhdGlvbiB3ZXJlIGVhc2llciBvbiB0aGUgZXllcy4KClRoaXMgYmVuZWZpdCBpcyBldmVuIGxhcmdlciBpbiBjb21wYW5pZXMgb3Igd29ya3NwYWNlcyB3aXRoIGEgdG9uIG9mIHByb2plY3RzIHdpdGggc2ltaWxhciBkZXBlbmRlbmNpZXMuIPCfmI4KCiMjIyBDb25jbHVzaW9uCgpUaGlzIHdhcyBqdXN0IGEgdmVyeSBzdXJmYWNlLWxldmVsIG92ZXJ2aWV3IG9mIHBucG0uIFtUaGVpciBwYWdlXShodHRwczovL3BucG0uaW8vcG5wbS1jbGkpIGNvbnRpbnVlcyBhIHRvbiBtb3JlIGluZm9ybWF0aW9uIG9uIGV2ZXJ5dGhpbmcgaXQgd2FzIHRvIG9mZmVyLgoKV2hhdOKAmXMgeW91ciBnby10byBwYWNrYWdlIG1hbmFnZXI/IFlhcm4sIG5wbSwgcG5wbT8gU29tZXRoaW5nIGVsc2UgZW50aXJlbHk/CgpNb3JlIGNvbnRlbnQgYXQgW1JlbGF0YWJsZSBDb2RlXShodHRwczovL3JlbGF0YWJsZWNvZGUuY29tKQoKSWYgeW91IGxpa2VkIHRoaXMgZmVlbCBmcmVlIHRvIGNvbm5lY3Qgd2l0aCBtZSBvbiBbTGlua2VkSW5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9yZWxhdGFibGVjb2RlKSBvciBbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVyLmNvbS9yZWxhdGFibGVjb2RlcikKCkNoZWNrIG91dCBteSBmcmVlIGRldmVsb3BlciByb2FkbWFwIGFuZCB3ZWVrbHkgdGVjaCBpbmR1c3RyeSBuZXdzIGluIG15IFtuZXdzbGV0dGVyXShodHRwczovL3JlbGF0YWJsZWNvZGUuc3Vic3RhY2suY29tLykuCgpfT3JpZ2luYWxseSBwdWJsaXNoZWQgYXRfIFtfaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbV9dKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20vc2F5LWdvb2RieWUtdG8teWFybi1hbmQtc2F5LWhlbGxvLXRvLXBucG0vKSBfb24gQXByaWwgNiwgMjAyMi5f
+# Say goodbye to Yarn and say hello to PNPM
+
+![say goodbye to yarn and say hello to pnpm](https://cdn.hashnode.com/res/hashnode/image/upload/v1651101642275/Ji3rcAYDX.png)
+
+### Introduction
+
+PNPM is a package manager that I have seen floating around for quite some time now. It’s tagged as a “fast, disk space-efficient package manager”. But in what ways? Well, let’s take the quote straight from them as well.
+
+> Files inside node\_modules are linked from a single content addressable storage
+
+> [_https://pnpm.io/_](https://pnpm.io/)
+
+Cool so all projects share the same node\_modules. But…. let’s make this more interesting. I’ll take a small folder I have with 5 projects or so. Hook it up to **pnpm** and see the size difference.
+
+### How to use PNPM
+
+Let’s use npm to install pnpm. 😈
+
+```bash
+npm install -g pnpm@next-7
+```
+
+And the commands are exactly the same but with a 🅿
+
+### Initial steps for PNPM
+
+![size](https://cdn.hashnode.com/res/hashnode/image/upload/v1649247917188/722C1GVZ6.png)
+
+Alright, we have an initial size of 1.84GB on the disk. Let’s see how much we can lower this down.
+
+![size](https://cdn.hashnode.com/res/hashnode/image/upload/v1649247918244/lGqAOG-ei.gif)
+
+Took like 5 minutes for SSD to delete the node\_modules folders for those projects.
+
+Alright, now we can get started for real. In the terminal I just have to execute:
+
+```bash
+pnpm install
+```
+
+But it failed on the **postinstall** script phase, with the following error:
+
+```
+│ gyp verb check python checking for Python executable "python2" in the PATH
+│ gyp verb `which` failed Error: not found: python2 
+│ gyp verb `which` failed at getNotFoundError (C
+```
+
+Apparently, I didn’t have my Python environment variable set!
+
+![python](https://cdn.hashnode.com/res/hashnode/image/upload/v1649247919449/eJYr5YiBh.png)
+
+Alright, this time is a success:
+
+![success](https://cdn.hashnode.com/res/hashnode/image/upload/v1649247920617/09vGuE_i7g.png)
+
+And we get a pnpm lock file:
+
+![pnpm lock file](https://cdn.hashnode.com/res/hashnode/image/upload/v1649247921838/7651Ee_8e.png)
+
+But it does seem to give me a critical-looking error message for not having a peer dependency. Regardless I’ll quickly do the other projects.
+
+And I ended up saving:
+
+![size saved](https://cdn.hashnode.com/res/hashnode/image/upload/v1649247923070/iWcPBWcy-.png)
+
+This may not seem like much but these were just 5 loosely related projects. Multiplied across the entirety of my local repositories and I could be saving a lot more. Another important thing to note is that it feels faster and the logs from the installation were easier on the eyes.
+
+This benefit is even larger in companies or workspaces with a ton of projects with similar dependencies. 😎
+
+### Conclusion
+
+This was just a very surface-level overview of pnpm. [Their page](https://pnpm.io/pnpm-cli) continues a ton more information on everything it was to offer.
+
+What’s your go-to package manager? Yarn, npm, pnpm? Something else entirely?
+
+More content at [Relatable Code](https://relatablecode.com)
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/relatablecode) or [Twitter](https://twitter.com/relatablecoder)
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/say-goodbye-to-yarn-and-say-hello-to-pnpm/) _on April 6, 2022._
