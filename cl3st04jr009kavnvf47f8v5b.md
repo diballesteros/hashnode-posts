@@ -1,1 +1,84 @@
-IyMgSmF2YVNjcmlwdCBMZWV0Q29kZSBWYWxpZCBBbmFncmFtCgojIyMjIFByb21wdAoKR2l2ZW4gdHdvIHN0cmluZ3PCoGBzYMKgYW5kwqBgdGAsIHJldHVybsKgYHRydWVgwqAqaWYqwqBgdGDCoCppcyBhbiBhbmFncmFtIG9mKsKgYHNgKiwgYW5kKsKgYGZhbHNlYMKgKm90aGVyd2lzZSouCgpBbsKgKipBbmFncmFtKirCoGlzIGEgd29yZCBvciBwaHJhc2UgZm9ybWVkIGJ5IHJlYXJyYW5naW5nIHRoZSBsZXR0ZXJzIG9mIGEgZGlmZmVyZW50IHdvcmQgb3IgcGhyYXNlLCB0eXBpY2FsbHkgdXNpbmcgYWxsIHRoZSBvcmlnaW5hbCBsZXR0ZXJzIGV4YWN0bHkgb25jZS4KCioqRXhhbXBsZSAxOioqCgpgYGB0ZXh0CklucHV0OiBzID0gImFuYWdyYW0iLCB0ID0gIm5hZ2FyYW0iCk91dHB1dDogdHJ1ZQpgYGAKCiMjIyBBbmFseXppbmcgdGhlIHByb2JsZW0KCkxldCdzIHRoaXMgb2Ygd2hhdCB0aGUgcHJvYmxlbSBpcyBhc2tpbmcuIFdlIGhhdmUgdG8ga25vdyB0aGUgY29udGVudHMgb2YgdGhlIHN0cmluZ3Mgd2UncmUgYW5hbHl6aW5nLiBXZSBhbHNvIGhhdmUgdG8gbWFrZSBzdXJlIHRoYXQgd2UncmUga2VlcGluZyB0cmFjayBvZiB0aGUgbGV0dGVycyBhcyB0aGV5IHNob3VsZCBiZSBleGFjdGx5IHRoZSBzYW1lIHRvIGNvbmZpcm0gdGhhdCBpdCBpcyBhbiAqKmFuYWdyYW0qKi4KCkZvbGxvd2luZyB0aGF0IHRyYWluIG9mIHRob3VnaHQsIHdlIGNhbiBlYXJseSByZXR1cm4gaWYgdGhlcmUgaXMgZXZlciBhIGRpZmZlcmVuY2UgaW4gdGhlIGxldHRlcnMgdGhleSBjb250YWluLiBCdXQgd2hhdCBkb2VzIGl0IG1lYW4gdG8gaGF2ZSB0aGUgc2FtZSBsZXR0ZXJzPyBXZWxsLCBlc3NlbnRpYWxseSBpdCdzIG1hcHBpbmcgb3V0IHRoZSBmcmVxdWVuY3kgb2YgZWFjaCBsZXR0ZXIgZm9yIHRoZSBmaXJzdCB3b3JkIHdlIGl0ZXJhdGUgb3Zlci4gV2hlbiB3ZSBpdGVyYXRlIG92ZXIgdGhlIHNlY29uZCB3b3JkIHdlIGNhbiBkb3VibGUtY2hlY2sgd2l0aCB3aGF0LgoKQ2hlY2tpbmcgYmFjayBvbiB0aGUgZmlyc3QgZXhhbXBsZSBwcm92aWRlZCB3ZSBjYW4gdmlzdWFsaXplIHRoaXMgYnkgY291bnRpbmcgZWFjaCBsZXR0ZXI6CgohW0phdmFTY3JpcHQgTGVldGNvZGUgdmFsaWQgYW5hZ3JhbV0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTM5MTEwOTUyMTcvV1FzMWJ6UTFpLnBuZyBhbGlnbj0ibGVmdCIpCgpMb29raW5nIGF0IHRoZSBjb3VudHMgd2UgY2FuIHVzZSB0aGlzIHRvIHZhbGlkYXRlIGluIHBsYWNlIGFzIHdlIGl0ZXJhdGUgb3ZlciB0aGUgc2Vjb25kIHdvcmQuIExldCdzIHNlZSBob3cgdGhpcyB3b3VsZCBsb29rOgoKIVtqYXZhc2NyaXB0IGxlZXRjb2RlXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MzkxMTM4NzU2OS9rZlAzZC1oU2IucG5nIGFsaWduPSJsZWZ0IikKClNvIHRoZSBmaXJzdCB0aW1lIHdlIHJ1biBpbnRvIHRoZSBgbmAgaW4gdGhlIHNlY29uZCBpdGVyYXRpb24gd2Ugc3VidHJhY3QgaXQgZnJvbSB0aGUgY291bnQuIEFueXRpbWUgd2UgZ28gYmVsb3cgYDBgIHRoZW4gd2Uga25vdyB0aGUgd29yZHMgYXJlICoqbm90KiogdmFsaWQgYW5hZ3JhbXMuCgpDb29sIPCfmI4sIGxldCdzIGdldCB0byBjb2RpbmcuCgojIyMgVGhlIHNvbHV0aW9uCgpTaW1pbGFyIHRvIG91ciBbbGFzdCBwcm9ibGVtXShodHRwczovL3JlbGF0YWJsZWNvZGUuY29tL2phdmFzY3JpcHQtbGVldGNvZGUtYmVzdC10aW1lLXRvLWJ1eS1hbmQtc2VsbC1zdG9jaykgd2UgY2FuIHVzZSBhIGhhc2ggdGFibGUKCmBgYGpzCnZhciBpc0FuYWdyYW0gPSBmdW5jdGlvbihzLCB0KSB7CiAgICBpZiAocy5sZW5ndGggIT0gdC5sZW5ndGgpIHJldHVybiBmYWxzZTsKICAgIGNvbnN0IGhhc2hUYWJsZSA9IHt9OwogICAgCiAgICBmb3IobGV0IGkgPSAwOyBpIDwgcy5sZW5ndGg7IGkrKykgewogICAgICAgIGlmICghaGFzaFRhYmxlW3NbaV1dKSB7CiAgICAgICAgICBoYXNoVGFibGVbc1tpXV0gPSAwOwogICAgICAgIH0KICAgICAgICBoYXNoVGFibGVbc1tpXV0rKzsKICAgIH0KICAgIAogICAgZm9yKGxldCBqID0gMDsgajwgdC5sZW5ndGg7IGorKykgewogICAgICAgIGlmICghaGFzaFRhYmxlW3Rbal1dKXsKICAgICAgICAgIHJldHVybiBmYWxzZTsgIAogICAgICAgIH0gCiAgICAgICAgaGFzaFRhYmxlW3Nbal1dLS07IAogICAgfQogICAgCiAgICByZXR1cm4gdHJ1ZTsKfTsKYGBgCgpJbiB0aGUgZmlyc3QgaXRlcmF0aW9uLCB3ZSBhZGQgdGhlIGZyZXF1ZW5jeSBvZiBldmVyeSBsZXR0ZXIuIElmIGl0IGRvZXNu4oCZdCBleGlzdCB3ZSBjcmVhdGUgYSAwIHZhbHVlIGF0IHRoYXQgcG9pbnQuIAoKYGBganMKaWYgKCFoYXNoVGFibGVbc1tpXV0pIHsKICAgIGhhc2hUYWJsZVtzW2ldXSA9IDA7Cn0KaGFzaFRhYmxlW3NbaV1dKys7CmBgYAoKT24gdGhlIHNlY29uZCBpdGVyYXRpb24sIHdlIHN1YnRyYWN0IGFsbCB2YWx1ZXMuIElmIG5vIGxldHRlciBldmVyIGV4aXN0cyB0aGVuIHdl4oCZbGwgaGl0IHRoZSBudW1iZXIgYDBgIHdoaWNoIG1lYW5zIHdl4oCZbGwgcmV0dXJuIGEgYGZhbHNlYC4KCmBgYGpzCiAgICBpZiAoIWhhc2hUYWJsZVt0W2pdXSl7CiAgICAgICAgICByZXR1cm4gZmFsc2U7ICAKICAgICAgICB9IAogICAgICAgIGhhc2hUYWJsZVtzW2pdXS0tOyAKYGBgCgojIyMgTGV0J3MgY29ubmVjdAoKSWYgeW91IGxpa2VkIHRoaXMgZmVlbCBmcmVlIHRvIGNvbm5lY3Qgd2l0aCBtZSBvbiBbTGlua2VkSW5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9yZWxhdGFibGVjb2RlKSBvciBbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVyLmNvbS9yZWxhdGFibGVjb2RlcikKCkNoZWNrIG91dCBteSBmcmVlIGRldmVsb3BlciByb2FkbWFwIGFuZCB3ZWVrbHkgdGVjaCBpbmR1c3RyeSBuZXdzIGluIG15IFtuZXdzbGV0dGVyXShodHRwczovL3JlbGF0YWJsZWNvZGUuc3Vic3RhY2suY29tLykuCgo=
+# JavaScript LeetCode Valid Anagram
+
+#### Prompt
+
+Given two strings `s` and `t`, return `true` *if* `t` *is an anagram of* `s`*, and* `false` *otherwise*.
+
+An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+**Example 1:**
+
+```text
+Input: s = "anagram", t = "nagaram"
+Output: true
+```
+
+### Analyzing the problem
+
+Let's this of what the problem is asking. We have to know the contents of the strings we're analyzing. We also have to make sure that we're keeping track of the letters as they should be exactly the same to confirm that it is an **anagram**.
+
+Following that train of thought, we can early return if there is ever a difference in the letters they contain. But what does it mean to have the same letters? Well, essentially it's mapping out the frequency of each letter for the first word we iterate over. When we iterate over the second word we can double-check with what.
+
+Checking back on the first example provided we can visualize this by counting each letter:
+
+![JavaScript Leetcode valid anagram](https://cdn.hashnode.com/res/hashnode/image/upload/v1653911095217/WQs1bzQ1i.png align="left")
+
+Looking at the counts we can use this to validate in place as we iterate over the second word. Let's see how this would look:
+
+![javascript leetcode](https://cdn.hashnode.com/res/hashnode/image/upload/v1653911387569/kfP3d-hSb.png align="left")
+
+So the first time we run into the `n` in the second iteration we subtract it from the count. Anytime we go below `0` then we know the words are **not** valid anagrams.
+
+Cool 😎, let's get to coding.
+
+### The solution
+
+Similar to our [last problem](https://relatablecode.com/javascript-leetcode-best-time-to-buy-and-sell-stock) we can use a hash table
+
+```js
+var isAnagram = function(s, t) {
+    if (s.length != t.length) return false;
+    const hashTable = {};
+    
+    for(let i = 0; i < s.length; i++) {
+        if (!hashTable[s[i]]) {
+          hashTable[s[i]] = 0;
+        }
+        hashTable[s[i]]++;
+    }
+    
+    for(let j = 0; j< t.length; j++) {
+        if (!hashTable[t[j]]){
+          return false;  
+        } 
+        hashTable[s[j]]--; 
+    }
+    
+    return true;
+};
+```
+
+In the first iteration, we add the frequency of every letter. If it doesn’t exist we create a 0 value at that point. 
+
+```js
+if (!hashTable[s[i]]) {
+    hashTable[s[i]] = 0;
+}
+hashTable[s[i]]++;
+```
+
+On the second iteration, we subtract all values. If no letter ever exists then we’ll hit the number `0` which means we’ll return a `false`.
+
+```js
+    if (!hashTable[t[j]]){
+          return false;  
+        } 
+        hashTable[s[j]]--; 
+```
+
+### Let's connect
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/relatablecode) or [Twitter](https://twitter.com/relatablecoder)
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
+
