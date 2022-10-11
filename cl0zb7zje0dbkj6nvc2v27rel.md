@@ -1,1 +1,109 @@
-IyMgSG93IHRvIGNyZWF0ZSBtb3JlIGFjY2Vzc2libGUgbWVkaWEgd2l0aCB0aGVzZSB0aXBzCgojIyMgSW50cm9kdWN0aW9uCgpBcyBwYXJ0IG9mIG15IG9uZ29pbmcgc2VyaWVzLCBJ4oCZbGwgY292ZXIgc29tZSBiZXN0IHByYWN0aWNlcyB3aGVuIGl0IGNvbWVzIHRvIG1ha2luZyBtb3JlIGFjY2Vzc2libGUgbWVkaWEuIFRleHQgaXMgYSAqKmZpcnN0LWNsYXNzKiogY2l0aXplbiBvZiB0aGUgd2ViLCBidXQgbW9yZSBhbmQgbW9yZSB2aWRlbyBhbmQgaW1hZ2VzIGFyZSBiZWNvbWluZyBjb21tb24gZm9ybXMgb2Ygb25saW5lIGNvbnRlbnQgY29uc3VtcHRpb24uCgpBcyBwcmV2aW91c2x5IG1lbnRpb25lZCBpbiBvdGhlciBhcnRpY2xlcywgSFRNTCBnaXZlcyB1cyBwbGVudHkgb2Ygb3B0aW9ucyBhcyBhIHN0YXJ0aW5nIHBvaW50LCBidXQgd2XigJlsbCBuZWVkIHRvIGRvIHNvbWUgYWRkaXRpb25hbCB3b3JrIHRvIG1ha2UgZXZlcnl0aGluZyBhIGJpdCBtb3JlIGFjY2Vzc2libGUuCgojIyMgQWNjZXNzaWJsZSBtZWRpYTogSW1hZ2VzCgpUaGVyZSBhcmUgc29tZSBpbXBvcnRhbnQgZGlzdGluY3Rpb25zIHdlIG11c3QgbWFrZSBhdCB0aGUgdmVyeSBiZWdpbm5pbmc6IHdoZXRoZXIgdGhlIGltYWdlIHNlcnZlcyBhICoqcHVycG9zZSoqIG9yIGlzIHB1cmVseSBmb3IgKiphZXN0aGV0aWMqKiByZWFzb25zLiBBbiBpbWFnZSB0aGF0IHNlcnZlcyBhIHB1cnBvc2Ugc2hvdWxkIGhhdmUgYSBtZWFuaW5nZnVsICoqQUxUKiogdGV4dCBhcyBzY3JlZW4gcmVhZGVycyB3aWxsIHJlbHkgb24gdGhpcyEKCkJ5IGNvbnRyYXN0LCBhbiBpbWFnZSB0aGF0IGlzIHB1cmVseSBmb3IgYWVzdGhldGljIHJlYXNvbnMgc2hvdWxkIHByb2JhYmx5IGJlIG9taXR0ZWQgZm9yIHNjcmVlbnMgd2hlcmUgdGhpcyBpcyBub3QgbmVjZXNzYXJ5IHVzaW5nIHRoZSBmb2xsb3dpbmcgcHJvcGVydGllcy4KCmBgYGh0bWwKPGltZyBzcmM9Ii4vcmFuZG9taW1hZ2UucG5nIiBhbHQ9IlRleHQgZGVzY3JpYmluZyB0aGUgaW1hZ2UiIC8+CmBgYAoKIyMjIFVzaW5nIHNyY3NldCBmb3IgcmVzcG9uc2l2ZSBhY2Nlc3NpYmxlIG1lZGlhCgpPbmUgc21hbGwgdGlwIHRoYXQgaXNu4oCZdCB3aWRlbHkga25vd24gaXMgdGhhdCB5b3UgY2FuIHF1aWNrbHkgYWRkIHJlc3BvbnNpdmUgYXR0cmlidXRlcyB0byBpbWFnZXMgdXNpbmcgdGhlICoqc3Jjc2V0KiogYW5kIHJlc3BvbnNpdmUgYXR0cmlidXRlcy4KCiVbaHR0cHM6Ly9jb2RlcGVuLmlvL3BpeGVsc3Ryb2xjaC9wZW4veVZiZGVhXQoKU2VlIHRoZSBQZW4gW1NyY3NldCBEZW1vXShodHRwczovL2NvZGVwZW4uaW8vcGl4ZWxzdHJvbGNoL3Blbi95VmJkZWEpIGJ5IFN0ZWZhbiBCcmVjaGLDvGhsIChbQHBpeGVsc3Ryb2xjaF0oaHR0cHM6Ly9jb2RlcGVuLmlvL3BpeGVsc3Ryb2xjaCkpIG9uIFtDb2RlUGVuXShodHRwczovL2NvZGVwZW4uaW8pLgoKVGhpcyBpcyBub3QgdGhlIG9ubHkgc29sdXRpb24geW91IGNhbiBhbHNvIHVzZSBuYXRpdmUgQ1NTIHByb3BlcnRpZXMgYW5kIG1lZGlhIHF1ZXJpZXMgdG8gY3JlYXRlIHJlc3BvbnNpdmUgaW1hZ2VzISBEZWNpZGUgdGhlIGJlc3Qgb3B0aW9uIGZvciB5b3VyIHVzZSBjYXNlLgoKIyMjIEFkZGl0aW9uYWwgZGlzY2xhaW1lcgoKV2hlbiB1c2luZyBpbWFnZXMgYXMgZnVuY3Rpb25hbCBidXR0b25zIG9yIGxpbmtzIHRoZXJlIHNob3VsZCBiZSBzb21lIENTUyBtYWdpYyB0byBzd2FwIG91dCB0aGUgaW1hZ2UgZm9yIHRleHQgYW5kIHZpY2UgdmVyc2EgZGVwZW5kaW5nIG9uIHRoZSB0eXBlIG9mIHNjcmVlbi4KCkhlcmUgYXJlIHNvbWUgQ1NTLXRyaWNrcyB0byBhY2hpZXZlIHRoZSBnb2FsOgoKW2h0dHBzOi8vY3NzLXRyaWNrcy5jb20vY3NzLWltYWdlLXJlcGxhY2VtZW50L10oaHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9jc3MtaW1hZ2UtcmVwbGFjZW1lbnQvKQoKQ1NTLXRyaWNrcyBmb3IgaW1hZ2UgcmVwbGFjZW1lbnQKCiMjIyBBY2Nlc3NpYmxlIE11bHRpbWVkaWE6IEF1ZGlvIGFuZCBWaWRlbwoKIyMjIEFjY2Vzc2libGUgbWVkaWEgY29udHJvbHMKCkRpZCB5b3Uga25vdyB0aGF0IEhUTUw1IGhhcyBidWlsdC1pbiBjb250cm9scyB0byBoYW5kbGUgYXVkaW8gYW5kIHZpZGVvPwoKYGBgaHRtbAo8YXVkaW8gY29udHJvbHM+IAogICAgPHNvdXJjZSAvPiAKICAgIDxwPkhlbHAgdGV4dCBpZiBpdCBkb2Vzbid0IGxvYWQ8L3A+IAo8L2F1ZGlvPiAKCjx2aWRlbyBjb250cm9scz4gCiAgIDxzb3VyY2UgLz4gCiAgIDxwPkhlbHAgdGV4dCBpZiBpdCBkb2Vzbid0IGxvYWQgPC9wPiAKPC92aWRlbz4KYGBgCgpUaGVzZSBhcmUgZ3JlYXQhIFVuZm9ydHVuYXRlbHksIHRoZXnigJlyZSBub3QgdmVyeSBhY2Nlc3NpYmxlLiBOb3JtYWxseSBJ4oCZZCBnbyBvdmVyIGEgc2hvcnQgY29kZSBleGFtcGxlIG9mIGhvdyB0byBjcmVhdGUgaXQsIGJ1dCB0aGlzIGlzIHZlcnkgdW5uZWNlc3NhcnkuIEl04oCZZCBiZSBuaWNlIHRvIGtub3cgaG93IGl0IHdvcmtzIHVuZGVyIHRoZSBob29kIGJ1dCB0aGVyZSBhcmUgdmVyeSB0YWxlbnRlZCBkZXZlbG9wZXJzIHdobyBoYXZlIGFscmVhZHkgY3JlYXRlZCBsaWJyYXJpZXMgd2l0aCBhY2Nlc3NpYmlsaXR5IHRha2VuIGludG8gY29uc2lkZXJhdGlvbi4KClVubGVzcyBpdHMgZm9yIGxlYXJuaW5nIHB1cnBvc2VzIEnigJltIGEgaHVnZSBhZHZvY2F0ZSBvZiBub3QgcmVpbnZlbnRpbmcgdGhlIHdoZWVsLiBIZXJlIGlzIGEgbGlzdCBvZiB2aWRlbyBwbGF5ZXJzIHdpdGggc3VwcG9ydGVkIGFjY2Vzc2liaWxpdHkgZmVhdHVyZXMgKGxhc3QgdXBkYXRlZCAyMDE2KS4KCltodHRwczovL2tlbnNnaXN0cy5naXRodWIuaW8vYXB0L10oaHR0cHM6Ly9rZW5zZ2lzdHMuZ2l0aHViLmlvL2FwdC8pCgpIZXJl4oCZcyBhIHNtYWxsIHZpc3VhbCBleGFtcGxlIG9mIHdoYXQgdGhlIEFibGVQbGF5ZXIgbG9va3MgbGlrZToKCiFbQWJsZVBsYXllcl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDc3ODI2MDI0NjgvY050NTZMd3kzLnBuZykKCltodHRwczovL2FibGVwbGF5ZXIuZ2l0aHViLmlvL2FibGVwbGF5ZXIvZGVtb3MvdmlkZW8xLmh0bWxdKGh0dHBzOi8vYWJsZXBsYXllci5naXRodWIuaW8vYWJsZXBsYXllci9kZW1vcy92aWRlbzEuaHRtbCkKCiMjIyBBY2Nlc3NpYmxlIE1lZGlhOiBDYXB0aW9uCgpTZXZlcmFsIG9mIHRoZSB2aWRlbyBwbGF5ZXJzIG1lbnRpb25lZCBpbiB0aGUgbGFzdCBzZWN0aW9uIG9mZmVyIHRoZSBhYmlsaXR5IHRvIGFkZCBjYXB0aW9ucyB0byB0aGUgdmlkZW8uIEp1c3QgdG8gZ2l2ZSBhIGJyaWVmIHN1bW1hcnkgb2YgdGhlIHdlYiBzdGFuZGFyZCBmb3IgcHJvdmlkaW5nIGNhcHRpb25zIGluIHRoZSBbV2ViVlRUXShodHRwczovL3czYy5naXRodWIuaW8vd2VidnR0LykgZm9ybWF0LgoKSGVyZSBpcyBhbiBleGFtcGxlIG9mIGEgV2ViVlRUIGZpbGU6CgohW1dlYlZUVCBmaWxlXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0Nzc4MjYwMzk0OS9IeDJGRUJxWGMucG5nKQoKVGhlc2UgY2FuIGJlIGxpbmtlZCBkaXJlY3RseSB0byB0aGUgdHJhY2sgb3IgaW4gc29tZSBjYXNlcyB0aGUgcGxheWVyOgoKYGBgCjx2aWRlbyBjb250cm9scyBzcmM9Im15dmlkZW8ubXA0Ij4gICAgCiAgICA8dHJhY2sgZGVmYXVsdCBzcmM9InRyYWNrLnZ0dCI+IAo8L3ZpZGVvPgpgYGAKCiMjIyBBY2Nlc3NpYmxlIE1lZGlhOiBUcmFuc2NyaXB0CgpFdmVyeSB2aWRlbyBvciBhdWRpbyAqKnNob3VsZCoqIGhhdmUgYSB0cmFuc2NyaXB0IGF2YWlsYWJsZSBlbHNld2hlcmUgb24gdGhlIHBhZ2UuIFRoYXTigJlzIGl0IHRoYXTigJlzIHRoZSBzZWN0aW9uLgoKIVtUcmFuc2NyaXB0XShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0Nzc4MjYwNTU2MS9OS3dDc0ZlQjAucG5nKQoKSWYgdGhlIHZpZGVvIGlzIGltcG9ydGFudCBlbm91Z2ggdG8gdGhlIGNvbnRlbnQgb2YgdGhlIHdlYnBhZ2UgdGhlbiBoYXZpbmcgYSB0cmFuc2NyaXB0IHNob3VsZCBiZSBlcXVhbGx5IGFzIGltcG9ydGFudCEgTm93IHlvdSBtYXkgYmUgdGhpbmtpbmcgdG8geW91cnNlbGYgdGhhdCBwcm92aWRpbmcgYSB0cmFuc2NyaXB0IGZvciBldmVyeSB2aWRlbyB3b3VsZCBiZSBhbiBleHRyZW1lbHkgdGltZS1jb25zdW1pbmcgdGFzay4KCldlbGwgeWVzLCBub3JtYWxseSB0aGF0IHdvdWxkIGJlIHRoZSBjYXNlLiBCdXQhIFRoZXJlIGFyZSBwbGVudHkgb2YgdGVjaG5vbG9naWVzIHRoYXQgY2FuIGFzc2lzdCB1cy4KCkZvciBleGFtcGxlLCB0aGVyZSBpcyBhIGhhY2thdGhvbiBnb2luZyBvbiBjdXJyZW50bHkgaW4gZGV2LnRvIHdpdGggRGVlcGdyYW0uIFlvdSBjb3VsZCBwb3NzaWJseSBhdXRvbWF0ZSB0aGUgYWJpbGl0eSB0byBjcmVhdGUgdGhlc2UgdHJhbnNjcmlwdHMhCgpDaGVjayBvdXQgdGhpcyBbcG9zdF0oaHR0cHM6Ly9kZXYudG8vZGV2dGVhbS9qb2luLXVzLWZvci1hLW5ldy1raW5kLW9mLWhhY2thdGhvbi1vbi1kZXYtYnJvdWdodC10by15b3UtYnktZGVlcGdyYW0tMmJqZCkuIChOb3RlIEnigJltIG5vdCBhZmZpbGlhdGVkIGluIGFueSB3YXkpCgojIyMgQ29uY2x1c2lvbgoKSG9wZWZ1bGx5LCB0aGVzZSB0aXBzIGhlbHBlZCB5b3Ugb3V0IHRvIGZ1cnRoZXIgdGhlIGNhdXNlIG9mIG1ha2luZyBzaXRlcyBtb3JlIGFjY2Vzc2libGUgZm9yIGV2ZXJ5b25lIQoKTXVsdGltZWRpYSBvcHRpb25zIGFyZSBiZWNvbWluZyBpbmNyZWFzaW5nbHkgbW9yZSBjb21tb24gYXMgdG9ucyBvZiBjb250ZW50IHRoYXQgYXJlIGJlaW5nIGNvbnN1bWVkIGRhaWx5IGlzIGJlaW5nIGRvbmUgc28gd2l0aCB2aWRlbyBvciBhdWRpby1vbmx5IG9wdGlvbnMuCgpNb3JlIGNvbnRlbnQgYXQgW1JlbGF0YWJsZSBDb2RlXShodHRwczovL3JlbGF0YWJsZWNvZGUuY29tKQoKSWYgeW91IGxpa2VkIHRoaXMgZmVlbCBmcmVlIHRvIGNvbm5lY3Qgd2l0aCBtZSBvbiBbTGlua2VkSW5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9kaWVnby1iYWxsZXN0ZXJvcy05NDY4YTcxMzYvKSBvciBbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVyLmNvbS9yZWxhdGFibGVjb2RlcikKCl9PcmlnaW5hbGx5IHB1Ymxpc2hlZCBhdF8gW19odHRwczovL3JlbGF0YWJsZWNvZGUuY29tX10oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9ob3ctdG8tY3JlYXRlLW1vcmUtYWNjZXNzaWJsZS1tZWRpYS13aXRoLXRoZXNlLXRpcHMvKSBfb24gTWFyY2ggMjAsIDIwMjIuXw==
+# How to create more accessible media with these tips
+
+### Introduction
+
+As part of my ongoing series, I’ll cover some best practices when it comes to making more accessible media. Text is a **first-class** citizen of the web, but more and more video and images are becoming common forms of online content consumption.
+
+As previously mentioned in other articles, HTML gives us plenty of options as a starting point, but we’ll need to do some additional work to make everything a bit more accessible.
+
+### Accessible media: Images
+
+There are some important distinctions we must make at the very beginning: whether the image serves a **purpose** or is purely for **aesthetic** reasons. An image that serves a purpose should have a meaningful **ALT** text as screen readers will rely on this!
+
+By contrast, an image that is purely for aesthetic reasons should probably be omitted for screens where this is not necessary using the following properties.
+
+```html
+<img src="./randomimage.png" alt="Text describing the image" />
+```
+
+### Using srcset for responsive accessible media
+
+One small tip that isn’t widely known is that you can quickly add responsive attributes to images using the **srcset** and responsive attributes.
+
+%[https://codepen.io/pixelstrolch/pen/yVbdea]
+
+See the Pen [Srcset Demo](https://codepen.io/pixelstrolch/pen/yVbdea) by Stefan Brechbühl ([@pixelstrolch](https://codepen.io/pixelstrolch)) on [CodePen](https://codepen.io).
+
+This is not the only solution you can also use native CSS properties and media queries to create responsive images! Decide the best option for your use case.
+
+### Additional disclaimer
+
+When using images as functional buttons or links there should be some CSS magic to swap out the image for text and vice versa depending on the type of screen.
+
+Here are some CSS-tricks to achieve the goal:
+
+[https://css-tricks.com/css-image-replacement/](https://css-tricks.com/css-image-replacement/)
+
+CSS-tricks for image replacement
+
+### Accessible Multimedia: Audio and Video
+
+### Accessible media controls
+
+Did you know that HTML5 has built-in controls to handle audio and video?
+
+```html
+<audio controls> 
+    <source /> 
+    <p>Help text if it doesn't load</p> 
+</audio> 
+
+<video controls> 
+   <source /> 
+   <p>Help text if it doesn't load </p> 
+</video>
+```
+
+These are great! Unfortunately, they’re not very accessible. Normally I’d go over a short code example of how to create it, but this is very unnecessary. It’d be nice to know how it works under the hood but there are very talented developers who have already created libraries with accessibility taken into consideration.
+
+Unless its for learning purposes I’m a huge advocate of not reinventing the wheel. Here is a list of video players with supported accessibility features (last updated 2016).
+
+[https://kensgists.github.io/apt/](https://kensgists.github.io/apt/)
+
+Here’s a small visual example of what the AblePlayer looks like:
+
+![AblePlayer](https://cdn.hashnode.com/res/hashnode/image/upload/v1647782602468/cNt56Lwy3.png)
+
+[https://ableplayer.github.io/ableplayer/demos/video1.html](https://ableplayer.github.io/ableplayer/demos/video1.html)
+
+### Accessible Media: Caption
+
+Several of the video players mentioned in the last section offer the ability to add captions to the video. Just to give a brief summary of the web standard for providing captions in the [WebVTT](https://w3c.github.io/webvtt/) format.
+
+Here is an example of a WebVTT file:
+
+![WebVTT file](https://cdn.hashnode.com/res/hashnode/image/upload/v1647782603949/Hx2FEBqXc.png)
+
+These can be linked directly to the track or in some cases the player:
+
+```
+<video controls src="myvideo.mp4">    
+    <track default src="track.vtt"> 
+</video>
+```
+
+### Accessible Media: Transcript
+
+Every video or audio **should** have a transcript available elsewhere on the page. That’s it that’s the section.
+
+![Transcript](https://cdn.hashnode.com/res/hashnode/image/upload/v1647782605561/NKwCsFeB0.png)
+
+If the video is important enough to the content of the webpage then having a transcript should be equally as important! Now you may be thinking to yourself that providing a transcript for every video would be an extremely time-consuming task.
+
+Well yes, normally that would be the case. But! There are plenty of technologies that can assist us.
+
+For example, there is a hackathon going on currently in dev.to with Deepgram. You could possibly automate the ability to create these transcripts!
+
+Check out this [post](https://dev.to/devteam/join-us-for-a-new-kind-of-hackathon-on-dev-brought-to-you-by-deepgram-2bjd). (Note I’m not affiliated in any way)
+
+### Conclusion
+
+Hopefully, these tips helped you out to further the cause of making sites more accessible for everyone!
+
+Multimedia options are becoming increasingly more common as tons of content that are being consumed daily is being done so with video or audio-only options.
+
+More content at [Relatable Code](https://relatablecode.com)
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/diego-ballesteros-9468a7136/) or [Twitter](https://twitter.com/relatablecoder)
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/how-to-create-more-accessible-media-with-these-tips/) _on March 20, 2022._
