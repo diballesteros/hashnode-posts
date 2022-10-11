@@ -1,1 +1,140 @@
-IyMgSmF2YVNjcmlwdCBMZWV0Q29kZTogVHdvIFN1bQoKCiFbUmVsYXRhYmxlIENvZGUgSmF2YVNjcmlwdCBMZWV0Q29kZV0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTIwMTcyOTU5ODcvSEFfMnBnVE01LnBuZyBhbGlnbj0iY2VudGVyIikKCiMjIyBJbnRyb2R1Y3Rpb24KCkxlZXRDb2RlLiBBbiB1bmZvcnR1bmF0ZSB0cnV0aCBvZiBkZXZlbG9wZXIgbGlmZSBpcyB0aGF0IGZvciBzb21lIGpvYiBpbnRlcnZpZXdzIGl0IGlzIG5lY2Vzc2FyeSB0byBsZWFybiBEYXRhIHN0cnVjdHVyZSBhbmQgYWxnb3JpdGhtcyAoRFNBKSBpbiBhIHNwZWNpZmljIHdheS4gQSB3YXkgaW4gd2hpY2ggeW91J3JlIGV4cGVjdGVkIHRvIGNvZGUgdXAgYSBzb2x1dGlvbiB0byBhIERTQSBwcm9ibGVtIHdoZXJlIHlvdSB3b3VsZCBvdGhlcndpc2UgZ29vZ2xlIGl0LgoKSSBzYXkgKioqdW5mb3J0dW5hdGUgKioqIGJlY2F1c2UgaW4gbW9zdCBjYXNlcyBpdCBpcyB1bm5lY2Vzc2FyeSB0byBrbm93IHRoZW0gdG8gdGhlIGRlZ3JlZSByZXF1aXJlZCBmb3IgdGhlIHRlY2huaWNhbCBpbnRlcnZpZXdzIGFuZCBoYXJkbHkgcmVmbGVjdHMgYWN0dWFsIGpvYiBjYXBhYmlsaXR5LgoKQnV0IEkgZGlncmVzcywgTGVldENvZGUgaXMgYSB3ZWJzaXRlIHRoYXQgY29tcGlsZXMgdG9ucyBvZiBkaWZmZXJlbnQgRFNBIHByb2JsZW1zLiBJJ2xsIGJlIGdvaW5nIHRocm91Z2ggc2V2ZXJhbCBMZWV0Q29kZSBwcm9ibGVtcyBvdmVyIHRoZSBuZXh0IG1vbnRoLCBleHBsYWluaW5nIGFuZCBzb2x2aW5nIHRoZW0sIHRvIGhlbHAgb3RoZXJzIG91dC4gQW5kIGFsc28gaXQgaGVscHMgbWUgdG8gcmUtd3JpdGUgdGhlIHNvbHV0aW9uLiDwn5iOCgojIyMgUHJvbXB0Cgo+R2l2ZW4gYW4gYXJyYXkgb2YgaW50ZWdlcnPCoGBudW1zYMKgYW5kIGFuIGludGVnZXLCoGB0YXJnZXRgLCByZXR1cm7CoCppbmRpY2VzIG9mIHRoZSB0d28gbnVtYmVycyBzdWNoIHRoYXQgdGhleSBhZGQgdXAgdG/CoGB0YXJnZXRgKi4KCj4gWW91IG1heSBhc3N1bWUgdGhhdCBlYWNoIGlucHV0IHdvdWxkIGhhdmXCoCoqKmV4YWN0bHkqwqBvbmUgc29sdXRpb24qKiwgYW5kIHlvdSBtYXkgbm90IHVzZSB0aGXCoCpzYW1lKsKgZWxlbWVudCB0d2ljZS4KCj4gWW91IGNhbiByZXR1cm4gdGhlIGFuc3dlciBpbiBhbnkgb3JkZXIuCgpFeGFtcGxlIDE6CgpgYGB0ZXh0CklucHV0OiBudW1zID0gWzIsNywxMSwxNV0sIHRhcmdldCA9IDkKT3V0cHV0OiBbMCwxXQpFeHBsYW5hdGlvbjogQmVjYXVzZSBudW1zWzBdICsgbnVtc1sxXSA9PSA5LCB3ZSByZXR1cm4gWzAsIDFdLgpgYGAKCiMjIyBUaGlua2luZyBpdCB0aHJvdWdoCgpUaGlzIGlzIHRoZSBmaXJzdCBMZWV0Q29kZSBwcm9ibGVtIGFuZCBpcyBxdWl0ZSBhbiBlYXN5IG9uZS4gV2hhdCBmaXJzdCBjb21lcyB0byBtaW5kIGlzIGp1c3QgaXRlcmF0aW5nIG92ZXIgdGhlIGFycmF5IHR3aWNlIGFuZCBmaW5kaW5nIHRoZSBuZWNlc3Nhcnkgc3VtLiBUaGlzIHdpbGwgMTAwJSBnaXZlIHVzIHRoZSBzb2x1dGlvbi4KCkhvd2V2ZXIsIGFzIG1hbnkgb2YgeW91IG1heSBrbm93IGFib3V0IHRoZXNlIHR5cGVzIG9mIHF1ZXN0aW9ucy4gVXN1YWxseSwgaXQgaXMgbm90IGVub3VnaCB0byBiZSBjb3JyZWN0LiBGb3IgRFNBIHByb2JsZW1zIHlvdSB3YW50IHRvIGJlIGFzICoqZWZmaWNpZW50KiogYXMgcG9zc2libGUuCgohW2Fyb24tdmlzdWFscy1CWE9YblEyNkI3by11bnNwbGFzaC5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUyMDE0OTEwMzgzL2Z1alZTM0h1UC5qcGcpCl9QaG90byBieSBBcm9uIFZpc3VhbHMgb24gVW5zcGxhc2hfCgpTbyBmb3IgZXhhbXBsZSBvdXIgZmlyc3Qgc29sdXRpb24gd291bGQgYmUgc29tZXRoaW5nIGFsb25nIHRoZXNlIGxpbmVzOgoKIVticnV0ZSBmb3JjZV0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTIwMTU0MjAyNzQvZlNrZjliNG8xLnBuZykKCldoZXJlIGBpYCBpcyB0aGUgdmFsdWUgb2Ygb3VyIGZpcnN0IGl0ZXJhdGlvbiBhbmQgYGpgIGlzIHRoZSB2YWx1ZSBvZiBvdXIgc2Vjb25kIGl0ZXJhdGlvbi4gT25jZSBhZGRlZCB1cCB3ZSBnZXQgYDlgIHdoaWNoIGlzIHRoZSBzb2x1dGlvbiB3ZSBuZWVkLgoKIyMjIEZpcnN0IHNvbHV0aW9uCgpJIG1haW5seSB1c2UgSmF2YVNjcmlwdCBzbyB0aGUgc29sdXRpb24gd291bGQgbG9vayBzb21ldGhpbmcgbGlrZSB0aGlzOgoKYGBgamF2YXNjcmlwdApjb25zdCB0d29TdW0obnVtcywgdGFyZ2V0KSB7CiAgICBmb3IobGV0IGkgPSAwOyAgaSA8IG51bXMubGVuZ3RoOyBpKyspIHsKICAgICAgICBmb3IgKGxldCBqID0gMDsgaiA8IG51bXMubGVuZ3RoOyBqKyspIHsKICAgICAgICAgICAgaWYoaiA9PT0gaSkgY29udGludWU7CiAgICAgICAgICAgIGlmKChudW1zW2ldICsgbnVtc1tqXSkgPT09IHRhcmdldCkgcmV0dXJuIFtpLCBqXTsKICAgICAgICB9CiAgICB9Cn0KYGBgCmBudW1zYCBpcyB0aGUgYXJyYXkgb2YgbnVtYmVycyBhbmQgYHRhcmdldGAgaXMgdGhlIGRlc2lyZWQgc29sdXRpb24uIEkgaXRlcmF0ZSBvdmVyIGJvdGggYXJyYXlzIGFuZCBjaGVjayBpZiB0aGUgc3VtIGlzIHRoZSBuZWNlc3NhcnkgdmFsdWUuIEhvd2V2ZXIsIGFzIHN0YXRlZCBpbiB0aGUgcHJvbXB0LCB3ZSBzaG91bGQgbm90IHVzZSB0aGUgc2FtZSBlbGVtZW50IHR3aWNlLgoKU28gd2UgY2FuIGNoZWNrIGlmIHRoZSBpdGVyYXRpb25zIGFyZSBvbiB0aGUgc2FtZSBlbGVtZW50IGFuZCBza2lwOgoKYGBgamF2YXNjcmlwdAppZihqID09PSBpKSBjb250aW51ZTsKYGBgCkhvd2V2ZXIsIGFzIEkgbWVudGlvbmVkIGJlZm9yZSB0aGlzIGlzIHZlcnkgdW5vcHRpbWl6ZWQuIAoKIyMjIFNlY29uZCBzb2x1dGlvbgoKQSBtdWNoIGJldHRlciBzb2x1dGlvbiB3b3VsZCBiZSBzZWFyY2hpbmcgZm9yIHRoZSB0YXJnZXQgYmFzZWQgb24gdGhlICoqY3VycmVudCoqIG51bWJlci4gV2hhdCBkb2VzIHRoYXQgbWVhbj8KCkZvciBleGFtcGxlLCB3aGVuIHlvdSBmaXJzdCBzdGFydCBpdGVyYXRpbmcgb3ZlciB0aGUgYXJyYXkgeW91IGtub3cgdGhlIGV4YWN0IG51bWJlciB5b3XigJlyZSBsb29raW5nIGZvci4gVGhlIG51bWJlciB5b3UncmUgbG9va2luZyBmb3IgaXMgdGhlICoqcmVzdWx0IG9mIHRoZSBzdWJ0cmFjdGlvbiBvZiB0aGUgdGFyZ2V0IGFuZCB0aGUgY3VycmVudCBpdGVyYXRlZCB2YWx1ZS4qKgoKTGV0J3MgdGFrZSBvdXIgZmlyc3QgYXJyYXkgYXMgYW4gZXhhbXBsZS4KCiFbZmlyc3QgaXRlcmF0aW9uXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MjAxNTk2OTAwNi8xOHNTM3kzZDUucG5nIGFsaWduPSJsZWZ0IikKCldoZW4gd2UncmUgb24gdGhlIGZpcnN0IGVsZW1lbnQgYDJgIHdlIGtub3cgdGhhdCB3ZSBuZWVkIHRvIGZpbmQgYXMgYDlgIG1pbnVzIGAyYCBpcyA3LiBCdXQsIHdlIG5lZWQgYSB3YXkgdG8gcXVpY2tseSByZS1hY2Nlc3MgZGF0YSBvZiB0aGUgYXJyYXkuCgpJbnRyb2R1Y2luZyBhIEhhc2ggVGFibGUuCgojIyMjIEhhc2ggVGFibGUKCkEgW2hhc2ggdGFibGVdKGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0hhc2hfdGFibGUjOn46dGV4dD1JbiUyMGNvbXB1dGluZyUyQyUyMGElMjBoYXNoJTIwdGFibGUsZGVzaXJlZCUyMHZhbHVlJTIwY2FuJTIwYmUlMjBmb3VuZC4pIGlzIGEgZGF0YSBzdHJ1Y3R1cmUgdGhhdCBtYXBzIGtleSB0byB2YWx1ZXMuIFRoaXMgaXMgcGVyZmVjdCBmb3Igb3VyIHVzZSBjYXNlIGJlY2F1c2Ugd2UganVzdCB3YW50IHRvIG1hcCBvdXIgYG51bWJlcmAgdG8gb3VyIGBpbmRleGAuCgpCdXQgaG93IGRvIHdlIGNyZWF0ZSB0aGlzIGhhc2ggdGFibGU/CgpbTWFwXShodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9KYXZhU2NyaXB0L1JlZmVyZW5jZS9HbG9iYWxfT2JqZWN0cy9NYXApIGlzIGEgSmF2YXNjcmlwdCBidWlsdC1pbiBvYmplY3QuIFRoZSBvbmx5IHRoaW5nIHlvdSBuZWVkIHRvIGtub3cgaXMgdGhhdCBpdCBob2xkcyBrZXktdmFsdWUgcGFpcnMgYW5kIGhhcyBhbiBBUEkgdG8gcXVpY2tseSBjaGVjayB0aGUgY29udGVudDoKCmAuc2V0YCBmb3Igc2V0dGluZyB0aGUga2V5IGFuZCB2YWx1ZSBwYWlyCgpgLmdldGAgZm9yIGdldHRpbmcgdGhlIHZhbHVlIGJhc2VkIG9uIHRoZSBrZXkKCmAuaGFzYCBmb3IgY2hlY2tpbmcgaWYgaXQgaGFzIHRoZSBrZXkKCgojIyMgU2Vjb25kIFNvbHV0aW9uCgpgYGBqYXZhc2NyaXB0CmNvbnN0IGhhc2hUYWJsZSA9IG5ldyBNYXAoKTsKICAKZm9yKGxldCBpID0gMDsgaSA8IG51bXMubGVuZ3RoOyBpKyspIHsKICBjb25zdCBudW0gPSBudW1zW2ldOwogIGNvbnN0IHN1YnN0cmFjdGlvbldlV2FudCA9IHRhcmdldCAtIG51bTsKCiAgaWYgKGhhc2hUYWJsZS5oYXMoc3Vic3RyYWN0aW9uR29hbCkgewogICAgICByZXR1cm4gW2ksIGhhc2hUYWJsZS5nZXQoc3Vic3RyYWN0aW9uR29hbCldOwogIH0gZWxzZSB7CiAgICAgIGhhc2hUYWJsZS5zZXQobnVtLCBpKTsgICAgCiAgfQp9CmBgYAoKV2Ugbm93IGhhdmUgYSBzaW1wbGlmaWVkIHdheSB0byBjaGVjayBmb3IgcHJldmlvdXMgdmFsdWVzLiBHb2luZyBiYWNrIHRvIHRoZSBjb2RlIHdlIGZpcnN0IGRvIGEgc2luZ2xlIGl0ZXJhdGlvbiBvZiB0aGUgbG9vcC4gQnkgc3VidHJhY3RpbmcgdGhlIGB0YXJnZXRgIHZhbHVlIGZyb20gdGhlIGN1cnJlbnQgaW5kZXggdmFsdWUgYG51bWAgd2UgY2FuIGNoZWNrIGlmIHRoZSByZW1haW5kZXIgYWxyZWFkeSBleGlzdHMuIElmIGl0IGRvZXNu4oCZdCB3ZSBqdXN0IGFkZCB0aGUgdmFsdWUgd2UganVzdCB0cmllZCB0byB0aGUgbWFwIGFuZCBtb3ZlIG9uLgoKU28gdG8gcmVpdGVyYXRlCgoxLiBXZSBsb29wIG92ZXIgdGhlIGFycmF5CjIuIFdlIGNoZWNrIGlmIG91ciBjdXJyZW50IG1hcCBvZiB2YWx1ZXMgaGFzIHRoZSBzdWJ0cmFjdGlvbiBvZiBvdXIgYHRhcmdldGAgYW5kIGN1cnJlbnQgdmFsdWUgd2UgYXJlIGl0ZXJhdGluZyBvdmVyLiBJZiBpdCBkb2VzIHdlIHJldHVybiBib3RoIHRoZSBpbmRleCBvZiB0aGUgY3VycmVudCB2YWx1ZSBhbmQgdGhlIGluZGV4IG9mIHRoZSB2YWx1ZSBpbiBvdXIgbWFwCjMuIElmIHdlIGRvbuKAmXQgZmluZCBhIG1hdGNoIHdlIGFkZCBpdCB0byBvdXIgbWFwIGFuZCBtb3ZlIG9uCgpGaXJzdCBzb2x1dGlvbjoKCiFbMjQ2bXMgZmlyc3Qgc29sdXRpb25dKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUyMDE2ODU5Mzg2L3BuV0dCUVFiay5wbmcpCgpTZWNvbmQgc29sdXRpb246CgohWzY3bXMgc2Vjb25kIHNvbHV0aW9uXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MjAxNjg3NzkyNS84MXMyaWdjblYucG5nKQoKIyMjIFdyYXBwaW5nIGl0IHVwCgpJZiB5b3Ugd2FudCB0byBrZWVwIHVwIHdpdGggdGhpcyBzZXJpZXMgZmVlbCBmcmVlIHRvIGZvbGxvdyBtZSBvbiBoZXJlIG9yIGFueSBvZiBteSBzb2NpYWwgbWVkaWEgYmVsb3chCgpNb3JlIGNvbnRlbnQgYXQgW1JlbGF0YWJsZSBDb2RlXShodHRwczovL3JlbGF0YWJsZWNvZGUuY29tKQoKIyMjIExldCdzIGNvbm5lY3QKCklmIHlvdSBsaWtlZCB0aGlzIGZlZWwgZnJlZSB0byBjb25uZWN0IHdpdGggbWUgb24gW0xpbmtlZEluXShodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vcmVsYXRhYmxlY29kZSkgb3IgW1R3aXR0ZXJdKGh0dHBzOi8vdHdpdHRlci5jb20vcmVsYXRhYmxlY29kZXIpCgpDaGVjayBvdXQgbXkgZnJlZSBkZXZlbG9wZXIgcm9hZG1hcCBhbmQgd2Vla2x5IHRlY2ggaW5kdXN0cnkgbmV3cyBpbiBteSBbbmV3c2xldHRlcl0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLnN1YnN0YWNrLmNvbS8pLg==
+# JavaScript LeetCode: Two Sum
+
+
+![Relatable Code JavaScript LeetCode](https://cdn.hashnode.com/res/hashnode/image/upload/v1652017295987/HA_2pgTM5.png align="center")
+
+### Introduction
+
+LeetCode. An unfortunate truth of developer life is that for some job interviews it is necessary to learn Data structure and algorithms (DSA) in a specific way. A way in which you're expected to code up a solution to a DSA problem where you would otherwise google it.
+
+I say ***unfortunate *** because in most cases it is unnecessary to know them to the degree required for the technical interviews and hardly reflects actual job capability.
+
+But I digress, LeetCode is a website that compiles tons of different DSA problems. I'll be going through several LeetCode problems over the next month, explaining and solving them, to help others out. And also it helps me to re-write the solution. 😎
+
+### Prompt
+
+>Given an array of integers `nums` and an integer `target`, return *indices of the two numbers such that they add up to `target`*.
+
+> You may assume that each input would have ***exactly* one solution**, and you may not use the *same* element twice.
+
+> You can return the answer in any order.
+
+Example 1:
+
+```text
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+### Thinking it through
+
+This is the first LeetCode problem and is quite an easy one. What first comes to mind is just iterating over the array twice and finding the necessary sum. This will 100% give us the solution.
+
+However, as many of you may know about these types of questions. Usually, it is not enough to be correct. For DSA problems you want to be as **efficient** as possible.
+
+![aron-visuals-BXOXnQ26B7o-unsplash.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1652014910383/fujVS3HuP.jpg)
+_Photo by Aron Visuals on Unsplash_
+
+So for example our first solution would be something along these lines:
+
+![brute force](https://cdn.hashnode.com/res/hashnode/image/upload/v1652015420274/fSkf9b4o1.png)
+
+Where `i` is the value of our first iteration and `j` is the value of our second iteration. Once added up we get `9` which is the solution we need.
+
+### First solution
+
+I mainly use JavaScript so the solution would look something like this:
+
+```javascript
+const twoSum(nums, target) {
+    for(let i = 0;  i < nums.length; i++) {
+        for (let j = 0; j < nums.length; j++) {
+            if(j === i) continue;
+            if((nums[i] + nums[j]) === target) return [i, j];
+        }
+    }
+}
+```
+`nums` is the array of numbers and `target` is the desired solution. I iterate over both arrays and check if the sum is the necessary value. However, as stated in the prompt, we should not use the same element twice.
+
+So we can check if the iterations are on the same element and skip:
+
+```javascript
+if(j === i) continue;
+```
+However, as I mentioned before this is very unoptimized. 
+
+### Second solution
+
+A much better solution would be searching for the target based on the **current** number. What does that mean?
+
+For example, when you first start iterating over the array you know the exact number you’re looking for. The number you're looking for is the **result of the subtraction of the target and the current iterated value.**
+
+Let's take our first array as an example.
+
+![first iteration](https://cdn.hashnode.com/res/hashnode/image/upload/v1652015969006/18sS3y3d5.png align="left")
+
+When we're on the first element `2` we know that we need to find as `9` minus `2` is 7. But, we need a way to quickly re-access data of the array.
+
+Introducing a Hash Table.
+
+#### Hash Table
+
+A [hash table](https://en.wikipedia.org/wiki/Hash_table#:~:text=In%20computing%2C%20a%20hash%20table,desired%20value%20can%20be%20found.) is a data structure that maps key to values. This is perfect for our use case because we just want to map our `number` to our `index`.
+
+But how do we create this hash table?
+
+[Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) is a Javascript built-in object. The only thing you need to know is that it holds key-value pairs and has an API to quickly check the content:
+
+`.set` for setting the key and value pair
+
+`.get` for getting the value based on the key
+
+`.has` for checking if it has the key
+
+
+### Second Solution
+
+```javascript
+const hashTable = new Map();
+  
+for(let i = 0; i < nums.length; i++) {
+  const num = nums[i];
+  const substractionWeWant = target - num;
+
+  if (hashTable.has(substractionGoal) {
+      return [i, hashTable.get(substractionGoal)];
+  } else {
+      hashTable.set(num, i);    
+  }
+}
+```
+
+We now have a simplified way to check for previous values. Going back to the code we first do a single iteration of the loop. By subtracting the `target` value from the current index value `num` we can check if the remainder already exists. If it doesn’t we just add the value we just tried to the map and move on.
+
+So to reiterate
+
+1. We loop over the array
+2. We check if our current map of values has the subtraction of our `target` and current value we are iterating over. If it does we return both the index of the current value and the index of the value in our map
+3. If we don’t find a match we add it to our map and move on
+
+First solution:
+
+![246ms first solution](https://cdn.hashnode.com/res/hashnode/image/upload/v1652016859386/pnWGBQQbk.png)
+
+Second solution:
+
+![67ms second solution](https://cdn.hashnode.com/res/hashnode/image/upload/v1652016877925/81s2igcnV.png)
+
+### Wrapping it up
+
+If you want to keep up with this series feel free to follow me on here or any of my social media below!
+
+More content at [Relatable Code](https://relatablecode.com)
+
+### Let's connect
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/relatablecode) or [Twitter](https://twitter.com/relatablecoder)
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
