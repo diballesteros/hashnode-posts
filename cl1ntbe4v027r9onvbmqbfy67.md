@@ -1,1 +1,112 @@
-IyMgSG93IHRvIGVhc2lseSBhZGQgZGFyayBtb2RlIHRvIGEgUmVhY3QgYXBwCgohW0Vhc2lseSBhZGQgZGFyayBtb2RlIHRvIGEgUmVhY3QgYXBwXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MTEwNDczMTQyMC9ja2NUMkVXM0cucG5nKQoKT25lIG9mIHRoZSBtb3N0IGNvbW1vbiBVWCByZXF1aXJlbWVudHMgZm9yIGFuIGFwcCBpcyB0byBhZGQgYSB3YXkgdG8gdG9nZ2xlIGEgZGFyayBtb2RlIGZvciB0aGUgdXNlci4gVXNpbmcgUmVhY3QgYW5kIGp1c3QgcGxhaW4gb2zigJkgQ1NTIHRoaXMgaXMgZWFzaWx5IGFjaGlldmVkISBUaGlzIGFydGljbGUgYXNzdW1lcyB5b3UgaGF2ZSBhIGJhc2ljIHVuZGVyc3RhbmRpbmcgb2YgUmVhY3QgaG9va3MuCgpUeXBpY2FsbHkgeW91IHdvdWxkIHdhbnQgdG8gc2V0IHRoZSBkYXJrIG1vZGUgY29sb3JzIHRocm91Z2hvdXQgdGhlIGVudGlyZSBhcHAgdG8gYWZmZWN0IHZhcmlvdXMgZGlmZmVyZW50IGNvbG9ycy4gSW4gc3RhbmRhcmQgQ1NTIHRoZXJlIGV4aXN0IFtDU1MgdmFyaWFibGVzXShodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9DU1MvVXNpbmdfQ1NTX2N1c3RvbV9wcm9wZXJ0aWVzKS4gV2UgY2FuIHVzZSB0aGVzZSB0byBjaGFuZ2UgdGhlIGNvbG9ycyBvZiBvdXIgZW50aXJlIGFwcCEKCiMjIyBDb2RlLWFsb25nCgpGaXJzdCBhbmQgZm9yZW1vc3QgbGV0cyBzZXQgdGhlIHN0cnVjdHVyZSBvZiBvdXIgYXBwOgoKYGBganMKIDxkaXYgY2xhc3NOYW1lPSJBcHAiPgogICAgPGhlYWRlciBjbGFzc05hbWU9ImhlYWRlciI+CiAgICAgICAgPGgxPlRoaXMgaXMgbXkgbmF2YmFyPC9oMT4KICAgIDwvaGVhZGVyPgogICAgPG1haW4gY2xhc3NOYW1lPSJtYWluIj5NYWluIGNvbnRlbnQ8L21haW4+CiAgPC9kaXY+CmBgYAoKTm90aGluZyBvdXQgb2YgdGhlIG9yZGluYXJ5IGp1c3QgYSBoZWFkZXIgYW5kIG91ciBjb250ZW50LiBOb3csIGxldCdzIGFkZCBhIHdheSB0byB0b2dnbGUgdGhlIGRhcmsgbW9kZSBzZXR0aW5nLiBJ4oCZbGwgcXVpY2tseSBhZGQgW01hdGVyaWFsLVVJXShodHRwczovL21hdGVyaWFsLXVpLmNvbS8pIHRvIHByZXR0aWZ5IG91ciBhcHA6CgpgYGBqcwo8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICA8aGVhZGVyIGNsYXNzTmFtZT0iaGVhZGVyIj4KICAgICAgICA8aDE+VGhpcyBpcyBteSBuYXZiYXI8L2gxPgogIDxTd2l0Y2ggLz4KICA8L2hlYWRlcj4KICA8bWFpbiBjbGFzc05hbWU9Im1haW4iPk1haW4gY29udGVudDwvbWFpbj4KPC9kaXY+CmBgYAoKUGVyZmVjdCEgbm93IHdlIG5lZWQgdG8gaGFuZGxlIHRoZSBzdGF0ZSBvZiB0aGUgZGFyayBtb2RlCgpgYGBqcwpjb25zdCBbZGFya01vZGUsIHNldERhcmtNb2RlXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKTsKCiAgY29uc3QgaGFuZGxlQ2hhbmdlID0gKCkgPT4gewogICAgc2V0RGFya01vZGUoKHByZXZTdGF0ZSkgPT4gIXByZXZTdGF0ZSk7CiAgfTsKCgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImhlYWRlciI+CiAgICAgICAgPGgxPlRoaXMgaXMgbXkgbmF2YmFyPC9oMT4KICAgICAgICA8U3dpdGNoIGNoZWNrZWQ9e2RhcmtNb2RlfSBvbkNoYW5nZT17aGFuZGxlQ2hhbmdlfSAvPgogICAgICA8L2hlYWRlcj4KICAgICAgPG1haW4gY2xhc3NOYW1lPSJtYWluIj5NYWluIGNvbnRlbnQ8L21haW4+CiAgICA8L2Rpdj4KICApOwpgYGAKClRvIGV4cGxhaW4sIG91ciBkYXJrIG1vZGUgaXMgYSBiYXNpYyB0b2dnbGUgc3RhdGUgdGhhdCB3ZSBzd2l0Y2ggd2l0aCB0aGUgICoqU3dpdGNoKiohCgpOZXh0LCB3aXRoIHRoZSBiYXNpYyBsb2dpYyBvdXQgb2YgdGhlIHdheSwgd2UgY2FuIHRhY2tsZSB0aGUgc3R5bGluZyBvZiB0aGUgZGFyayBtb2RlLiBUbyBvdXIgQXBwLCBoZWFkZXIsIGFuZCBtYWluIGNsYXNzZXMgd2XigJlsbCBhZGQgb3VyIENTUyB2YXJpYWJsZXMgYW5kIGE6CgpgYGBjc3MKdHJhbnNpdGlvbjogYWxsIDUwMG1zOwpgYGAKClRoaXMgdG8gbWFrZSB0aGUgdHJhbnNpdGlvbiBmbHVpZCBmb3IgdGhlIHVzZXIuCgpgYGBqcwouQXBwIHsKICAvLyAuLm90aGVyIHN0eWxlcwogIHRyYW5zaXRpb246IGFsbCA1MDBtczsKICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1iZyk7Cn0KCi5oZWFkZXIgewogIC8vIC4uLm90aGVyIHN0eWxlcwogIHRyYW5zaXRpb246IGFsbCA1MDBtczsKICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1uYXZiYXIpOwogIGNvbG9yOiB2YXIoLS1jb2xvcik7Cn0KCi5tYWluIHsKICAvLyAuLi5vdGhlciBzdHlsZXMKICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1zZWNvbmRhcnliZyk7CiAgY29sb3I6IHZhcigtLWNvbG9yKTsKfQpgYGAKCkdyZWF0ISBOb3cgYWxsIHRoYXTigJlzIGxlZnQgaXMgdG8gX2hvb2tfIHVwIG91ciBDU1MgdmFyaWFibGVzIHdpdGggdGhlIGRhcmsgbW9kZSBzdGF0ZS4gUmVhY3Qgb2ZmZXJzIHVzIGEgdXNlRWZmZWN0IGhvb2sgdG8gZG8gc2Vjb25kYXJ5IGVmZmVjdHMuCgpgYGBqcwogUmVhY3QudXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChkYXJrTW9kZSkgewogICAgICBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuc3R5bGUuc2V0UHJvcGVydHkoIi0tY29sb3IiLCAiI0ZGRkZGRiIpOwogICAgICBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuc3R5bGUuc2V0UHJvcGVydHkoIi0tbmF2YmFyIiwgIiMzMzMzMzMiKTsKICAgICAgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LnN0eWxlLnNldFByb3BlcnR5KCItLWJnIiwgIiMyMTIxMjEiKTsKICAgICAgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LnN0eWxlLnNldFByb3BlcnR5KCItLXNlY29uZGFyeWJnIiwgIiMyMTIxMjEiKTsKICAgIH0gZWxzZSB7CiAgICAgIGRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5zdHlsZS5zZXRQcm9wZXJ0eSgiLS1jb2xvciIsICIjNjE2MTYxIik7CiAgICAgIGRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5zdHlsZS5zZXRQcm9wZXJ0eSgiLS1uYXZiYXIiLCAiI0ZGRkZGRiIpOwogICAgICBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuc3R5bGUuc2V0UHJvcGVydHkoIi0tYmciLCAiI0ZGRkZGRiIpOwogICAgICBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuc3R5bGUuc2V0UHJvcGVydHkoIi0tc2Vjb25kYXJ5YmciLCAiI0Y1RjVGNSIpOwogICAgfQogIH0sIFtkYXJrTW9kZV0pOwpgYGAKCiMjIyBEYXJrIE1vZGUgRmluYWwgSW1wbGVtZW50YXRpb24KCkFuZCB0aGF04oCZcyBldmVyeXRoaW5nISBMZXTigJlzIGNoZWNrIGl0IG91dCBpbiBhIHdvcmtpbmcgZXhhbXBsZToKCiVbaHR0cHM6Ly9jb2Rlc2FuZGJveC5pby9lbWJlZC9yZWFjdC1kYXJrLW1vZGUtc2N6cG4/Zm9udHNpemU9MTQmaGlkZW5hdmlnYXRpb249MSZ0aGVtZT1kYXJrXQoKRG8geW91IGhhdmUgYSBwcmVmZXJyZWQgd2F5IHRvIGFkZCBkYXJrIG1vZGUgdG8geW91ciBhcHA/IExldCBtZSBrbm93IGluIHRoZSBjb21tZW50cyBiZWxvdy4KCk1vcmUgY29udGVudCBhdCBbUmVsYXRhYmxlIENvZGVdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20p
+# How to easily add dark mode to a React app
+
+![Easily add dark mode to a React app](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104731420/ckcT2EW3G.png)
+
+One of the most common UX requirements for an app is to add a way to toggle a dark mode for the user. Using React and just plain ol’ CSS this is easily achieved! This article assumes you have a basic understanding of React hooks.
+
+Typically you would want to set the dark mode colors throughout the entire app to affect various different colors. In standard CSS there exist [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties). We can use these to change the colors of our entire app!
+
+### Code-along
+
+First and foremost lets set the structure of our app:
+
+```js
+ <div className="App">
+    <header className="header">
+        <h1>This is my navbar</h1>
+    </header>
+    <main className="main">Main content</main>
+  </div>
+```
+
+Nothing out of the ordinary just a header and our content. Now, let's add a way to toggle the dark mode setting. I’ll quickly add [Material-UI](https://material-ui.com/) to prettify our app:
+
+```js
+<div className="App">
+  <header className="header">
+        <h1>This is my navbar</h1>
+  <Switch />
+  </header>
+  <main className="main">Main content</main>
+</div>
+```
+
+Perfect! now we need to handle the state of the dark mode
+
+```js
+const [darkMode, setDarkMode] = React.useState(false);
+
+  const handleChange = () => {
+    setDarkMode((prevState) => !prevState);
+  };
+
+
+  return (
+    <div className="App">
+      <header className="header">
+        <h1>This is my navbar</h1>
+        <Switch checked={darkMode} onChange={handleChange} />
+      </header>
+      <main className="main">Main content</main>
+    </div>
+  );
+```
+
+To explain, our dark mode is a basic toggle state that we switch with the  **Switch**!
+
+Next, with the basic logic out of the way, we can tackle the styling of the dark mode. To our App, header, and main classes we’ll add our CSS variables and a:
+
+```css
+transition: all 500ms;
+```
+
+This to make the transition fluid for the user.
+
+```js
+.App {
+  // ..other styles
+  transition: all 500ms;
+  background-color: var(--bg);
+}
+
+.header {
+  // ...other styles
+  transition: all 500ms;
+  background-color: var(--navbar);
+  color: var(--color);
+}
+
+.main {
+  // ...other styles
+  background-color: var(--secondarybg);
+  color: var(--color);
+}
+```
+
+Great! Now all that’s left is to _hook_ up our CSS variables with the dark mode state. React offers us a useEffect hook to do secondary effects.
+
+```js
+ React.useEffect(() => {
+    if (darkMode) {
+      document.documentElement.style.setProperty("--color", "#FFFFFF");
+      document.documentElement.style.setProperty("--navbar", "#333333");
+      document.documentElement.style.setProperty("--bg", "#212121");
+      document.documentElement.style.setProperty("--secondarybg", "#212121");
+    } else {
+      document.documentElement.style.setProperty("--color", "#616161");
+      document.documentElement.style.setProperty("--navbar", "#FFFFFF");
+      document.documentElement.style.setProperty("--bg", "#FFFFFF");
+      document.documentElement.style.setProperty("--secondarybg", "#F5F5F5");
+    }
+  }, [darkMode]);
+```
+
+### Dark Mode Final Implementation
+
+And that’s everything! Let’s check it out in a working example:
+
+%[https://codesandbox.io/embed/react-dark-mode-sczpn?fontsize=14&hidenavigation=1&theme=dark]
+
+Do you have a preferred way to add dark mode to your app? Let me know in the comments below.
+
+More content at [Relatable Code](https://relatablecode.com)
