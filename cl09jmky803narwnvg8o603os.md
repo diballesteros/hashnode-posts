@@ -1,1 +1,197 @@
-IyMgU3RlcC1CeS1TdGVwIGd1aWRlIGZvciB0aGUgZmlyc3QgdGltZSBPcGVuIFNvdXJjZSBjb250cmlidXRpb24KCgohW2ZpcnN0IHRpbWUgb3BlbiBzb3VyY2UgY29udHJpYnV0aW9uXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MTEwMjg0MzUzMy9jNDZ1NWIzaEQucG5nKQoKQWZ0ZXIgZG9pbmcgYSB3aWRlIGFycmF5IG9mIGNvZmZlZSBjaGF0cywgb25lIG9mIHRoZSBtb3N0IGNvbW1vbiBxdWVzdGlvbnMgd2FzIGhvdyB0byBnbyBhYm91dCBjb250cmlidXRpbmcgdG8gb3BlbiBzb3VyY2UuIFNvIEkgZGVjaWRlZCB0byBtYWtlIGFuIGluLWRlcHRoIGhvdy10byBmcm9tIHRoZSB2ZXJ5IGJlZ2lubmluZyB0byB0aGUgdmVyeSBlbmQuICAgClRoaXMgaXMgd2hhdCBJIHdvdWxkIGRvIGFzIGEgZmlyc3QtdGltZSBvcGVuIHNvdXJjZSBjb250cmlidXRvciwgaW5jbHVkaW5nOgoKLSBIb3cgdG8gZmluZCBhbmQgcmVxdWVzdCB0aGUgaXNzdWUKLSBIb3cgdG8gZm9yayBhbmQgY2xvbmUgdGhlIHJlcG8KLSBIb3cgdG8gbWFrZSB0aGUgYnJhbmNoCi0gSG93IHRvIG1ha2UgdGhlIHB1bGwgcmVxdWVzdCB0byB0aGUgb3BlbiBzb3VyY2UgcmVwbwotIEhvdyB0byBnbyB0aHJvdWdoIHRoZSByZXZpZXcgcHJvY2VzcwoKU21hbGwgZGlzY2xhaW1lcjogSeKAmWxsIGp1c3QgYXNzdW1lIHlvdeKAmXJlIHVzaW5nIFZTQ29kZSBob3dldmVyIHRoZSBwcm9jZXNzIGlzIHNpbWlsYXIgd2l0aCBvdGhlciBJREVzLgoKIyMjIEZpbmRpbmcgdGhlIGlzc3VlCgpHaXRodWIgaGFzIGEgdGFnIHN5c3RlbSBmb3IgdGhlaXIgaXNzdWVzLiBJbiBvcmRlciB0byBwcm9tb3RlIHVzZXJzL3JlcG8gb3duZXJzIHRvIGZpbmQgYmVnaW5uZXIgaXNzdWVzIGZvciBwcm9qZWN0cyBhIHRhZyB3YXMgY3JlYXRlZDogKipnb29kIGZpcnN0IGlzc3VlLioqIElzc3VlcyB0YWdnZWQgd2l0aCB0aGlzIGFyZSBhIGdyZWF0IHN0YXJ0aW5nIHBvaW50ISBTaXRlcyBleGlzdCB0aGF0IGNvbXBpbGUgbGlzdHMgb2Ygb3BlbiBzb3VyY2UgcHJvamVjdHMgdGhhdCBoYXZlIHRoaXMgdGFnLiBMZXTigJlzIGdvIGFoZWFkIGFuZCBnb29nbGUgaXQuCgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1NTkwMzIvOGduZVh5RFN6LnBuZykKCkEgZmV3IHJlc3VsdHMgZG93biB5b3UgY2FuIGZpbmQgYSB3ZWJzaXRlIHRoYXQgY29tcGlsZXMgYSBsaXN0IG9mIGdvb2QgZmlyc3QgaXNzdWVzLiBBbHRob3VnaCB0aGVyZSBhcmUgb3RoZXIgYWx0ZXJuYXRpdmVzIEnigJlsbCBjb25jZW50cmF0ZSBvbiB0aGlzIG9uZS4KCiFbZ2l0aHViXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NjIyNDU2MDU4Ni85N0JfdUFkam4ucG5nKQoKW0xpbmsgZm9yIHJlZmVyZW5jZV0oaHR0cHM6Ly9nb29kZmlyc3Rpc3N1ZXMuY29tLykKCk9uIHRoZSBhY3R1YWwgc2l0ZSB3ZSBjYW4gZmlsdGVyIGJ5ICoqSmF2YVNjcmlwdCoqIGFuZCBzdGFydCBsb29raW5nIHRocm91Z2ggc29tZSBpc3N1ZXM6CgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1NjIyMzIvdmppcHFLLS1SLnBuZykKClRoaXMgbGlzdCBpcyBjaHJvbm9sb2dpY2FsIHNvIHRoZXJlIG1heSBiZSBxdWl0ZSBhIGZldyBwcm9qZWN0cyB0aGF0IGFyZW7igJl0IHRvbyBiaWcsIGJ1dCB0aGF04oCZcyBmaW5lISBUaGlzIGlzIG1vc3RseSB0byBwcmFjdGljZSBhbmQgZ2V0IG91ciBmaXJzdCBjb250cmlidXRpb24uCgpGb3VuZCB0aGlzIGlzc3VlIHdoaWNoIHNlZW1lZCBmYWlybHkgc2ltcGxlOgoKIVtnaXRodWJdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ2MjI0NTYzOTA5LzMwNnI5Si1KZS5wbmcpCgpDbGljayBvbiDigJhHbyB0byBJc3N1ZeKAmSB0aGlzIHdpbGwgb3BlbiB1cCB0aGUgR2l0SHViIGlzc3VlLiBPbmNlIHRoZXJlIGxldOKAmXMgcmVhZCB0aGUgZGVzY3JpcHRpb24gYW5kIGhlYWQgb3ZlciB0byB0aGUgQ09OVFJJQlVUSU5HLm1kIHRvIHNlZSBob3cgd2Ugc2hvdWxkIHRhY2tsZSB0aGlzLiBXZSBjYW4gdHlwaWNhbGx5IGZpbmQgdGhpcyBieSBjbGlja2luZyBvbiB0aGUg4oCYQ29kZeKAmSB0YWIgYXQgdGhlIHRvcCBhbmQgZmluZGluZyB0aGUgZmlsZSBpbiB0aGUgcm9vdCBmb2xkZXIuCgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1NjU3MzEvc3ZBa0hjMENULnBuZykKCiFbZ2l0aHViXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NjIyNDU2NzIyOC9saXpaN1NjZ2gucG5nKQoKV2hlbiByZWFkaW5nIHRoZSAqKkNPTlRSSUJVVElORy5tZCoqIGNoZWNrIG91dCBob3cgd2UgY2FuIGJlIGFzc2lnbmVkIGFuIGlzc3VlLgoKIVtnaXRodWJdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ2MjI0NTY4OTY3L0Y2aGRJOFU2bzEucG5nKQoKRmFpciBlbm91Z2ggd2UganVzdCBoYXZlIHRvIGNvbnRhY3QgdGhlIG1haW50YWluZXIuIExldOKAmXMgZG8gdGhpcyBkaXJlY3RseSBmcm9tIHRoZSBpc3N1ZSBzbyB3ZSBjYW4gYmUgYXNzaWduZWQgdGhlIHRhc2s6CgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1NzA3MDMvaGZZUW1uODI1LnBuZykKClVuZm9ydHVuYXRlbHnigKYgSSByZWNlaXZlZCBfbm9fIHJlcGx5ISBTbyBJIGRpZCB0aGlzIHNhbWUgcHJvY2VzcyBmb3IgYW5vdGhlci4gSeKAmWxsIHNraXAgYWhlYWQgdG8gdGhlIHBhcnQgd2hlcmUgdGhleSByZXBseSEKCiFbZ2l0aHViXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NjIyNDU3MjM4Ny9YMkV0MHdXVncucG5nKQoKIyMjIFdvcmtpbmcgdGhyb3VnaCB0aGUgaXNzdWUKCkkgYW0gbm93IGFzc2lnbmVkIHRoZSBidWcuIFNlZW1zIHRvIGJlIGEgc2ltcGxlIFVJL3N0eWxlIGVycm9yLiBMZXTigJlzIGdvIGJhY2sgdG8gdGhlIHJvb3Qgb2YgdGhlIHJlcG8gYW5kIGdldCBhbGwgdGhlIGNvZGUgaW4gb3VyIGxvY2FsIGVudmlyb25tZW50LgoKTGV04oCZcyBmb3JrIGFuZCB0aGVuIGNsb25lIHRoZSByZXBvIGZpcnN0LiBJbiB0aGUgdG9wIHJpZ2h0LCB5b3XigJlsbCBzZWUgYSBmb3JrIGJ1dHRvbi4gVGhpcyB3aWxsIGNyZWF0ZSB0aGUgZXhhY3Qgc2FtZSByZXBvc2l0b3J5IGZvciB5b3UgYXMgd2VsbC4gVGhpcyBpcyB3aGVyZSB5b3XigJlsbCBiZSB3b3JraW5nIGZyb20vCgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1NzQxMDMvanN4U0lBaHA2LnBuZykKCk5vdyB0aGF0IGl04oCZcyBmb3JrZWQgaXTigJlzIHRpbWUgdG8gY2xvbmUgdGhlIHJlcG8uIENsb25pbmcgY2FuIGJlIGRvbmUgaW4gYSB2YXJpZXR5IG9mIGRpZmZlcmVudCB3YXlzLiBCZWxvdyBJ4oCZbGwgcG9zdCBob3cgdG8gZG8gc28gd2l0aCB0aGUgR2l0aHViIENMSSBjb21tYW5kLiBBdCB0aGUgdG9wIHJpZ2h0IHlvdSBjYW4gZmluZCB3aGF0IGNvbW1hbmRzIHRvIHJ1biBpbiB0aGUgKipDb2RlKiogZHJvcGRvd246CgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1NzU2MzAvSVhyVWN0QlhULnBuZykKCm9yCgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1NzgwNzkvU20tR2VsaU5OeS5wbmcpCgpDbGljayBvbiBHaXRodWIgQ0xJIChpbiBjYXNlIHlvdSBuZWVkIHRvIGRvd25sb2FkIGl0IFtoZXJlIGl0IGlzXShodHRwczovL2NsaS5naXRodWIuY29tLykpLiBSdW4gdGhlIGNvbW1hbmQgaW4geW91ciB0ZXJtaW5hbC9jb21tYW5kIHByb21wdC4gSnVzdCBpbiBjYXNlIGhlcmXigJlzIGEgW3F1aWNrIGd1aWRlXShodHRwczovL3d3dy5tYWtldXNlb2YuY29tL3RhZy9hLWJlZ2lubmVycy1ndWlkZS10by10aGUtd2luZG93cy1jb21tYW5kLWxpbmUvKSBvbiB1c2luZyB0aGUgY29tbWFuZCBwcm9tcHQ6ICAKICAgCk9idmlvdXNseSwgZm9yIHRoZSBjYXNlIG9mIHlvdXIgb3BlbiBzb3VyY2UgcHJvamVjdCwgeW914oCZZCByZXBsYWNlICoqc3Rvcm1raXQtaW8vYXBwLXN0b3Jta2l0LWlvKiogd2l0aCB3aGF0IHlvdSBoYXZlCgpgYGAKZ2ggcmVwbyBjbG9uZSBzdG9ybWtpdC1pby9hcHAtc3Rvcm1raXQtaW8KYGBgCgpUeXBpY2FsbHkgaW4gdGhlICoqUkVBRE1FKiogKGF0IHRoZSByb290IG9mIHRoZSByZXBvc2l0b3J5KSwgeW91IGNhbiBmaW5kIGhvdyB0byBydW4gdGhlIGFwcDoKCiFbZ2l0aHViXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NjIyNDU3OTYwNy9mUVJaSWxSTlQucG5nKQoKUnVuIGJvdGggb2YgdGhlc2UgY29tbWFuZHMgZnJvbSB0aGUgdGVybWluYWwgaW4gdGhlIHNhbWUgbG9jYXRpb24gd2hlcmUgeW91IGNsb25lZCB0aGUgcmVwbyEKCkV4YW1wbGU6CgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1ODE1NjQvTy1rTkQ3TmNDLnBuZykKCkkgd29u4oCZdCBnZXQgaW50byB0aGUgZGV0YWlscyBvZiBzb2x2aW5nIHRoZSBlcnJvciBhcyBpdCBjYW4gdmFyeSB3aWxkbHkgZm9yIGVhY2ggY29udHJpYnV0aW9uLiBCdXQganVzdCBrbm93IHRoYXQgSSBmaXhlZCB0aGUgYnVnLiBJ4oCZbGwgZ28gYWhlYWQgYW5kIG1ha2UgdGhlIHB1bGwgcmVxdWVzdCB0byB0aGUgbWFpbiBicmFuY2ghCgpJIHdpbGwgc2F5IG1ha2Ugc3VyZSB5b3UgYWxsIHRoZSBjb2RlIHlvdSB3cm90ZSB0aG9yb3VnaGx5ISBUaGlzIGlzIGltcG9ydGFudC4gSSByZXBlYXQgbWFrZSBzdXJlIHRvIGV2ZXJ5dGhpbmcgeW91IGRpZCwgYWxzbyB0cnkgdG8gZG8gc28gaW4gU2FmYXJpLCBGaXJlZm94LCBhbmQgQ2hyb21lIChpZiBpdOKAmXMgYSB3ZWIgYXBwKSB0byBtYWtlIHN1cmUgdGhlcmUgYXJlIG5vIGNvbXBhdGliaWxpdHkgaXNzdWVzLiBEb3VibHkgc28gaWYgdGhlIG9wZW4tc291cmNlIHByb2plY3QgaGFzIHRlc3RzIHlvdSBjYW4gcnVuLgoKQXMgYSBzbWFsbCBhc2lkZSBpbiBWU0NvZGUsIHlvdSBzaG91bGQgYmUgYWJsZSB0byBzZWUgd2hhdCBmaWxlcyB5b3UgbW9kaWZpZWQgb24gdGhlIHJpZ2h0IGJ5IGNoZWNraW5nIG91dCB0aGUgKipzb3VyY2UgY29udHJvbCoqLgoKIVtnaXRodWJdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ2MjI0NTgzNDUyL0RKZWVBVkFxWFQucG5nKQoKX0ZvciB0aG9zZSB0aGF0IGFyZSBjdXJpb3VzIHRvIHJlc29sdmUgdGhlIGJ1ZywgaXQgd2FzIGxpdGVyYWxseSBqdXN0IGEgc2luZ2xlIGxpbmUgb2YgY29kZeKApi4hXwoKIyMjIE1ha2luZyB0aGUgcHVsbCByZXF1ZXN0CgpBbHRob3VnaCB5b3UgY291bGQgaGF2ZSBkb25lIHRoaXMgc3RlcCBiZWZvcmUgZml4aW5nIHRoZSBidWcsIGxldOKAmXMgY3JlYXRlIGEgYnJhbmNoLiBDbGljayBvbiB0aGUgbWFzdGVyIGJ1dHRvbiBiZWxvdwoKIVtnaXRodWJdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ2MjI0NTg1MDM1L0E3dW9GQU41Uy5wbmcpCgpDcmVhdGUgYSBicmFuY2g6CgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1ODY1ODcvMG9yclZGajQ0LnBuZykKCkFzIGZvciB0aGUgbmFtZS4gSSB0eXBpY2FsbHkgbGlrZSB0byBkbyBpdCBpbiBvbmUgb2YgdGhlIGZvbGxvd2luZyBmb3JtYXRzOgoKYGBgCjxNWSBHQiBVU0VSTkFNRT4vU2hvcnRfbmFtZV9zZXBhcmF0ZWRfYnlfdW5kZXJzY29yZXMKYGBgCgpJbiB0aGUgQ09OVFJJQlVUSU5HLm1kIHRoZXJlIG1heSBiZSBzb21lIGluZm8gb24gaG93IHRvIG5hbWUgdGhlIGJyYW5jaGVzLiBJZiBub3QsIGhvd2V2ZXIsIGEgZ29vZCBpZGVhIG1heSBiZSB0byBsb29rIGF0IHRoZSByZXBvIGFuZCBjaGVjayBvdXQgdGhlIHB1bGwgcmVxdWVzdCB0YWJzIGFuZCBjaGVjayBDbG9zZWQKCiFbZ2l0aHViXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NjIyNDU4ODExNi9JSFVUMHlQRmhqLnBuZykKCkxvb2sgYXQgaG93IHRoZSBvdGhlciBicmFuY2hlcyB3ZXJlIG5hbWVkIGFuZCBqdXN0IGNvcHkgYSBzaW1pbGFyIGZvcm1hdCEKCkFmdGVyIGNyZWF0aW5nIHRoZSBicmFuY2ggaXQgc2hvdWxkIHN3aXRjaCB0byBpdCBhdXRvbWF0aWNhbGx5LiBOb3cgbGV04oCZcyBwdXNoIHVwIHRoZSBjb2RlOgoKIVtnaXRodWJdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ2MjI0NTg5NzY4L2dBaXk2Y1daYi5wbmcpCgpUaGVzZSBhcmUgdGhlIGNvbW1hbmRzIEkgZXhlY3V0ZWQgYWZ0ZXIgc3dpdGNoaW5nOgoKYGBgCmdpdCBwdXNoIC11IG9yaWdpbiBnaXQgcHVzaCAtLXNldC11cHN0cmVhbSBvcmlnaW4gPE5BTUUgT0YgQlJBTkNIPgpgYGAKCiMjIyBTaWRlbm90ZQoKQXMgYSBzbWFsbCByZWZyZXNoZXIgd2hlbiB5b3XigJlyZSBkb25lIHdvcmtpbmcgdGhyb3VnaCB5b3VyIGNvZGUgZG9u4oCZdCBmb3JnZXQgdGhlIGJhc2ljIGdpdCBjb21tYW5kcyB0byBzdGFnZSBhbmQgY29tbWl0IHlvdXIgY2hhbmdlcyEKCmBgYApnaXQgYWRkIDxDSEFOR0VEIEZJTEVTPiBnaXQgY29tbWl0IC1tICJ7e01FQU5JTkdGVUwgQ09NTUlUIE1FU1NBR0V9fQpgYGAKCkhlcmUgYXJlIHR3byByZXNvdXJjZXMgZm9yIG1ha2luZyBtZWFuaW5nZnVsIGNvbW1pdCBtZXNzYWdlcyBhbmQgZm9yIGNvbW1pdCBjb21tYW5kcyBpbiBnZW5lcmFsczoKClRoaXMgY2FuIGFsc28gYmUgZG9uZSBzdHJhaWdodCBmcm9tIFZTQ29kZSB3aXRoIHRoZSBHVUkuCgpbaHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9uZXdzL2dpdC1jb21taXQtY29tbWFuZC1leHBsYWluZWQvXShodHRwczovL3d3dy5mcmVlY29kZWNhbXAub3JnL25ld3MvZ2l0LWNvbW1pdC1jb21tYW5kLWV4cGxhaW5lZC8pICAKW2h0dHBzOi8vd3d3LmZyZWVjb2RlY2FtcC5vcmcvbmV3cy9ob3ctdG8td3JpdGUtYmV0dGVyLWdpdC1jb21taXQtbWVzc2FnZXMvXShodHRwczovL3d3dy5mcmVlY29kZWNhbXAub3JnL25ld3MvaG93LXRvLXdyaXRlLWJldHRlci1naXQtY29tbWl0LW1lc3NhZ2VzLykKCiMjIyBCYWNrIHRvIHRoZSBQdWxsIFJlcXVlc3QKCkFmdGVyIHB1c2hpbmcgdGhlIGNvZGUgeW91IGNhbiBub3cgZ28gYmFjayB0byBHaXRodWIuIEluIHRoZSBvcmlnaW5hbCByZXBvIHlvdeKAmWxsIHNlZSBhbiBvcHRpb24gdG8gY3JlYXRlIHRoZSBvZmZpY2lhbCBwdWxsIHJlcXVlc3Q6CgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1OTE2MzMvZS1KdWhzU3ZNLnBuZykKCkxldOKAmXMgZ28gYWhlYWQgYW5kIGNyZWF0ZSBpdC4gSW4gdGhlIFBSIHdyaXRlIGZpZWxkLCB3ZSBzaG91bGQgYmUgdmVyeSBleHBsaWNpdCBhYm91dCB0aGUgY2hhbmdlcyB3ZSBtYWRlLiBQb3NzaWJseSBpbmNsdWRlIGEgc2NyZWVuc2hvdCBzbyB0aGUgcmV2aWV3ZXIga25vd3MgZXhhY3RseSB3aGF0IHdhcyBjaGFuZ2VkLiBBbHNvLCB5b3UgY2FuIHJlZmVyZW5jZSB0aGUgaXNzdWUgd2l0aCB0aGUgZm9sbG93aW5nIGxpbmUgaW4gdGhlIG1hcmtkb3duLiBBcyBhbHdheXMgcmVmZXJlbmNlIGFueSBkb2NzIHRvIGtub3cgd2hhdCB0aGUgb3Blbi1zb3VyY2UgcHJvamVjdCBtYWludGFpbmVycyBwcmVmZXI6CgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1OTMxNTYvV0dsVlBhMFIyLnBuZykKCiFbZ2l0aHViXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NjIyNDU5NTA4Ny91bVdCVnk1blIucG5nKQoKTm93IHdlIHBsYXkgdGhlIHdhaXRpbmcgZ2FtZSBmb3IgdGhlIG1haW50YWluZXJzIG9mIHRoZSByZXBvIHRvIHJldmlldyB0aGUgY29kZS4KCiMjIyBUaGUgcmV2aWV3CgpTb21ldGltZXMgdGhlIHJldmlld2VyIG1pZ2h0IGFzayBmb3IgYWRqdXN0bWVudHMgaGVyZS4gRm9yIHRoZSBzYWtlIG9mIHRoaXMgZXhhbXBsZSwgSeKAmWxsIHByZXRlbmQgdGhlcmUgd2FzIGEgcmV2aWV3IHdpdGggYWRqdXN0bWVudHMgbmVlZGVkLgoKT24gdGhlIHNhbWUgcHVsbCByZXF1ZXN0IHBhZ2UgeW91IG1heSBzZWUgc29tZSBjb21tZW50cyBsaWtlIHRoaXMsIHdoaWNoIGNvdWxkIGVpdGhlciBhc2sgZm9yIGFkanVzdG1lbnRzIG9yIGNsYXJpZmljYXRpb24gYWJvdXQgdGhlIGNvZGU6CgohW2dpdGh1Yl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDYyMjQ1OTcwMjgvT2xxOWJjV2FPLnBuZykKCklkZWFsbHksIHlvdSB3b3VsZCBnbyB0aHJvdWdoIGFsbCB0aGUgY29tbWVudHMsIHJlc29sdmUgdGhlbSBpbiB5b3VyICoqb3duKiogYnJhbmNoLCBzdGFnZSwgY29tbWl0IGFuZCBwdXNoIHRoZW0gb25jZSBhZ2Fpbi4gT25jZSB0aGV54oCZcmUgdXBsb2FkZWQgZ28gYWhlYWQgYW5kIHJlLXJlcXVlc3QgdGhlIHJldmlldyBmcm9tIHRoZSB0b3AgcmlnaHQgd2l0aCB0aGUgbGl0dGxlIHJlZnJlc2ggaWNvbi4KCiFbZ2l0aHViXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NjIyNDU5ODYwOC9pS0xUMERxVHUucG5nKQoKQWZ0ZXIgdGhlIHJldmlldyBjaGVja3Mgb3V0IHRoZSBuZXcgY29kZSB5b3UgY2FuIGdvIGFoZWFkIGFuZCByZXNvbHZlIHRoZSBjb252ZXJzYXRpb25zLgoKT25jZSBldmVyeXRoaW5nIGlzIGdvb2QgdG8gZ28gdGhlIHJldmlld2VyIHdpbGwgYXBwcm92ZSB0aGUgcHVsbCByZXF1ZXN0LCByZXNvbHZlIHRoZSBpc3N1ZSBhbmQgbWVyZ2UgZXZlcnl0aGluZzoKCiFbZ2l0aHViXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NjIyNDYwMDEyNC9iR0RRWnY4Y20ucG5nKQoKIVtnaXRodWJdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ2MjI0NjAyMDgzL0UtUDl4VkswVi5wbmcpCgpDb25ncmF0dWxhdGlvbnMgaWYgeW914oCZdmUgZ290dGVuIHRoaXMgZmFyIHlvdSBzaG91bGQgb2ZmaWNpYWxseSBiZSBhIGNvbnRyaWJ1dG9yISBZb3UgY2FuIGNoZWNrIG91dCB0aGUgZW50aXJlIGxpc3Qgb24gdGhlIHJlcG8gaG9tZSBwYWdlLgoKIVtnaXRodWJdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjQ2MjI0NjAzNjgwL25OV2RKeXJsdi5wbmcpCgpIb3BlZnVsbHksIHRoaXMgZ2V0cyB5b3VyIGZlZXQgd2V0LiBPcGVuIHNvdXJjZSBpcyBhbiBpbmNyZWRpYmxlIHRoaW5nIGZvciB1cyBkZXZlbG9wZXJzIGFuZCBnaXZpbmcgYmFjayBpcyBnb29kISBTb21ldGhpbmcgdG8ga2VlcCBpbiBtaW5kIGlzIHRoYXQgbm90IGFsbCBjb250cmlidXRpb25zIHdpbGwgYmUgYnVnIGZpeGVzIHRoZXkgbWF5IGFsc28gaW5jbHVkZToKCi0gQ3JlYXRpbmcgdGVzdHMKLSBJbXByb3Zpbmcgb3IgdHJhbnNsYXRpbmcgZG9jdW1lbnRhdGlvbgoKTGV0IG1lIGtub3cgaW4gdGhlIGNvbW1lbnRzIGJlbG93IGFib3V0IHlvdXIgZXhwZXJpZW5jZXMgd2l0aCBvcGVuIHNvdXJjZSEKCk1vcmUgY29udGVudCBhdCBbUmVsYXRhYmxlIENvZGVdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20pLgoKSWYgeW91IGxpa2VkIHRoaXMgZmVlbCBmcmVlIHRvIGNvbm5lY3Qgd2l0aCBtZSBvbiBbTGlua2VkSW5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9kaWVnby1iYWxsZXN0ZXJvcy05NDY4YTcxMzYvKSBvciBbVHdpdHRlcl0oaHR0cHM6Ly90d2l0dGVyLmNvbS9yZWxhdGFibGVjb2RlcikuCgpfT3JpZ2luYWxseSBwdWJsaXNoZWQgYXRfIFtfaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbV9dKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20vc3RlcC1ieS1zdGVwLWd1aWRlLWZvci1maXJzdC10aW1lLW9wZW4tc291cmNlLWNvbnRyaWJ1dGlvbi8pIF9vbiBNYXJjaCAyLCAyMDIyLl8=
+# Step-By-Step guide for the first time Open Source contribution
+
+
+![first time open source contribution](https://cdn.hashnode.com/res/hashnode/image/upload/v1651102843533/c46u5b3hD.png)
+
+After doing a wide array of coffee chats, one of the most common questions was how to go about contributing to open source. So I decided to make an in-depth how-to from the very beginning to the very end.   
+This is what I would do as a first-time open source contributor, including:
+
+- How to find and request the issue
+- How to fork and clone the repo
+- How to make the branch
+- How to make the pull request to the open source repo
+- How to go through the review process
+
+Small disclaimer: I’ll just assume you’re using VSCode however the process is similar with other IDEs.
+
+### Finding the issue
+
+Github has a tag system for their issues. In order to promote users/repo owners to find beginner issues for projects a tag was created: **good first issue.** Issues tagged with this are a great starting point! Sites exist that compile lists of open source projects that have this tag. Let’s go ahead and google it.
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224559032/8gneXyDSz.png)
+
+A few results down you can find a website that compiles a list of good first issues. Although there are other alternatives I’ll concentrate on this one.
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224560586/97B_uAdjn.png)
+
+[Link for reference](https://goodfirstissues.com/)
+
+On the actual site we can filter by **JavaScript** and start looking through some issues:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224562232/vjipqK--R.png)
+
+This list is chronological so there may be quite a few projects that aren’t too big, but that’s fine! This is mostly to practice and get our first contribution.
+
+Found this issue which seemed fairly simple:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224563909/306r9J-Je.png)
+
+Click on ‘Go to Issue’ this will open up the GitHub issue. Once there let’s read the description and head over to the CONTRIBUTING.md to see how we should tackle this. We can typically find this by clicking on the ‘Code’ tab at the top and finding the file in the root folder.
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224565731/svAkHc0CT.png)
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224567228/lizZ7Scgh.png)
+
+When reading the **CONTRIBUTING.md** check out how we can be assigned an issue.
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224568967/F6hdI8U6o1.png)
+
+Fair enough we just have to contact the maintainer. Let’s do this directly from the issue so we can be assigned the task:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224570703/hfYQmn825.png)
+
+Unfortunately… I received _no_ reply! So I did this same process for another. I’ll skip ahead to the part where they reply!
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224572387/X2Et0wWVw.png)
+
+### Working through the issue
+
+I am now assigned the bug. Seems to be a simple UI/style error. Let’s go back to the root of the repo and get all the code in our local environment.
+
+Let’s fork and then clone the repo first. In the top right, you’ll see a fork button. This will create the exact same repository for you as well. This is where you’ll be working from/
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224574103/jsxSIAhp6.png)
+
+Now that it’s forked it’s time to clone the repo. Cloning can be done in a variety of different ways. Below I’ll post how to do so with the Github CLI command. At the top right you can find what commands to run in the **Code** dropdown:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224575630/IXrUctBXT.png)
+
+or
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224578079/Sm-GeliNNy.png)
+
+Click on Github CLI (in case you need to download it [here it is](https://cli.github.com/)). Run the command in your terminal/command prompt. Just in case here’s a [quick guide](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) on using the command prompt:  
+   
+Obviously, for the case of your open source project, you’d replace **stormkit-io/app-stormkit-io** with what you have
+
+```
+gh repo clone stormkit-io/app-stormkit-io
+```
+
+Typically in the **README** (at the root of the repository), you can find how to run the app:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224579607/fQRZIlRNT.png)
+
+Run both of these commands from the terminal in the same location where you cloned the repo!
+
+Example:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224581564/O-kND7NcC.png)
+
+I won’t get into the details of solving the error as it can vary wildly for each contribution. But just know that I fixed the bug. I’ll go ahead and make the pull request to the main branch!
+
+I will say make sure you all the code you wrote thoroughly! This is important. I repeat make sure to everything you did, also try to do so in Safari, Firefox, and Chrome (if it’s a web app) to make sure there are no compatibility issues. Doubly so if the open-source project has tests you can run.
+
+As a small aside in VSCode, you should be able to see what files you modified on the right by checking out the **source control**.
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224583452/DJeeAVAqXT.png)
+
+_For those that are curious to resolve the bug, it was literally just a single line of code….!_
+
+### Making the pull request
+
+Although you could have done this step before fixing the bug, let’s create a branch. Click on the master button below
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224585035/A7uoFAN5S.png)
+
+Create a branch:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224586587/0orrVFj44.png)
+
+As for the name. I typically like to do it in one of the following formats:
+
+```
+<MY GB USERNAME>/Short_name_separated_by_underscores
+```
+
+In the CONTRIBUTING.md there may be some info on how to name the branches. If not, however, a good idea may be to look at the repo and check out the pull request tabs and check Closed
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224588116/IHUT0yPFhj.png)
+
+Look at how the other branches were named and just copy a similar format!
+
+After creating the branch it should switch to it automatically. Now let’s push up the code:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224589768/gAiy6cWZb.png)
+
+These are the commands I executed after switching:
+
+```
+git push -u origin git push --set-upstream origin <NAME OF BRANCH>
+```
+
+### Sidenote
+
+As a small refresher when you’re done working through your code don’t forget the basic git commands to stage and commit your changes!
+
+```
+git add <CHANGED FILES> git commit -m "{{MEANINGFUL COMMIT MESSAGE}}
+```
+
+Here are two resources for making meaningful commit messages and for commit commands in generals:
+
+This can also be done straight from VSCode with the GUI.
+
+[https://www.freecodecamp.org/news/git-commit-command-explained/](https://www.freecodecamp.org/news/git-commit-command-explained/)  
+[https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
+### Back to the Pull Request
+
+After pushing the code you can now go back to Github. In the original repo you’ll see an option to create the official pull request:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224591633/e-JuhsSvM.png)
+
+Let’s go ahead and create it. In the PR write field, we should be very explicit about the changes we made. Possibly include a screenshot so the reviewer knows exactly what was changed. Also, you can reference the issue with the following line in the markdown. As always reference any docs to know what the open-source project maintainers prefer:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224593156/WGlVPa0R2.png)
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224595087/umWBVy5nR.png)
+
+Now we play the waiting game for the maintainers of the repo to review the code.
+
+### The review
+
+Sometimes the reviewer might ask for adjustments here. For the sake of this example, I’ll pretend there was a review with adjustments needed.
+
+On the same pull request page you may see some comments like this, which could either ask for adjustments or clarification about the code:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224597028/Olq9bcWaO.png)
+
+Ideally, you would go through all the comments, resolve them in your **own** branch, stage, commit and push them once again. Once they’re uploaded go ahead and re-request the review from the top right with the little refresh icon.
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224598608/iKLT0DqTu.png)
+
+After the review checks out the new code you can go ahead and resolve the conversations.
+
+Once everything is good to go the reviewer will approve the pull request, resolve the issue and merge everything:
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224600124/bGDQZv8cm.png)
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224602083/E-P9xVK0V.png)
+
+Congratulations if you’ve gotten this far you should officially be a contributor! You can check out the entire list on the repo home page.
+
+![github](https://cdn.hashnode.com/res/hashnode/image/upload/v1646224603680/nNWdJyrlv.png)
+
+Hopefully, this gets your feet wet. Open source is an incredible thing for us developers and giving back is good! Something to keep in mind is that not all contributions will be bug fixes they may also include:
+
+- Creating tests
+- Improving or translating documentation
+
+Let me know in the comments below about your experiences with open source!
+
+More content at [Relatable Code](https://relatablecode.com).
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/diego-ballesteros-9468a7136/) or [Twitter](https://twitter.com/relatablecoder).
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/step-by-step-guide-for-first-time-open-source-contribution/) _on March 2, 2022._
