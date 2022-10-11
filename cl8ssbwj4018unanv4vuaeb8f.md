@@ -1,1 +1,106 @@
-IyMgTWlncmF0aW5nIFp1c3RhbmQgZnJvbSB2ZXJzaW9uIDMgdG8gNAoKCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NDY0MDY3Mjk2NC8wVmVqSWJRTDIucG5nIGFsaWduPSJsZWZ0IikKCiMjIyBJbnRyb2R1Y3Rpb24KClp1c3RhbmQgaXMgYW4gYXdlc29tZSBzdGF0ZSBtYW5hZ2VtZW50IGxpYnJhcnkgZm9yIFJlYWN0IHRoYXQgZXhjZWxzIGluIGl0cyBzaW1wbGljaXR5LiBJdHMganVzdCBvbmUgaG9vayB0aGF0IGNhbiB0aGVuIGJlIGNhbGxlZCBmcm9tIGFueXdoZXJlIGluIHRoZSBhcHAgdG8gYWNjZXNzIHlvdXIgKipzdG9yZSoqLiAKClRoaXMgc2ltcGxpY2l0eSBoYXMgbWFkZSBpdCB0aGUgcGVyZmVjdCBjaG9pY2UgZm9yIHBlcnNvbmFsIHNtYWxsLW1lZGl1bSBzaXplZCBhcHBzIGJlY2F1c2UgaXQgcmVxdWlyZXMgbGl0dGxlIGJvaWxlcnBsYXRlIGFuZCBpdCBjb21lcyBiYWtlZCBpbiB3aXRoIHNvbWUgYXdlc29tZSBtaWRkbGV3YXJlIQoKQXMgYW4gYXNpZGUgbWlkZGxld2FyZSBpczoKCnN1Y2ggYXM6CgotIFBlcnNpc3RpbmcgdG8gbG9jYWwgc3RvcmFnZQotIEltbWVyIHRvIG1ha2Ugc3RhdGUgY2hhbmdlcyBlYXNpZXIgdG8gaGFuZGxlCi0gU3RvcmUgdmVyc2lvbiBhbmQgbWlncmF0aW9uIGhhbmRsaW5nCgpJIHVzZWQgdGhpcyBsaWJyYXJ5IHRvIGhhbmRsZSBwZXJzaXN0ZWQgZGF0YSBpbiBhIHBlcnNvbmFsIGFwcCBvZiBbbWluZV0oaHR0cHM6Ly9udXpsb2NrZS5uZXRsaWZ5LmFwcC8pLiBFc3NlbnRpYWxseSBpdHMgYSBDUlVEIGFwcCB0byBtYW5hZ2UgUG9rZW1vbiB5b3UgcnVuIGludG8gaW4gYSBwbGF5dGhyb3VnaCBvZiBhIGdhbWUuCgpUaGUgaW1wb3J0YW50IHBhcnQgaG93ZXZlciBpcyB0aGF0IEkgaGF2ZSBhbiAqKm9ic2Vzc2lvbioqIHdpdGgga2VlcGluZyBteSBsaWJyYXJpZXMgdXAtdG8tZGF0ZSAoc3BlY2lmaWNhbGx5IGluIHRoZXNlIHNtYWxsIHBlcnNvbmFsIGFwcHMpIHNvIEkgZGVjaWRlZCB0byBnbyBhaGVhZCBhbmQgbWlncmF0ZSBadXN0YW5kIGZyb20gdmVyc2lvbiAzIHRvIDQuCgpBcyBhIHNtYWxsIGRpc2NsYWltZXIgdGhpcyBhcnRpY2xlIGFzc3VtZXMgeW91IGhhdmUgc29tZSBiYXNlIGxldmVsIGV4cGVyaWVuY2Ugd2l0aCBadXN0YW5kLgoKIyMjIE1pZ3JhdGlvbiBQcm9jZXNzCgpGaXJzdCBhbmQgZm9yZW1vc3QgeW91IGNhbiBjaGVjayBvdXQgdGhlIGNoYW5nZWxvZyBhbmQgYW55IHNwZWNpZmljIGNoYW5nZXMgeW91IG1heSBuZWVkIHRvIGRvIG9uIHRoZSBbWnVzdGFuZCBHaXRIdWIgcmVwbyBjaGFuZ2Vsb2ddKGh0dHBzOi8vZ2l0aHViLmNvbS9wbW5kcnMvenVzdGFuZC9yZWxlYXNlcykuCgpGaXJzdCwgbGV0J3MgZ28gYWhlYWQgYW5kIHVwZGF0ZSB0aGUgbGlicmFyeToKCmBgYHRzCnlhcm4gYWRkIHp1c3RhbmQKYGBgCkluIG15IGNhc2UsIGl0IHVwZGF0ZWQgdG8gYDQuMS4xYC4KCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NDcxMDQyNDc1Ni9ieUo0ZmFid1kucG5nIGFsaWduPSJsZWZ0IikKCkFsbCB0aGUgcHJldmlvdXMgQVBJcyBhcmUgYmFja3dhcmQgY29tcGF0aWJsZSBzbyBrZWVwIGluIG1pbmQgdGhhdCB0aGUgY2hhbmdlcyBJJ20gZ29pbmcgdG8gbWFrZSBhcHBseSB0byBUeXBlc2NyaXB0LgoKW0ltbWVyXShodHRwczovL2ltbWVyanMuZ2l0aHViLmlvL2ltbWVyLykgaXMgYSBsaWJyYXJ5IHRoYXQgYWxsb3dzIHlvdSB0byB3b3JrIHdpdGggaW1tdXRhYmxlIHN0YXRlIGRhdGEgaW4gYSBtb3JlIGNvbnZlbmllbnQgd2F5LiBCZWZvcmUgd2UgaGFkIHRvIGV4cGxpY2l0bHkgc2V0IHRoZSB0eXBlIGxpa2UgdGhpcyBhbmQgdGhlIGZ1bmN0aW9uIHRvIHVzZSBpdDoKCmBgYHRzCmNvbnN0IGltbWVyID0KICA8VCBleHRlbmRzIFN0YXRlPihjb25maWc6IFN0YXRlQ3JlYXRvcjxUPik6IFN0YXRlQ3JlYXRvcjxUPiA9PgogIChzZXQsIGdldCwgYXBpKSA9PgogICAgY29uZmlnKAogICAgICAocGFydGlhbCwgcmVwbGFjZSkgPT4gewogICAgICAgIGNvbnN0IG5leHRTdGF0ZSA9CiAgICAgICAgICB0eXBlb2YgcGFydGlhbCA9PT0gJ2Z1bmN0aW9uJyA/IHByb2R1Y2UocGFydGlhbCBhcyAoc3RhdGU6IFQpID0+IFQpIDogKHBhcnRpYWwgYXMgVCk7CiAgICAgICAgcmV0dXJuIHNldChuZXh0U3RhdGUsIHJlcGxhY2UpOwogICAgICB9LAogICAgICBnZXQsCiAgICAgIGFwaQogICAgKTsKYGBgCgpIb3dldmVyLCB3ZSBjYW4gbm93IGp1c3QgaW1wb3J0IGl0IGRpcmVjdGx5IGZyb20gWnVzdGFuZCdzIG1pZGRsZXdhcmUsIHNvIHdlIGNhbiBkZWxldGUgdGhlIGFib3ZlIGNvZGUuCgpgYGB0cwppbXBvcnQgeyBpbW1lciB9IGZyb20gJ3p1c3RhbmQvbWlkZGxld2FyZS9pbW1lcic7CmBgYApOZXh0LCAgdGhlIHNlY3Rpb24gd2hlcmUgeW91J3JlIGNyZWF0aW5nIHRoZSBzdG9yZSByZXF1aXJlcyBhIHNtYWxsIGNoYW5nZToKCmBgYHRzCmNvbnN0IHVzZVN0b3JlID0gY3JlYXRlPEFwcFN0YXRlPigKYGBgCgp0bwoKYGBgdHMKY29uc3QgdXNlU3RvcmUgPSBjcmVhdGU8QXBwU3RhdGU+KCkoCmBgYAoKSXQgaXMgbm93IHRyZWF0ZWQgYXMgYSBjdXJyaWVkIGZ1bmN0aW9uLgoKTGFzdCBidXQgbm90IGxlYXN0LCBJIHVzZWQgdGhlIGBtaWdyYXRlYCBvcHRpb24gaW4gdGhlIGBQZXJzaXNPcHRpb25zYCB0aGF0IFp1c3RhbmQgcHJvdmlkZXMgdG8gcGVyc2lzdCBhbGwgZGF0YSB0byBsb2NhbCBzdG9yYWdlLiBIb3dldmVyLCB0aGUgc3RhdGUgb2YgdGhpcyBhcHAgaXMgbm93IGNvbnNpZGVyZWQgYHVua25vd25gIGJ5IFR5cGVzY3JpcHQuCgpXZSBjYW4gZml4IHRoaXMgYnkgZXhwbGljaXRseSBkZWNsYXJpbmcgdGhlIHR5cGUgd2l0aCBhbiBhc3NlcnQgZnVuY3Rpb24uIEZvciB0aGUgc2FrZSBvZiBicmV2aXR5IEkgZGlkIHNvbWV0aGluZyBsaWtlIHRoaXM6CgpgYGB0cwogbWlncmF0ZTogKHBlcnNpc3RlZFN0YXRlLCB2ZXJzaW9uKSA9PiB7CiAgICAgIGFzc2VydEFwcFN0YXRlKHBlcnNpc3RlZFN0YXRlKTsKYGBgCgpUaGUgYXNzZXJ0IGZ1bmN0aW9uIGxvb2tzIHNvbWV0aGluZyBsaWtlIHRoaXM6CgpgYGB0cwpmdW5jdGlvbiBhc3NlcnRBcHBTdGF0ZSh2YWw6IHVua25vd24pOiBhc3NlcnRzIHZhbCBpcyBBcHBTdGF0ZSB7CiAgaWYgKHR5cGVvZiB2YWwgIT09ICdvYmplY3QnKSB7CiAgICB0aHJvdyBuZXcgVHlwZUVycm9yKCdJbnZhbGlkIGFwcCBzdGF0ZScpOwogIH0KfQpgYGAKClRoaXMgbWVhbnMgYW55dGltZSBJIGNhbGwgbXkgc3RhdGUgb2JqZWN0IGFmdGVyd2FyZCBpbiB0aGUgYG1pZ3JhdGVgIGZ1bmN0aW9uIHRoZW4gaXQgd2lsbCBoYXZlIHRoZSBjb3JyZWN0IHR5cGluZyByYXRoZXIgdGhhbiBgdW5rbm93bmAuCgojIyMgV3JhcHBpbmcgaXQgdXAKClp1c3RhbmQgaXMgYW4gYXdlc29tZSBsaWJyYXJ5IHRoYXQgaXMgc2ltcGxlIHRvIHVzZS4gSSByZWNvbW1lbmQgdXNpbmcgaXQgaW4gYW55IHByb2plY3QgeW91IG1heSBiZSB3b3JraW5nIG9uLiBJZiB5b3UgaGF2ZSBhbnkgb3RoZXIgcXVlc3Rpb25zIG9yIHN0b3JpZXMgYWJvdXQgeW91ciBtaWdyYXRpb24gcHJvY2VzcyBsZWF2ZSB0aGVtIGluIHRoZSBjb21tZW50cyBiZWxvdyEKCiMjIyBMZXQncyBjb25uZWN0CgpJZiB5b3UgbGlrZWQgdGhpcyBmZWVsIGZyZWUgdG8gY29ubmVjdCB3aXRoIG1lIG9uIFtMaW5rZWRJbl0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3JlbGF0YWJsZWNvZGUpIG9yIFtUd2l0dGVyXShodHRwczovL3R3aXR0ZXIuY29tL3JlbGF0YWJsZWNvZGVyKQoKQ2hlY2sgb3V0IG15IGZyZWUgZGV2ZWxvcGVyIHJvYWRtYXAgYW5kIHdlZWtseSB0ZWNoIGluZHVzdHJ5IG5ld3MgaW4gbXkgW25ld3NsZXR0ZXJdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5zdWJzdGFjay5jb20vKS4=
+# Migrating Zustand from version 3 to 4
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1664640672964/0VejIbQL2.png align="left")
+
+### Introduction
+
+Zustand is an awesome state management library for React that excels in its simplicity. Its just one hook that can then be called from anywhere in the app to access your **store**. 
+
+This simplicity has made it the perfect choice for personal small-medium sized apps because it requires little boilerplate and it comes baked in with some awesome middleware!
+
+As an aside middleware is:
+
+such as:
+
+- Persisting to local storage
+- Immer to make state changes easier to handle
+- Store version and migration handling
+
+I used this library to handle persisted data in a personal app of [mine](https://nuzlocke.netlify.app/). Essentially its a CRUD app to manage Pokemon you run into in a playthrough of a game.
+
+The important part however is that I have an **obsession** with keeping my libraries up-to-date (specifically in these small personal apps) so I decided to go ahead and migrate Zustand from version 3 to 4.
+
+As a small disclaimer this article assumes you have some base level experience with Zustand.
+
+### Migration Process
+
+First and foremost you can check out the changelog and any specific changes you may need to do on the [Zustand GitHub repo changelog](https://github.com/pmndrs/zustand/releases).
+
+First, let's go ahead and update the library:
+
+```ts
+yarn add zustand
+```
+In my case, it updated to `4.1.1`.
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1664710424756/byJ4fabwY.png align="left")
+
+All the previous APIs are backward compatible so keep in mind that the changes I'm going to make apply to Typescript.
+
+[Immer](https://immerjs.github.io/immer/) is a library that allows you to work with immutable state data in a more convenient way. Before we had to explicitly set the type like this and the function to use it:
+
+```ts
+const immer =
+  <T extends State>(config: StateCreator<T>): StateCreator<T> =>
+  (set, get, api) =>
+    config(
+      (partial, replace) => {
+        const nextState =
+          typeof partial === 'function' ? produce(partial as (state: T) => T) : (partial as T);
+        return set(nextState, replace);
+      },
+      get,
+      api
+    );
+```
+
+However, we can now just import it directly from Zustand's middleware, so we can delete the above code.
+
+```ts
+import { immer } from 'zustand/middleware/immer';
+```
+Next,  the section where you're creating the store requires a small change:
+
+```ts
+const useStore = create<AppState>(
+```
+
+to
+
+```ts
+const useStore = create<AppState>()(
+```
+
+It is now treated as a curried function.
+
+Last but not least, I used the `migrate` option in the `PersisOptions` that Zustand provides to persist all data to local storage. However, the state of this app is now considered `unknown` by Typescript.
+
+We can fix this by explicitly declaring the type with an assert function. For the sake of brevity I did something like this:
+
+```ts
+ migrate: (persistedState, version) => {
+      assertAppState(persistedState);
+```
+
+The assert function looks something like this:
+
+```ts
+function assertAppState(val: unknown): asserts val is AppState {
+  if (typeof val !== 'object') {
+    throw new TypeError('Invalid app state');
+  }
+}
+```
+
+This means anytime I call my state object afterward in the `migrate` function then it will have the correct typing rather than `unknown`.
+
+### Wrapping it up
+
+Zustand is an awesome library that is simple to use. I recommend using it in any project you may be working on. If you have any other questions or stories about your migration process leave them in the comments below!
+
+### Let's connect
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/relatablecode) or [Twitter](https://twitter.com/relatablecoder)
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
