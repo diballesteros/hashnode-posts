@@ -1,1 +1,118 @@
-IyMgVGVzdGluZyBhIFJlYWN0IEFwcGxpY2F0aW9uOiBXaGF0IGlzIFZpdGVzdD8KCiMjIyBJbnRyb2R1Y3Rpb24KClZpdGVzdCBpcyBhICoqdW5pdC10ZXN0KiogZnJhbWV3b3JrIHRoYXQgaXMg4oCcYmxhemluZ2x5IGZhc3TigJ0gYW5kLCAqKndvdyoqICwgaXQgaXMuIFRvZGF5IEnigJlsbCBiZSBnb2luZyBvdmVyIGhvdyB0byBzZXQgdXAgdml0ZXN0IGFuZCBhIGJyaWVmIGV4cGxhbmF0aW9uIG9mIGhvdyBpdCB3b3Jrcy4gSnVzdCBmb3IgY2xhcmlmaWNhdGlvbiwgdGhpcyBpcyB0aGUgdGhpcmQgYXJ0aWNsZSBpbiBhIHNlcmllcyB3aGVyZSBJIGdvIG92ZXIgbW9kZXJuLWRheSB0ZXN0aW5nIHN0cmF0ZWdpZXMgZm9yIFJlYWN0IGFwcGxpY2F0aW9ucy4KCltGaXJzdCBwYXJ0IGhlcmVdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20vdGVzdGluZy1hLXJlYWN0LWFwcGxpY2F0aW9uLXRoZS1tb2Rlcm4tYXBwcm9hY2gvKQoKW1NlY29uZCBwYXJ0IGhlcmVdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20vdGVzdGluZy1hLXJlYWN0LWFwcGxpY2F0aW9uLXRoZS1zZXR1cC8pCgpXaGF0IGlzIGEgdW5pdCB0ZXN0PwoKPiBfQSB1bml0IHRlc3QgaXMgYSB0ZXN0aW5nIG1ldGhvZCBmb3IgYW4gaXNvbGF0ZWQgYW5kIGluZGl2aWR1YWwgcGllY2Ugb2YgY29kZSwgYV8gKipfdW5pdF8qKiBfLiBJbiB0aGUgY29udGV4dCBvZiBSZWFjdCwgdGhpcyBtb3JlIHRoYW4gbGlrZWx5IHJlZmVycyB0byB0ZXN0aW5nIG91ciBjb21wb25lbnRzIGluIGlzb2xhdGlvbiBhbmQgYW55IGFzc29jaWF0ZWQgZnVuY3Rpb25zLl8KCldpdGggdGhpcyBpbiBtaW5kLCB0aGUgZW5kIGdvYWwgd2l0aCB2aXRlc3QgaXMgdG8gcmVuZGVyIG91ciBSZWFjdCBjb21wb25lbnRzIG9yIGZ1bmN0aW9ucyBpbiBpc29sYXRpb24gZnJvbSB0aGUgcmVzdCBvZiB0aGUgYXBwbGljYXRpb24gYW5kIHRlc3QgY29yZSBmdW5jdGlvbmFsaXR5LiBUZXN0aW5nIGp1c3QgYSB1bml0IG9mIG91ciBjb2RlIGlmIHlvdSB3aWxsLgoKIVt3aHldKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUxMDg0NzkzNzk2L3pITkN2a2p2Ri5naWYpCgpCdXQgd2h5IGlzIHRoaXMgc28gaW1wb3J0YW50PyBXZWxsLCB0ZXN0cyBnaXZlIHVzIGNvbmZpZGVuY2UgdGhhdCB3aGVuZXZlciB3ZSBtYWtlIGEgY2hhbmdlIGluIG91ciB3ZSBoYXZlbuKAmXQgYnJva2VuIGFueXRoaW5nLiBTdXJlLCB5b3UgY2FuIGhhdmUgc29tZSB2YWd1ZSBrbm93bGVkZ2Ugb2YgZXZlcnl0aGluZyB0aGUgY29kZSB0b3VjaGVkIGFuZCBob3cgaXQgbWF5IGFmZmVjdCB0aGUgY29kZSBpbiBwcm9kdWN0aW9uLgoKQnV0IGFzIGFueSBkZXZlbG9wZXIgd2lsbCB0ZWxsIHlvdS4gVGhpcyBpcyBub3QgZW5vdWdoLiBUaGluZ3MgaGFwcGVuLCB0aGVyZSBhcmUgZWRnZSBjYXNlcy4gTW9yZXNvIGlmIHlvdeKAmXJlIG9uIGEgdGVhbSB3aGVyZSB0aGUgZGV2ZWxvcGVycyBvbiB0aGUgdGVhbSBtYXkgYmUgdW5mYW1pbGlhciB3aXRoIHRoZSBjb2RlLgoKVGhleSBhbHNvIHNlcnZlIGFzIGEgZm9ybSBvZiBkb2N1bWVudGF0aW9uLiBSZWFkaW5nIHRocm91Z2ggYSB0ZXN0IHdpbGwgZ2l2ZSBhIGRldmVsb3BlciBpZGVhIG9mIHdoYXQgdGhlIGludGVuZGVkIHB1cnBvc2Ugb2YgYmxvY2tzIG9mIGNvZGUgaXMuIFdpdGggdGhhdCBvdXQgb2YgdGhlIHdheSBsZXTigJlzIGdldCBpbnRvIHVzaW5nIFZpdGVzdAoKIyMjIENvbmZpZ3VyYXRpb24KCkxpa2UgbWFueSBvdGhlciBsaWJyYXJpZXMsIHRoaXMgd2lsbCBoYXZlIGEgY29uZmlndXJhdGlvbiBmaWxlIGF0IHRoZSByb290IG9mIG91ciBwcm9qZWN0LiBOb3RlIGlmIHlvdXIgcHJvamVjdCBpcyBhbHJlYWR5IHJ1bm5pbmcgb24gKipWaXRlKiogaXQgd2lsbCBsb29rIGZvciBhIHZpdGUuY29uZmlnLnRzIGZpbGUuCgpBbHRob3VnaCBvdXIgdGVzdCBhcHBsaWNhdGlvbiAoaWYgdGhpcyBpcyB0aGUgZmlyc3QgYXJ0aWNsZSB5b3XigJlyZSByZWFkaW5nIGNoZWNrIG91dCB0aGUgW3NlY29uZCBwYXJ0XShodHRwczovL3JlbGF0YWJsZWNvZGUuY29tL3Rlc3RpbmctYS1yZWFjdC1hcHBsaWNhdGlvbi10aGUtc2V0dXAvKSBhcyBpdCBoYXMgdGhlIGJhcmVib25lcyBzaXRlIHdlIGJ1aWx0IGZvciB0aGUgc2FrZSBvZiB0ZXN0aW5nIG91dCB2aXRlc3Qg8J+YjikKCmBgYGpzCmltcG9ydCB7IGRlZmluZUNvbmZpZyB9IGZyb20gJ3ZpdGVzdC9jb25maWcnIAoKZXhwb3J0IGRlZmF1bHQgZGVmaW5lQ29uZmlnKHsgCiAgICB0ZXN0OiB7IAogICAgICAvLyAuLi4gCiAgICB9LCAKfSkKYGBgCgpIZXJlIHdlIGNhbiBzZXQgdXAgdGhlIGZpbGUgZ2xvYnMgd2Ugd2FudCB0byBtb25pdG9yLCBhbnkgZGVwZW5kZW5jaWVzIHdlIHJlcXVpcmUsIHRoZSBlbnZpcm9ubWVudOKAiuKAlOKAimZvciBleGFtcGxlLCBpZiB3ZSB3YW50IHRvIHVzZSBub2RlanMsIGpzZG9tLCBvciBoYXBweS1kb20uIFdoeSBpcyB0aGlzIHBhcnQgc28gaW1wb3J0YW50PyBXZWxsLCBpdCBtb2NrcyB3aGVyZSBvdXIgdW5pdCB0ZXN0cyBhcmUgcnVuLgoKRm9yIHdlYiBhcHBsaWNhdGlvbnMsIGl0IG1pZ2h0IGJlIGEgYmV0dGVyIGNob2ljZSB0byB1c2UganNkb20gb3IgaGFwcHktZG9tIGFzIGl0IG1vcmUgc28gcmVzZW1ibGVzIGEgYnJvd3Nlci4gTGV04oCZcyBnbyB3aXRoIHRoYXQuCgohW2Jyb3dzZXJzXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MTA4NDc5NTc5Mi9JcDNsdFY4TjcuanBlZykKCkEgZnVsbCBsaXN0IG9mIHBvc3NpYmxlIGNvbmZpZ3VyYXRpb25zIGNhbiBiZSBmb3VuZCBbaGVyZV0oaHR0cHM6Ly92aXRlc3QuZGV2L2NvbmZpZy8pLgoKRm9yIG5vdywgb3VyIGNvZGUgd2lsbCBvbmx5IGhhdmUgdGhlIGZvbGxvd2luZzogYSB2aXRlc3QuY29uZmlnLmpzIGZpbGUgYXQgdGhlIHJvb3Qgb2Ygb3VyIHByb2plY3QuCgpgYGBqcwppbXBvcnQgeyBkZWZpbmVDb25maWcgfSBmcm9tICd2aXRlc3QvY29uZmlnJzsgCgpleHBvcnQgZGVmYXVsdCBkZWZpbmVDb25maWcoeyAKICAgIHRlc3Q6IHsgCiAgICAgICAgZW52aXJvbm1lbnQ6ICdqc2RvbScsIAogICAgIH0sIAp9KTsKYGBgCgojIyMgQ29tbWFuZHMKCiMjIyB0ZXN0IGFuZCBkZXNjcmliZQoKV2hlbiB5b3UgZmlyc3Qgb3BlbiB1cCBhIHRlc3QgZmlsZSB5b3XigJlsbCBzZWUgb25lIG9mIHR3byBrZXl3b3JkczogKip0ZXN0KiogYW5kICoqZGVzY3JpYmUqKi4KCnRlc3QgaXMgYSBmdW5jdGlvbiB0aGF0IGNyZWF0ZXMgdGhlIHRlc3QuIFRoZSB2aXRlc3QgdGVzdCBydW5uZXIgd2lsbCBsb29rIGZvciB0aGlzIHN5bnRheCB0byBzZWUgd2hpY2ggdGVzdHMgdG8gcnVuLgoKIVt0ZXN0IHN5bnRheF0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTEwODQ3OTk1MTYvOFRlclBGUUdJLnBuZykKCnRlc3QgaXMgb3VyIGtleXdvcmQuIFRoZSAqKmdyZWVuIHRleHQqKiBpcyB0aGUgdGVzdCBkZXNjcmlwdGlvbiBhbmQgaXMgaG93IHdlIGlkZW50aWZ5IG91ciB0ZXN0IGluIHRoZSB0ZXJtaW5hbCB3aGVuIGxvb2tpbmcgYXQgb3VyIHRlc3QgZXhlY3V0aW9uLiBUaGUgZm9sbG93aW5nIGZ1bmN0aW9uIGNvbnRhaW5zIG91ciBhY3R1YWwgdGVzdCBjb250ZW50LiBNb3JlIG9uIHRoYXQgbGF0ZXIuCgpkZXNjcmliZSBpcyBmb3Igb3VyIG9yZ2FuaXphdGlvbi4gV2UgY2FuIGRlY2xhcmUgYSBzdWl0ZSBvZiB0ZXN0cyBpbnNpZGUgb2YgYSBmaWxlLiBOb3JtYWxseSB0aGUgZmlsZSBpcyBpdHMgb3duIHN1aXRlLgoKIVtkZXNjcmliZSBzeW50YXhdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUxMDg0ODAwOTQzL251dU5DeHNJay5wbmcpCgpJdHMgc3RydWN0dXJlIGlzIHZlcnkgc2ltaWxhciB0byB0ZXN0CgohW2Rlc2NyaWJlIHN5bnRheF0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTEwODQ4MDIzNDIvZ1FBRXQ4WXltLnBuZykKCldlIGNhbiBwdXQgb3VyIHRlc3QgaW5zaWRlIG9mIHRoZSBkZXNjcmliZSBmdW5jdGlvbi4KCiMjIyBleHBlY3QKCmV4cGVjdCBpcyB0aGUgbW9zdCBjcnVjaWFsIHBhcnQgb2Ygb3VyIHRlc3QuIEl0J3Mgd2hhdCB3ZSBleHBlY3QgdGhlIG91dGNvbWUgb2YgdGhlIHRlc3QgdG8gYmUuIEZvciBleGFtcGxlLCBpZiB3ZSBhcmUgZG9pbmcgc29tZSBzaW1wbGUgbWF0aDoKCmBgYGpzCmNvbnN0IHR3byA9IDEgKyAxOyAKCmV4cGVjdCh0d28pLnRvLmVxdWFsKDIpIApleHBlY3QodHdvKS50b0JlKDIpCmBgYAoKT3VyIHRlc3RzIHdpbGwgcmV0dXJuIHN1Y2Nlc3Mgb3IgZmFpbHVyZSBiYXNlZCBvbiBvdXIgZXhwZWN0IGZ1bmN0aW9ucy4KClZlcnkgZWFzeSB0byB1bmRlcnN0YW5kLiBCdXQgd2UgYXJlIG5vdCBsaW1pdGVkIHRvIGp1c3QgZXF1YWxzIHRoZXJlIGFyZSBhIHRvbiBvZiBleHBlY3QgZnVuY3Rpb25zLiBGaW5kIHRoZSBmdWxsIGxpc3QgW2hlcmVdKGh0dHBzOi8vdml0ZXN0LmRldi9hcGkvI2V4cGVjdCkuCgojIyMgYWZ0ZXIgYW5kIGJlZm9yZQoKSWYgdGhlcmUgYXJlIHNvbWUgY29tbW9uIGFjdGlvbnMgd2UgaGF2ZSB0byBydW4gYmVmb3JlIG9yIGFmdGVyIG91ciB0ZXN0cyB0aGVuIFZpdGVzdCBvZmZlcnMgdXMgdGhlIGFmdGVyIGFuZCBiZWZvcmUga2V5d29yZHMuCgpgYGBqcwpiZWZvcmVFYWNoKCgpID0+IHt9KTsgCgphZnRlckVhY2goKCkgPT4ge30pOwpgYGAKCiMjIyBXcmFwcGluZyBpdCB1cAoKVml0ZXN0IGhhcyBhIHRvbiBvZiBidWlsdC1pbiBmdW5jdGlvbmFsaXR5IHRvIGNyZWF0ZSBhbWF6aW5nIHVuaXQgdGVzdHMuIEluIHRoZSBuZXh0IGFydGljbGUsIEnigJlsbCBnbyBvdmVyIGhvdyB0byBjcmVhdGUgYSB0ZXN0IGFwcGxpY2F0aW9uIHVzaW5nIG91ciBiYXJlYm9uZXMgYXBwbGljYXRpb24uIPCfmoAKCk1vcmUgY29udGVudCBhdCBbUmVsYXRhYmxlIENvZGVdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20pCgojIyMgTGV04oCZcyBjb25uZWN0CgpJZiB5b3UgbGlrZWQgdGhpcyBmZWVsIGZyZWUgdG8gY29ubmVjdCB3aXRoIG1lIG9uIFtMaW5rZWRJbl0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3JlbGF0YWJsZWNvZGUpIG9yIFtUd2l0dGVyXShodHRwczovL3R3aXR0ZXIuY29tL3JlbGF0YWJsZWNvZGVyKQoKQ2hlY2sgb3V0IG15IGZyZWUgZGV2ZWxvcGVyIHJvYWRtYXAgYW5kIHdlZWtseSB0ZWNoIGluZHVzdHJ5IG5ld3MgaW4gbXkgW25ld3NsZXR0ZXJdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5zdWJzdGFjay5jb20vKS4=
+# Testing a React Application: What is Vitest?
+
+### Introduction
+
+Vitest is a **unit-test** framework that is “blazingly fast” and, **wow** , it is. Today I’ll be going over how to set up vitest and a brief explanation of how it works. Just for clarification, this is the third article in a series where I go over modern-day testing strategies for React applications.
+
+[First part here](https://relatablecode.com/testing-a-react-application-the-modern-approach/)
+
+[Second part here](https://relatablecode.com/testing-a-react-application-the-setup/)
+
+What is a unit test?
+
+> _A unit test is a testing method for an isolated and individual piece of code, a_ **_unit_** _. In the context of React, this more than likely refers to testing our components in isolation and any associated functions._
+
+With this in mind, the end goal with vitest is to render our React components or functions in isolation from the rest of the application and test core functionality. Testing just a unit of our code if you will.
+
+![why](https://cdn.hashnode.com/res/hashnode/image/upload/v1651084793796/zHNCvkjvF.gif)
+
+But why is this so important? Well, tests give us confidence that whenever we make a change in our we haven’t broken anything. Sure, you can have some vague knowledge of everything the code touched and how it may affect the code in production.
+
+But as any developer will tell you. This is not enough. Things happen, there are edge cases. Moreso if you’re on a team where the developers on the team may be unfamiliar with the code.
+
+They also serve as a form of documentation. Reading through a test will give a developer idea of what the intended purpose of blocks of code is. With that out of the way let’s get into using Vitest
+
+### Configuration
+
+Like many other libraries, this will have a configuration file at the root of our project. Note if your project is already running on **Vite** it will look for a vite.config.ts file.
+
+Although our test application (if this is the first article you’re reading check out the [second part](https://relatablecode.com/testing-a-react-application-the-setup/) as it has the barebones site we built for the sake of testing out vitest 😎)
+
+```js
+import { defineConfig } from 'vitest/config' 
+
+export default defineConfig({ 
+    test: { 
+      // ... 
+    }, 
+})
+```
+
+Here we can set up the file globs we want to monitor, any dependencies we require, the environment — for example, if we want to use nodejs, jsdom, or happy-dom. Why is this part so important? Well, it mocks where our unit tests are run.
+
+For web applications, it might be a better choice to use jsdom or happy-dom as it more so resembles a browser. Let’s go with that.
+
+![browsers](https://cdn.hashnode.com/res/hashnode/image/upload/v1651084795792/Ip3ltV8N7.jpeg)
+
+A full list of possible configurations can be found [here](https://vitest.dev/config/).
+
+For now, our code will only have the following: a vitest.config.js file at the root of our project.
+
+```js
+import { defineConfig } from 'vitest/config'; 
+
+export default defineConfig({ 
+    test: { 
+        environment: 'jsdom', 
+     }, 
+});
+```
+
+### Commands
+
+### test and describe
+
+When you first open up a test file you’ll see one of two keywords: **test** and **describe**.
+
+test is a function that creates the test. The vitest test runner will look for this syntax to see which tests to run.
+
+![test syntax](https://cdn.hashnode.com/res/hashnode/image/upload/v1651084799516/8TerPFQGI.png)
+
+test is our keyword. The **green text** is the test description and is how we identify our test in the terminal when looking at our test execution. The following function contains our actual test content. More on that later.
+
+describe is for our organization. We can declare a suite of tests inside of a file. Normally the file is its own suite.
+
+![describe syntax](https://cdn.hashnode.com/res/hashnode/image/upload/v1651084800943/nuuNCxsIk.png)
+
+Its structure is very similar to test
+
+![describe syntax](https://cdn.hashnode.com/res/hashnode/image/upload/v1651084802342/gQAEt8Yym.png)
+
+We can put our test inside of the describe function.
+
+### expect
+
+expect is the most crucial part of our test. It's what we expect the outcome of the test to be. For example, if we are doing some simple math:
+
+```js
+const two = 1 + 1; 
+
+expect(two).to.equal(2) 
+expect(two).toBe(2)
+```
+
+Our tests will return success or failure based on our expect functions.
+
+Very easy to understand. But we are not limited to just equals there are a ton of expect functions. Find the full list [here](https://vitest.dev/api/#expect).
+
+### after and before
+
+If there are some common actions we have to run before or after our tests then Vitest offers us the after and before keywords.
+
+```js
+beforeEach(() => {}); 
+
+afterEach(() => {});
+```
+
+### Wrapping it up
+
+Vitest has a ton of built-in functionality to create amazing unit tests. In the next article, I’ll go over how to create a test application using our barebones application. 🚀
+
+More content at [Relatable Code](https://relatablecode.com)
+
+### Let’s connect
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/relatablecode) or [Twitter](https://twitter.com/relatablecoder)
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
