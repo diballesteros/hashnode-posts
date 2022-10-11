@@ -1,1 +1,80 @@
-IyMgSG93IHRvIHF1aWNrbHkgYWRkIGVycm9yIHRyYWNraW5nIHdpdGggU2VudHJ5CgoKIVtIb3cgdG8gcXVpY2tseSBhZGQgZXJyb3IgdHJhY2tpbmcgd2l0aCBTZW50cnldKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUxMTAzNzk2ODQxL1I5NnVybUhqMi5wbmcpCgpbU2VudHJ5XShodHRwczovL3NlbnRyeS5pby8pIGlzIGFuIGVycm9yIHRyYWNraW5nIGFuZCBwZXJmb3JtYW5jZSBtb25pdG9yaW5nIGxpYnJhcnkgdGhhdCBjYW4gYmUgcXVpY2tseSBob29rZWQgdXAgdG8gYW55IGV4aXN0aW5nIHByb2plY3QuIFRoaXMgaXMgZXNwZWNpYWxseSB1c2VmdWwgdG8gZGV0ZWN0IGEgY29uc2lkZXJhYmxlIGFtb3VudCBvZiBidWdzIGFuZCBjYW4gYmUgZWFzaWx5IGludGVncmF0ZWQgaW50byBhIFJlYWN0wqBhcHAuCgpMZXTigJlzIGdldMKgc3RhcnRlZCEKCiMjIyBJbnN0YWxsYXRpb24KCkZpcnN0LCBsZXTigJlzIGluc3RhbGwgdGhlIG5lY2Vzc2FyeSB0aGlyZCBwYXJ0eSBsaWJyYXJpZXMKCmBgYAp5YXJuIGFkZCBAc2VudHJ5L3JlYWN0IEBzZW50cnkvdHJhY2luZwpgYGAKClNlbnRyeSByZWNvbW1lbmRzIGluaXRpYWxpemluZyBTZW50cnkgYXMgZWFybHkgYXMgcG9zc2libGUuIEluIGEgUmVhY3QgYXBwLCB0aGlzIHdpbGwgY29tbW9ubHkgYmUgdGhlIGluZGV4LmpzeC9pbmRleC50c3gKCmBgYAppbXBvcnQgXCogYXMgU2VudHJ5IGZyb20gJ0BzZW50cnkvcmVhY3QnOyAgIAppbXBvcnQgeyBJbnRlZ3JhdGlvbnMgfSBmcm9tICdAc2VudHJ5L3RyYWNpbmcnOyAgIApTZW50cnkuaW5pdCh7ICAgCmRzbjogJ0FQUExJQ0FUSU9OXF9EU04nLCAgIAppbnRlZ3JhdGlvbnM6IFxbbmV3IEludGVncmF0aW9ucy5Ccm93c2VyVHJhY2luZygpXF0sICAgCnRyYWNlc1NhbXBsZVJhdGU6IDAuMiwgICAKfSk7CmBgYAoKTG9va2luZyBhdCB0aGUgY29kZSB3ZSBpbml0aWFsaXplIHRoZSBhcHBsaWNhdGlvbi4gVGhlIHByb3BlcnR5IG9mIHRyYWNlc1NhbXBsZVJhdGUgY29udHJvbHMgdGhlIHZvbHVtZSBvZiB0cmFuc2FjdGlvbnMgZGlyZWN0bHkgdG8gU2VudHJ5LiBUaGlzIGNhbiBiZSBhbnkgdmFsdWUgYmV0d2VlbiAwIC0gMS4gRm9yIHRoZSB0aW1lIGJlaW5nLCBJJ2xsIGxlYXZlIGl0IGFzwqAwLjIuCgpOb3cgaW4gb3JkZXIgdG8gZ2V0IGEgZnVuY3Rpb25hbCBEU04sIHdlIGhhdmUgdG8gY3JlYXRlIGEgU2VudHJ5IGFjY291bnQuIEZyb20gdGhlaXIgcGFnZSwgdGhpcyBpcyBhIGZhaXJseSBzdHJhaWdodGZvcndhcmQgcHJvY2Vzcy4gVGhleSBldmVuIG9mZmVyIGEgYnJpZWYgc2VjdGlvbiB0aGF0IGRldGFpbHMgaG93IHRvIGdldCBpdCBzZXQgdXAgaW4gUmVhY3QuIFdl4oCZbGwgZ2V0IGFuIG9wdGlvbiB0byBjcmVhdGUgYSBuZXcgcHJvamVjdCB3aGlsc3Qgc2VsZWN0aW5nIGEgcGxhdGZvcm06CgohW1NlbnRyeV0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2Mzg0Njg3NjMxODUvRlpNVkdXUVY0aS5wbmcpCgpTZW50cnkgcGxhdGZvcm0gc2VsZWN0aW9uCgpMZXTigJlzIHNlbGVjdCBSZWFjdC4gT24gdGhlIGZvbGxvd2luZyBzY3JlZW4sIHlvdeKAmWxsIHNlZSBhIGNvZGUgc25pcHBldCBtdWNoIGxpa2UgdGhlIG9uZSBhYm92ZSB3aXRoIHRoZSBEU04gYW5kIGhvdyB0byBpbml0aWFsaXplIFNlbnRyeS4KCiMjIyBUZXN0aW5nCgpOb3cgdGhhdCB3ZSBoYXZlIFNlbnRyeSBpbml0aWFsaXplZCB3ZSBjYW4gZ28gYWhlYWQgYW5kIHRlc3QgaXQgb3V0LiBNeSBwcmVmZXJyZWQgbWV0aG9kIG9mIGludGVncmF0aW9uIGlzIHdyYXBwaW5nIGEgU2VudHJ5IEVycm9yIEJvdW5kYXJ5IGFyb3VuZCBteSBjb21wb25lbnRzIHdpdGggYSBmYWxsYmFjayBjb21wb25lbnQ6CgpgYGAKaW1wb3J0IFwqIGFzIFNlbnRyeSBmcm9tICdAc2VudHJ5L3JlYWN0JzsgCgo8U2VudHJ5LkVycm9yQm91bmRhcnkgZmFsbGJhY2s9ezxwPlRoaXMgaXMgYSBmYWxsYmFjazwvcD59PiAgICAgIAogICAgPE15Q29tcG9uZW50IC8+ICAgCjwvU2VudHJ5LkVycm9yQm91bmRhcnk+CmBgYAoKSW4gb3JkZXIgdG8gZm9yY2UgYW4gZXJyb3IgbGV04oCZcyBjcmVhdGUgdGhlIGZvbGxvd2luZyBjb2RlIGluIGEgY29tcG9uZW50CgpgYGAKY29uc3QgZXJyb3JNZXRob2QgPSAoKSA9PiB7IAogICAgdGhyb3cgbmV3IEVycm9yKCdFcnJvcicpOyAKfTsgCgpyZXR1cm4gKCAgIAo8YnV0dG9uIG9uQ2xpY2s9e2Vycm9yTWV0aG9kfSB0eXBlPSJidXR0b24iPiAgIApCcmVhayB0aGUgd29ybGQgCjwvYnV0dG9uPiAKKTsKYGBgCgpVcG9uIHByZXNzaW5nIHRoZSBidXR0b24gdGhpcyBzaG91bGQgZ2VuZXJhdGUgYW4gZXJyb3IgYW5kIGJlIHNlbnQgZGlyZWN0bHkgdG/CoFNlbnRyeS4KCkFzIGFuIGltcG9ydCBhc2lkZSwgaWYgeW91IGhhdmUgYW4gYWQgYmxvY2tlciAodUJsb2NrT3JpZ2luL0JyYXZlIGJyb3dzZXIpIG1ha2Ugc3VyZSB0byBkaXNhYmxlIGl0IGFzIFNlbnRyeSB1c2VzIGNvb2tpZXMgaW4gb3JkZXIgdG8ga2VlcCB0cmFjayBvZiB0aGUgZXJyb3JzIGFuZCBwZXJmb3JtYW5jZSBtb25pdG9yaW5nLgoKQWZ0ZXIgcHJlc3NpbmcgdGhlIGJ1dHRvbiB5b3Ugc2hvdWxkIHNlZSBzb21ldGhpbmcgYWxvbmcgdGhlc2UgbGluZXMgb24gdGhlIFNlbnRyeSBkYXNoYm9hcmQ6CgohW1NlbnRyeV0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2Mzg0Njg3NjQ5MDAveGZhMVo3cHRkLnBuZykKClNlbnRyeSBpc3N1ZcKgZW50cmllcwoKQW5kIHRoYXTigJlzIGl0ISBMZXQgbWUga25vdyBob3cgeW91IGZlZWwgYWJvdXQgU2VudHJ5IG9yIGVycm9yIHRyYWNraW5nIGluIGdlbmVyYWwgaW4gdGhlIGNvbW1lbnRzwqBiZWxvdy4KCkZpbmQgbW9yZSBjb250ZW50IGF0IFtSZWxhdGFibGUgQ29kZV0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbSkKCl9PcmlnaW5hbGx5IHB1Ymxpc2hlZCBhdF8gW19odHRwczovL3JlbGF0YWJsZWNvZGUuY29tX10oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9ob3ctdG8tcXVpY2tseS1hZGQtZXJyb3ItdHJhY2tpbmctd2l0aC1zZW50cnkvKSBfb24gT2N0b2JlciAyNCzCoDIwMjEuXw==
+# How to quickly add error tracking with Sentry
+
+
+![How to quickly add error tracking with Sentry](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103796841/R96urmHj2.png)
+
+[Sentry](https://sentry.io/) is an error tracking and performance monitoring library that can be quickly hooked up to any existing project. This is especially useful to detect a considerable amount of bugs and can be easily integrated into a React app.
+
+Let’s get started!
+
+### Installation
+
+First, let’s install the necessary third party libraries
+
+```
+yarn add @sentry/react @sentry/tracing
+```
+
+Sentry recommends initializing Sentry as early as possible. In a React app, this will commonly be the index.jsx/index.tsx
+
+```
+import \* as Sentry from '@sentry/react';   
+import { Integrations } from '@sentry/tracing';   
+Sentry.init({   
+dsn: 'APPLICATION\_DSN',   
+integrations: \[new Integrations.BrowserTracing()\],   
+tracesSampleRate: 0.2,   
+});
+```
+
+Looking at the code we initialize the application. The property of tracesSampleRate controls the volume of transactions directly to Sentry. This can be any value between 0 - 1. For the time being, I'll leave it as 0.2.
+
+Now in order to get a functional DSN, we have to create a Sentry account. From their page, this is a fairly straightforward process. They even offer a brief section that details how to get it set up in React. We’ll get an option to create a new project whilst selecting a platform:
+
+![Sentry](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468763185/FZMVGWQV4i.png)
+
+Sentry platform selection
+
+Let’s select React. On the following screen, you’ll see a code snippet much like the one above with the DSN and how to initialize Sentry.
+
+### Testing
+
+Now that we have Sentry initialized we can go ahead and test it out. My preferred method of integration is wrapping a Sentry Error Boundary around my components with a fallback component:
+
+```
+import \* as Sentry from '@sentry/react'; 
+
+<Sentry.ErrorBoundary fallback={<p>This is a fallback</p>}>      
+    <MyComponent />   
+</Sentry.ErrorBoundary>
+```
+
+In order to force an error let’s create the following code in a component
+
+```
+const errorMethod = () => { 
+    throw new Error('Error'); 
+}; 
+
+return (   
+<button onClick={errorMethod} type="button">   
+Break the world 
+</button> 
+);
+```
+
+Upon pressing the button this should generate an error and be sent directly to Sentry.
+
+As an import aside, if you have an ad blocker (uBlockOrigin/Brave browser) make sure to disable it as Sentry uses cookies in order to keep track of the errors and performance monitoring.
+
+After pressing the button you should see something along these lines on the Sentry dashboard:
+
+![Sentry](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468764900/xfa1Z7ptd.png)
+
+Sentry issue entries
+
+And that’s it! Let me know how you feel about Sentry or error tracking in general in the comments below.
+
+Find more content at [Relatable Code](https://relatablecode.com)
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/how-to-quickly-add-error-tracking-with-sentry/) _on October 24, 2021._
