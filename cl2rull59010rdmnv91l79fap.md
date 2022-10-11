@@ -1,1 +1,187 @@
-IyMgVGVzdGluZyBhIFJlYWN0IEFwcGxpY2F0aW9uIEludGVncmF0aW5nIE1TVyB3aXRoIFZpdGVzdAoKIyMjIEludHJvZHVjdGlvbgoKVGhlIGZpZnRoIHBhcnQgaW4gbXkgb25nb2luZyBzZXJpZXMgb24gaG93IHRvIHRlc3QgYSBtb2Rlcm4gUmVhY3QgYXBwbGljYXRpb24uIFRoaXMgdGltZSBJJ2xsIGdvIG92ZXIgaG93IHRvIGludGVncmF0ZSBNU1cgd2l0aCBbVml0ZXN0XShodHRwczovL3ZpdGVzdC5kZXYvKSwgb3VyIHVuaXQtdGVzdCBmcmFtZXdvcmsuIE1vc3QgYXBwbGljYXRpb25zIGhhdmUgdG8gZmV0Y2ggZGF0YSBmcm9tIHRoZSBiYWNrZW5kIHNlcnZlci4gSW4gb3JkZXIgdG8gaGF2ZSBmdWxsIGNvdmVyYWdlLCB3ZSBzaG91bGQgbW9jayB0aGVzZSByZXF1ZXN0cy4gQnV0LCB3aGF0IGlzIG1vY2tpbmc/Cgo+TWFrZSBhIHJlcGxpY2Egb3IgaW1pdGF0aW9uIG9mIHNvbWV0aGluZwoKX094Zm9yZCBMYW5ndWFnZXNfCgpUaGUgaWRlYSBpcyB0byBjcmVhdGUgYW4gaW1pdGF0aW9uIG9mIGEgcmVxdWVzdCBjb21pbmcgaW4gZnJvbSB0aGUgYmFja2VuZC4gVGhpcyBjb21lcyB3aXRoIGl0cyBvd24gc2V0IG9mIGFkdmFudGFnZXMuIFdlIGNhbiBkaXJlY3RseSBtYW5pcHVsYXRlIHdoYXQgd2Ugd2FudCB0aGUgKnJlc3BvbnNlKiB0byBiZSB0byB0ZXN0IGZvciBtb3JlIHNjZW5hcmlvcy4gSW4gdGhlIGFwcCB3ZSBwcmV2aW91c2x5IGNyZWF0ZWQgd2UgY291bGQgdGVzdCBmb3IgZmV0Y2hpbmcgMCBwb3N0cywgMTAwIHBvc3RzLCBwb3N0cyB3aXRoIG5vIHRleHQsIGFuZCBzbyBvbiBhbmQgc28gZm9ydGguCgpUaGUgYXBwIGluIHF1ZXN0aW9uOgoKIVtiYXJlYm9uZXMgcmVhY3QgYXBwXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY1MDg5ODk2MDg2Ni9QOFNGanR0enIuZ2lmKQoKVGhpcyBpcyB2ZXJ5IHBvd2VyZnVsISBXZSBjYW4gdGVzdCBmb3IgY29tbW9uIHVzZSBjYXNlcyBvciBlZGdlIGNhc2VzIHRoYXQgdGhlIHVzZXIgbWF5IHJ1biBpbnRvLiBBbmQgYXQgdGhlIGVuZCBvZiB0aGUgZGF5LCB0aGUgbW9zdCBpbXBvcnRhbnQgdGhpbmcgaXMgY29uZmlkZW5jZSBpbiBvdXIgdGVzdHMuCgojIyMgV2hhdCBpcyBNU1c/CgpbTVNXXShodHRwczovL21zd2pzLmlvLykgaXMgYSBtb2NraW5nIGxpYnJhcnkgdGhhdCBpcyBleHRyZW1lbHkgc2ltcGxlIHRvIHVzZS4KCj5Nb2NrIGJ5IGludGVyY2VwdGluZyByZXF1ZXN0cyBvbiB0aGUgbmV0d29yayBsZXZlbC4gU2VhbWxlc3NseSByZXVzZSB0aGUgc2FtZSBtb2NrIGRlZmluaXRpb24gZm9yIHRlc3RpbmcsIGRldmVsb3BtZW50LCBhbmQgZGVidWdnaW5nLgoKXyBtc3dqcy5pb18KCk5vcm1hbGx5LCB0aGlzIHdvdWxkIGJlIHRoZSBleHBlY3RlZCBpbnRlcmFjdGlvbjoKCiFbTm9ybWFsIHJlcXVlc3QgZmV0Y2hpbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUxNTc5MDQ4Nzg5L19CbHkyQVE4bC5wbmcpCgpCdXQsIHdpdGggdGhlIGFkZGVkIGFkZGl0aW9uIG9mIE1TVywgd2Ugd2lsbCBhZGQgYSBuZXcgc3RlcC4KCiFbRmV0Y2hpbmcgd2l0aCBNU1ddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUxNTc5MjQzNjg0LzFoV1E2dndYTS5wbmcpCgpBd2Vzb21lISDwn5iOIExldCdzIGdldCB0aGlzIHNldCB1cCB3aXRoIG91ciBhcHBsaWNhdGlvbi4gRm9yIHJlZmVyZW5jZVtoZXJlIGlzIHRoZSBwcm9qZWN0XShodHRwczovL2dpdGh1Yi5jb20vZGliYWxsZXN0ZXJvcy9yZWFjdC10ZXN0aW5nKSB3ZSd2ZSBiZWVuIHVzaW5nIHVwIHRvIHRoaXMgcG9pbnQuCgojIyMgQ29uZmlndXJhdGlvbiBmaWxlcyBmb3IgTVNXCgpGaXJzdCwgbGV0J3MgaW5zdGFsbCBvdXIgbmV3IGxpYnJhcnk6CgpgYGBzaApucG0gaW5zdGFsbCBtc3cgLS1zYXZlLWRldgoKeWFybiBhZGQgbXN3IC0tZGV2CmBgYAoKSW4gb3VyIGBzcmNgIGRpcmVjdG9yeSBsZXQncyBjcmVhdGUgYSBgbW9ja3NgIG9sZGVyIHdoZXJlIHdlJ2xsIGtlZXAgdGhlIGhhbmRsZXJzIGZvciB0aGUgcmVxdWVzdHMuIFRoZSBNU1cgdGVhbSByZWZlcnMgdG8gdGhpcyBhcyAqbW9jayBkZWZpbml0aW9ucyouIEluc2lkZSB0aGUgYG1vY2tzYCBmb2xkZXIgY3JlYXRlIGEgYGhhbmRsZXJzLmpzYC4KCkhlcmUgd2UgY2FuIGV4cG9ydCBvdXIgaGFuZGxlciBmdW5jdGlvbnMuIFNpbmNlIHdlJ3JlIGRvaW5nIG5vcm1hbCBSRVNUIHJlcXVlc3RzLCBsZXQncyBpbXBvcnQgYHJlc3RgIGZyb20gTVNXLgoKYGBganMKaW1wb3J0IHsgcmVzdCB9IGZyb20gJ21zdyc7CmBgYApJbiBvcmRlciBmb3IgTVNXIHRvIHJlY29nbml6ZSB0aGUgcmVxdWVzdCwgd2UgbXVzdCBwcm92aWRlIHRoZSBleGFjdCAqbWV0aG9kKiBhbmQgKnBhdGgqIGFuZCBleHBvcnQgaXQgZnJvbSBhbiBhcnJheS4KCmBgYGpzCmV4cG9ydCBjb25zdCBoYW5kbGVycyA9IFsKcmVzdC5nZXQoJ2h0dHBzOi8vanNvbnBsYWNlaG9sZGVyLnR5cGljb2RlLmNvbS9wb3N0cycsIG51bGwpLApdCmBgYAoKSGVyZSB3ZSBjYW4gcmVwbGFjZSBgbnVsbGAgd2l0aCB3aGF0IHdlIGFjdHVhbGx5IHdhbnQgTVNXIHRvIHJldHVybiB0byB1cy4gVGhpcyBpcyBhIGZ1bmN0aW9uIGtub3duIGFzIGEgKnJlc3BvbnNlIHJlc29sdmVyKi4gUmV0dXJuaW5nIHRoZSBmb2xsb3dpbmc6CgotIGByZXFgLCBpbmZvcm1hdGlvbiBhYm91dCBhIG1hdGNoaW5nIHJlcXVlc3Q7CgotIGByZXNgLCBhIGZ1bmN0aW9uYWwgdXRpbGl0eSB0byBjcmVhdGUgdGhlIG1vY2tlZCByZXNwb25zZTsKCi0gYGN0eGAsIGEgZ3JvdXAgb2YgZnVuY3Rpb25zIHRoYXQgaGVscCB0byBzZXQgYSBzdGF0dXMgY29kZSwgaGVhZGVycywgYm9keSwgZXRjLiBvZiB0aGUgbW9ja2VkIHJlc3BvbnNlLgoKTGV0J3MgcmV0dXJuIG91ciBvd24gY3VzdG9tIHJlc3BvbnNlIGZvciB0aGVzZSBwb3N0cy4KCmBgYGpzCmltcG9ydCB7IHJlc3QgfSBmcm9tICdtc3cnOwoKZXhwb3J0IGNvbnN0IGhhbmRsZXJzID0gWwogICAgcmVzdC5nZXQoJ2h0dHBzOi8vanNvbnBsYWNlaG9sZGVyLnR5cGljb2RlLmNvbS9wb3N0cycsIChyZXEsIHJlcywgY3R4KSA9PiB7CiAgICAKICAgIHJldHVybiByZXMoCiAgICAgIGN0eC5zdGF0dXMoMjAwKSwKICAgICAgY3R4Lmpzb24oW3sKICAgICAgICAgYm9keTogIlRoaXMgaXMgYSBib2R5IiwKICAgICAgICAgaWQ6IDEsCiAgICAgICAgIHRpdGxlOiAiVGl0bGUiLAogICAgICAgICB1c2VySWQ6IDEsCiAgICAgIH1dKSwKICAgICkKfSksCl0KYGBgCgpTd2VldCwgbm93IHdlIGhhdmUgb3VyIGhhbmRsZXIgc2V0IHVwIGZvciBNU1cg8J+agC4KCiMjIyBDb25maWd1cmF0aW9uIGZpbGVzIGZvciBWaXRlc3QKCk1TVyBzZXRzIHVwIGEgc2VydmVyIGZvciB1cyB0byBpbnRlcmNlcHQgdGhlIHJlcXVlc3RzLiBCdXQgd2UgaGF2ZSB0byBjcmVhdGUgYW4gaW5zdGFuY2Ugb2YgdGhlIHNlcnZlci4gQ3JlYXRlIGEgYHNlcnZlci5qc2AgZmlsZSBpbiBvdXIgYG1vY2tzYCBmb2xkZXI6CgpgYGBqcwppbXBvcnQgeyBzZXR1cFNlcnZlciB9IGZyb20gJ21zdy9ub2RlJzsKaW1wb3J0IHsgaGFuZGxlcnMgfSBmcm9tICcuL2hhbmRsZXJzJzsKCi8vIEhlcmUgd2UgaW1wb3J0IHRoZSBoYW5kbGVyIGNyZWF0ZWQhCmV4cG9ydCBjb25zdCBzZXJ2ZXIgPSBzZXR1cFNlcnZlciguLi5oYW5kbGVycyk7CmBgYAoKSW4gb3VyIGB2aXRlLmNvbmZpZy5qc2AgbGV0cyBhZGQgYW4gZW50cnkgZm9yIG91ciBzZXR1cCBmaWxlcyBpbiB0aGUgYHRlc3RgIG9iamVjdDoKCmBgYGpzCnNldHVwRmlsZXM6IFsnLi9zcmMvc2V0dXAuanMnXSwKYGBgCgpMZXQncyBjcmVhdGUgdGhpcyBgc2V0dXAuanNgIGZpbGUgaW4gb3VyIGBzcmNgIGRpcmVjdG9yeS4gVGhpcyBpcyB0byBjb3JyZWN0bHkgcmVzZXQgdGhlIHNlcnZlciB3aXRoIGV2ZXJ5IHRlc3QgZXhlY3V0aW9uOgoKYGBganMKaW1wb3J0IHsgc2VydmVyIH0gZnJvbSAnLi9tb2Nrcy9zZXJ2ZXInCgpiZWZvcmVBbGwoKCkgPT4gc2VydmVyLmxpc3Rlbih7IG9uVW5oYW5kbGVkUmVxdWVzdDogJ2Vycm9yJyB9KSkKYWZ0ZXJBbGwoKCkgPT4gc2VydmVyLmNsb3NlKCkpCmFmdGVyRWFjaCgoKSA9PiBzZXJ2ZXIucmVzZXRIYW5kbGVycygpKQpgYGAKTm93IHdlJ3JlIGFsbCBzZXQgdXAgYW5kIHJlYWR5IHRvIHRlc3QhIExldCdzIGltcGxlbWVudCB0aGlzIGluIG91ciAqKlZpdGVzdCAqKiB0ZXN0LgoKIyMjIE1vY2tpbmcgb3VyIEFQSSByZXF1ZXN0IGluIFZpdGVzdAoKTGV0J3MgcmV2YW1wIG91ciB0ZXN0IGZpbGU6CgpgYGBqcwppbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnOwppbXBvcnQgewoJcmVuZGVyLAoJc2NyZWVuLAoJd2FpdEZvckVsZW1lbnRUb0JlUmVtb3ZlZCwKfSBmcm9tICdAdGVzdGluZy1saWJyYXJ5L3JlYWN0JzsKaW1wb3J0IHVzZXJFdmVudCBmcm9tICdAdGVzdGluZy1saWJyYXJ5L3VzZXItZXZlbnQnOwppbXBvcnQgQXBwIGZyb20gJy4vQXBwJzsKCmRlc2NyaWJlKCdUZXN0aW5nIG91ciBSZWFjdCBhcHBsaWNhdGlvbicsICgpID0+IHsKCWl0KCdGZXRjaCBwb3N0cycsIGFzeW5jICgpID0+IHsKCQlyZW5kZXIoPEFwcCAvPik7CgoJCWV4cGVjdChzY3JlZW4uZ2V0QnlUZXh0KC9Nb2Rlcm4gUmVhY3QgVGVzdGluZy9pKSkudG9CZURlZmluZWQoKTsKCgkJdXNlckV2ZW50LmNsaWNrKHNjcmVlbi5nZXRCeVJvbGUoJ2J1dHRvbicsIHsgbmFtZTogJ0ZldGNoIFBvc3RzJyB9KSk7CgoJCWF3YWl0IHdhaXRGb3JFbGVtZW50VG9CZVJlbW92ZWQoKCkgPT4KCQkJc2NyZWVuLnF1ZXJ5QnlMYWJlbFRleHQoJ2xvYWRpbmcnKQoJCSk7CgoJCWV4cGVjdChzY3JlZW4uZ2V0QnlSb2xlKCdoZWFkaW5nJywgeyBsZXZlbDogMyB9KSkudG9CZURlZmluZWQoKTsKCX0pOwp9KTsKYGBgCgpXZSByZW1vdmVkIHRoZSBsaWJyYXJ5IGZvciBgQHRlc3RpbmctbGlicmFyeS9qZXN0LWRvbWAgYXMgaXQgaXMgbm8gbG9uZ2VyIG5lY2Vzc2FyeS4gQnV0LCBub3cgb3VyIHRlc3Qgc2hvdWxkIGJlIHBhc3Npbmcgd2l0aCBncmVlbiEKCiFbcGFzc2luZyB0ZXN0c10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NTE2MjkwOTAwNjMvS2dsenVDN2J0LnBuZykKCkFsc28sIHNpbmNlIG91ciB0ZXN0IGlzIHJ1bm5pbmcgaW4gYSBub2RlIGVudmlyb25tZW50IHdlIG5lZWQgdG8gcG9seWZpbGwgb3VyIGZldGNoIGZ1bmN0aW9uIGluIHRoZSBvcmlnaW5hbCBgQXBwLmpzeGAKCmBgYGJhc2gKbnBtIGluc3RhbGwgY3Jvc3MtZmV0Y2gKYGBgCgpKdXN0IGltcG9ydCBpdCBhdCB0aGUgdmVyeSB0b3A6CgpgYGBqcwppbXBvcnQgZmV0Y2ggZnJvbSAnY3Jvc3MtZmV0Y2gnOwpgYGAKCiMjIyBTaWRlbm90ZQoKSWYgeW91IGhhZCBiZWVuIGZvbGxvd2luZyBhbG9uZyBteSBvdGhlciBhcnRpY2xlcyB5b3UgbWF5IGhhdmUgbm90aWNlZCBJIGNoYW5nZWQgdGhlIHZlcnNpb24gb2YgYSBkZXBlbmRlbmN5OiBgQHRlc3RpbmctbGlicmFyeS91c2VyLWV2ZW50YC4gSSB3YXMgaGF2aW5nIGFuIGlzc3VlIGZpcmluZyBvZmYgdGhlIGJ1dHRvbiBjbGljay4KCkkgZG93bmdyYWRlZCBpdCB0byAxMy41LjAgYW5kIGNhbGxlZCB0aGUgY2xpY2sgZXZlbnQgZGlyZWN0bHkgZnJvbSBgdXNlckV2ZW50YC4KCllvdSBjYW4gZmluZCB0aGUgZW50aXJlIHByb2plY3QgaW4gdGhpcyBbcmVwb3NpdG9yeSB3aXRoIHRoZSB1cGRhdGVkIGxpc3Qgb2YgZGVwZW5kZW5jaWVzXShodHRwczovL2dpdGh1Yi5jb20vZGliYWxsZXN0ZXJvcy9yZWFjdC10ZXN0aW5nKS4KCiMjIyBXcmFwcGluZyBpdCB1cAoKV2Ugbm93IGhhdmUgYSBwb3dlcmZ1bCB0b29sIGF0IG91ciBkaXNwb3NhbCB0byBtb2NrIHJlcXVlc3RzIGFzIHdlIGNvbnRpbnVlIHRvIGNyZWF0ZSB1bml0IHRlc3RzISBJbiB0aGUgbmV4dCBhcnRpY2xlLCB3ZSdsbCBnbyBvdmVyIGhvdyB0byBzZXQgdXAgQ3lwcmVzcy5pby4KCk1vcmUgY29udGVudCBhdCBbUmVsYXRhYmxlIENvZGVdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5jb20pCgojIyBMZXQncyBjb25uZWN0CgpJZiB5b3UgbGlrZWQgdGhpcyBmZWVsIGZyZWUgdG8gY29ubmVjdCB3aXRoIG1lIG9uIFtMaW5rZWRJbl0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3JlbGF0YWJsZWNvZGUpIG9yIFtUd2l0dGVyXShodHRwczovL3R3aXR0ZXIuY29tL3JlbGF0YWJsZWNvZGVyKQoKQ2hlY2sgb3V0IG15IGZyZWUgZGV2ZWxvcGVyIHJvYWRtYXAgYW5kIHdlZWtseSB0ZWNoIGluZHVzdHJ5IG5ld3MgaW4gbXkgW25ld3NsZXR0ZXJdKGh0dHBzOi8vcmVsYXRhYmxlY29kZS5zdWJzdGFjay5jb20vKS4=
+# Testing a React Application Integrating MSW with Vitest
+
+### Introduction
+
+The fifth part in my ongoing series on how to test a modern React application. This time I'll go over how to integrate MSW with [Vitest](https://vitest.dev/), our unit-test framework. Most applications have to fetch data from the backend server. In order to have full coverage, we should mock these requests. But, what is mocking?
+
+>Make a replica or imitation of something
+
+_Oxford Languages_
+
+The idea is to create an imitation of a request coming in from the backend. This comes with its own set of advantages. We can directly manipulate what we want the *response* to be to test for more scenarios. In the app we previously created we could test for fetching 0 posts, 100 posts, posts with no text, and so on and so forth.
+
+The app in question:
+
+![barebones react app](https://cdn.hashnode.com/res/hashnode/image/upload/v1650898960866/P8SFjttzr.gif)
+
+This is very powerful! We can test for common use cases or edge cases that the user may run into. And at the end of the day, the most important thing is confidence in our tests.
+
+### What is MSW?
+
+[MSW](https://mswjs.io/) is a mocking library that is extremely simple to use.
+
+>Mock by intercepting requests on the network level. Seamlessly reuse the same mock definition for testing, development, and debugging.
+
+_ mswjs.io_
+
+Normally, this would be the expected interaction:
+
+![Normal request fetching](https://cdn.hashnode.com/res/hashnode/image/upload/v1651579048789/_Bly2AQ8l.png)
+
+But, with the added addition of MSW, we will add a new step.
+
+![Fetching with MSW](https://cdn.hashnode.com/res/hashnode/image/upload/v1651579243684/1hWQ6vwXM.png)
+
+Awesome! 😎 Let's get this set up with our application. For reference[here is the project](https://github.com/diballesteros/react-testing) we've been using up to this point.
+
+### Configuration files for MSW
+
+First, let's install our new library:
+
+```sh
+npm install msw --save-dev
+
+yarn add msw --dev
+```
+
+In our `src` directory let's create a `mocks` older where we'll keep the handlers for the requests. The MSW team refers to this as *mock definitions*. Inside the `mocks` folder create a `handlers.js`.
+
+Here we can export our handler functions. Since we're doing normal REST requests, let's import `rest` from MSW.
+
+```js
+import { rest } from 'msw';
+```
+In order for MSW to recognize the request, we must provide the exact *method* and *path* and export it from an array.
+
+```js
+export const handlers = [
+rest.get('https://jsonplaceholder.typicode.com/posts', null),
+]
+```
+
+Here we can replace `null` with what we actually want MSW to return to us. This is a function known as a *response resolver*. Returning the following:
+
+- `req`, information about a matching request;
+
+- `res`, a functional utility to create the mocked response;
+
+- `ctx`, a group of functions that help to set a status code, headers, body, etc. of the mocked response.
+
+Let's return our own custom response for these posts.
+
+```js
+import { rest } from 'msw';
+
+export const handlers = [
+    rest.get('https://jsonplaceholder.typicode.com/posts', (req, res, ctx) => {
+    
+    return res(
+      ctx.status(200),
+      ctx.json([{
+         body: "This is a body",
+         id: 1,
+         title: "Title",
+         userId: 1,
+      }]),
+    )
+}),
+]
+```
+
+Sweet, now we have our handler set up for MSW 🚀.
+
+### Configuration files for Vitest
+
+MSW sets up a server for us to intercept the requests. But we have to create an instance of the server. Create a `server.js` file in our `mocks` folder:
+
+```js
+import { setupServer } from 'msw/node';
+import { handlers } from './handlers';
+
+// Here we import the handler created!
+export const server = setupServer(...handlers);
+```
+
+In our `vite.config.js` lets add an entry for our setup files in the `test` object:
+
+```js
+setupFiles: ['./src/setup.js'],
+```
+
+Let's create this `setup.js` file in our `src` directory. This is to correctly reset the server with every test execution:
+
+```js
+import { server } from './mocks/server'
+
+beforeAll(() => server.listen({ onUnhandledRequest: 'error' }))
+afterAll(() => server.close())
+afterEach(() => server.resetHandlers())
+```
+Now we're all set up and ready to test! Let's implement this in our **Vitest ** test.
+
+### Mocking our API request in Vitest
+
+Let's revamp our test file:
+
+```js
+import React from 'react';
+import {
+	render,
+	screen,
+	waitForElementToBeRemoved,
+} from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
+import App from './App';
+
+describe('Testing our React application', () => {
+	it('Fetch posts', async () => {
+		render(<App />);
+
+		expect(screen.getByText(/Modern React Testing/i)).toBeDefined();
+
+		userEvent.click(screen.getByRole('button', { name: 'Fetch Posts' }));
+
+		await waitForElementToBeRemoved(() =>
+			screen.queryByLabelText('loading')
+		);
+
+		expect(screen.getByRole('heading', { level: 3 })).toBeDefined();
+	});
+});
+```
+
+We removed the library for `@testing-library/jest-dom` as it is no longer necessary. But, now our test should be passing with green!
+
+![passing tests](https://cdn.hashnode.com/res/hashnode/image/upload/v1651629090063/KglzuC7bt.png)
+
+Also, since our test is running in a node environment we need to polyfill our fetch function in the original `App.jsx`
+
+```bash
+npm install cross-fetch
+```
+
+Just import it at the very top:
+
+```js
+import fetch from 'cross-fetch';
+```
+
+### Sidenote
+
+If you had been following along my other articles you may have noticed I changed the version of a dependency: `@testing-library/user-event`. I was having an issue firing off the button click.
+
+I downgraded it to 13.5.0 and called the click event directly from `userEvent`.
+
+You can find the entire project in this [repository with the updated list of dependencies](https://github.com/diballesteros/react-testing).
+
+### Wrapping it up
+
+We now have a powerful tool at our disposal to mock requests as we continue to create unit tests! In the next article, we'll go over how to set up Cypress.io.
+
+More content at [Relatable Code](https://relatablecode.com)
+
+## Let's connect
+
+If you liked this feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/relatablecode) or [Twitter](https://twitter.com/relatablecoder)
+
+Check out my free developer roadmap and weekly tech industry news in my [newsletter](https://relatablecode.substack.com/).
