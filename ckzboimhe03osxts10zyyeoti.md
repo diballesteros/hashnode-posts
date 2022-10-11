@@ -1,1 +1,89 @@
-IyMgSG93IHRvIHVzZSB0aHJlZS5qcyBpbiBhIFJlYWN0IGFwcCB0byByZW5kZXIgYSAzRCBtb2RlbAoKIVtIb3cgdG8gdXNlIHRocmVlLmpzIGluIGEgUmVhY3QgYXBwIHRvIHJlbmRlciBhIDNEIG1vZGVsXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NDE3Njk1NzgwOS9aRzBTdU1ncjUuanBlZykKX1Bob3RvIGJ5IE1laG1ldCBUdXJndXQgS2lya2dveiBvbiBVbnNwbGFzaF8KCldoaWxlIHNjb3VyaW5nIFlvdVR1YmUgSSBjYW1lIGFjcm9zcyB0aGUgZm9sbG93aW5nIFt2aWRlb10oaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1iU01aZ1h6QzlBQSkgdGhhdCBpcyBhIGZhaXJseSBjb25jaXNlIHR1dG9yaWFsIG9uIGhvdyB0byBidWlsZCBhIG5lYXQtbG9va2luZyBwb3J0Zm9saW8gcGFnZS4gQnV0IG9uZSB0ZWNobm9sb2d5IHRoYXQgd2FzIHVzZWQgd2FzIHRocmVlLmpzIHRvIHJlbmRlciBhIGNvb2wtbG9va2luZyAzRCBNb2RlbCB3aXRoIGNhbWVyYSBjb250cm9scyEKCkkgd2FudGVkIHRvIGxlYXJuIGhvdyB0aGUgdGVjaG5vbG9neSB3b3JrZWQgYW5kIHF1aWNrbHkgY3JlYXRlIGEgc3RhbmRhbG9uZSBzYW5kYm94IHdpdGggdGhlIHNhbWUgdGVjaCBzdGFjay4gSeKAmWxsIGJlIGV4cGxhaW5pbmcgdGhlIHByb2Nlc3Mgb2YgY29kaW5nIGl0IG91dCBhbmQgaG93IGl0IHdvcmtzIQoKIyMjIFNldCB1cAoKYGBgCm5wbSBpIHRocmVlCmBgYAoKRmlyc3QsIGxldOKAmXMgZ28gYWhlYWQgYW5kIGluc3RhbGwgdGhlIG5lY2Vzc2FyeSBwYWNrYWdlOgoKQW5kIGxldOKAmXMgaW1wb3J0IGl0IGluIHRoZSBmaWxlIHdoZXJlIHdlIHdhbnQgdG8gdXNlIGl0OgoKYGBgCmltcG9ydCAqIFRocmVlIGZyb20gInRocmVlIjsgCmltcG9ydCB7IEdMVEZMb2FkZXIgfSBmcm9tICJ0aHJlZS9leGFtcGxlcy9qc20vbG9hZGVycy9HTFRGTG9hZGVyIjsKYGBgCgojIyMgTG9hZGVyIGZ1bmN0aW9uCgpUaGUgdGhyZWUuanMgbGlicmFyeSBoYXMgYSBsb2FkZXIgZm9yIGdsVEYgMi4wIHJlc291cmNlcyAoR0wgVHJhbnNtaXNzaW9uIEZvcm1hdCkuIFRoaXMgaXMgdGhlIG1haW4gZnVuY3Rpb24gd2XigJlsbCBiZSB1c2luZyB0byBsb2FkIG91ciBtb2RlbCBpbnRvIG91ciBhcHAhIFRoaXMgc2hvdWxkIGJlIHdyYXBwZWQgd2l0aCBhIHByb21pc2UgYXMgaXTigJlzIGFuIGFzeW5jaHJvbm91cyBwcm9jZXNzLiBMZXTigJlzIHNwbGl0IHRoaXMgdXA6CgohW10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDQxNzY5NTkzODAvdE54VnBlQ0UwLnBuZykKClRoaXMgZnVuY3Rpb24gYWNjZXB0cyBhIHNjZW5lIGlzIGhvdyB3ZSBzZXQgcCB3aGF0IGFuZCB3aGVyZSBvdXIgbW9kZWwgaXMgZ29pbmcgdG8gYmUgcmVuZGVyZWQuIFdpdGggdGhpcywgd2UgY2FuIGRlY2lkZSBob3cgdG8gcGxhY2UgaW5uZXIgb2JqZWN0cywgY2FtZXJhIGNvbnRyb2xzLCBhbmQgZGlmZmVyZW50IGxpZ2h0aW5nIGVmZmVjdHMuIFRoZSBzZWNvbmRhcnkgcGFyYW1ldGVyIGlzIGdsYlBhdGgsIHdoaWNoIGlzIHRoZSByZXNvdXJjZSBvZiBvdXIgbW9kZWwsIG1vcmUgb24gdGhhdCBsYXRlciwgYW5kIGZpbmFsbHkgYW55IHNlY29uZGFyeSBvcHRpb25zLgoKV2UgY3JlYXRlIGEgbmV3IGluc3RhbmNlIG9mIHRoZSBHTFRGTG9hZGVyIGFuZCBzZXQgYWxsIG91ciBsb2FkIGNvbnN0YW50cyB3aXRoIHRoZSBpbnRlcm5hbCBsb2FkIGZ1bmN0aW9uLiBUcmF2ZXJzZSBpbiB0aGlzIGNhc2UgaXMgYSBjYWxsYmFjayBmdW5jdGlvbiB0byBtYWludGFpbiB0aGUgdmFsdWVzIG9mIGNhc3RTaGFkb3cgYW5kIHJlY2VpdmVTaGFkb3cuCgojIyMgVGhlIFJlYWN0IENvbXBvbmVudAoKTmV4dCwgbGV04oCZcyBjcmVhdGUgdGhlIGNvbXBvbmVudCwgdGhpcyBqdXN0IHJlcXVpcmVzIGEgcmVmIGxpbmtlZCB0byB0aGUgdXNlUmVmIGhvb2s6CgohW10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDQxNzY5NjA4MTAvcGxhZUlGNnNSLnBuZykKCkxldOKAmXMgZ2V0IHNvbWUgb2YgdGhlIGJhc2ljIHN0YXRlIG1hbmFnZW1lbnQgb3V0IG9mIHRoZSB3YXkuIFdlIG5lZWQgdG8gYnVpbGQgYSByZW5kZXJlciBpbiByZWFsLXRpbWUgaW4gdGhlIGFwcCBzbyB3ZeKAmWxsIGJlIHVzaW5nIHRoZSB1c2VTdGF0ZSBob29rLiBBcyB0aGlzIGlzIHJlYWwtdGltZSB3ZSB3aWxsIGFsc28gYmUgdXNpbmcgYSB1c2VFZmZlY3QgaG9vayB0byBidWlsZCBpdCBhZnRlciB0aGUgaW5pdGlhbCBtb3VudDoKCiFbXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NDE3Njk2MjUxNS8tc2RnRk9kZHkucG5nKQoKV2UgaGF2ZSB0byBtYWtlIHN1cmUgdGhlIHJlbmRlcmVyIGRvZXNu4oCZdCBhbHJlYWR5IGV4aXN0IGFzIHdlbGwgYXMgY2hlY2sgaWYgdGhlIGNvbXBvbmVudCBpcyBtb3VudGVkIGNvcnJlY3RseSB3aXRoIHRoZSByZWYuIE5vdyB3ZSBjYW4gZ2V0IGludG8gdGhlIG5pdHR5LWdyaXR0eSBkZXRhaWxzIG9mIGJ1aWxkaW5nIG91dCB0aGUgcmVuZGVyZXIuCgojIyMgUmVuZGVyZXIKClRoZXJlIHJlbmRlciB3ZeKAmWxsIHVzZSBpcyB0aGUgW1dlYkdMUmVuZGVyZXJdKGh0dHBzOi8vdGhyZWVqcy5vcmcvZG9jcy8jYXBpL2VuL3JlbmRlcmVycy9XZWJHTFJlbmRlcmVyKS4gTGV04oCZcyBjcmVhdGUgdGhpcyBhbmQgc2V0IHVwIHRoZSBkZWZhdWx0cyAoYWxsIGluc2lkZSB0aGUgdXNlRWZmZWN0IGludGVybmFsIGlmKToKCiFbXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY0NDE3Njk2Mzk0OS9HajRWQzA4X0QucG5nKQoKTm90aGluZyB0b28gY3JhenkgdG8gbWVudGlvbiBoZXJlIEkgc3VnZ2VzdCBjaGVja2luZyBvdXQgdGhlIGRvY3MgZm9yIG1vcmUgaW4tZGVwdGggaW5mb3JtYXRpb24gb24gZXZlcnkgcHJvcGVydHkgdGhhdCBoYXMgYmVlbiBzZXQuCgojIyMgVGhlIGNvbnRyb2xzIGFuZCBzY2VuZQoKVGhlc2UgYXJlIHByZXR0eSBzdHJhaWdodC1mb3J3YXJkIGFuZCBkb27igJl0IHJlcXVpcmUgY3JhenkgY29uZmlndXJhdGlvbnM6CgohW10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDQxNzY5NjU5MTEvQWpJTzhfWHVGLnBuZykKCkFkZGVkIHNvbWUgYXJiaXRyYXJ5IHNjYWxpbmcgYW5kIGNhbWVyYSBwb3NpdGlvbmluZy4gWW91IGNhbiBwbGF5IGFyb3VuZCB3aXRoIHRoaXMgaWYgeW914oCZZCBsaWtlISBBbmQgc29tZSBsaWdodGluZyB0byBzZWUgdGhlIG1vZGVsIGl0c2VsZi4KCkZpbmFsbHksIHdlIGNhbiBnbyBhaGVhZCBhbmQgYW5pbWF0ZSB0aGUgbW9kZWwgYW5kIG1ha2Ugc3VyZSBpdCB3b3JrcyBjb3JyZWN0bHkgd2l0aCB0aGUgY29udHJvbHMhCgohW10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDQxNzY5Njc4NDMvQmZ3M1lDb0tPLnBuZykKClNvbWUgbWF0aCB0byBoZWxwIHdpdGggdGhlIHJvdGF0aW9ucyBhcyB3ZWxsIGFzIHVwZGF0aW5nIHRoZSBjb250cm9scyB3aGVuIG5lY2Vzc2FyeS4gV2UgY2FsbCB0aGUgcmVuZGVyZXLigJlzIHJlbmRlciBmdW5jdGlvbiB3aXRoIGFsbCBvZiBvdXIgcHJvcGVydGllcy4KClRoZSBmaW5hbCBzdGVwIGZvciB0aGUgcmVuZGVyaW5nIHBvcnRpb24gaXMgY2FsbGluZyB0aGUgZnVuY3Rpb24gd2UgbWFkZSBhdCB0aGUgdmVyeSBiZWdpbm5pbmchCgohW10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NDQxNzY5Njk3MzgvYkxTVE9KTzB1LnBuZykKCllvdSBoYXZlIG1heSBoYXZlIG5vdGljZWQgYSBzZXRMb2FkaW5nIHN0YXRlLiBBcyBvdXIgbG9hZCBmdW5jdGlvbiBpcyBhc3luY2hyb25vdXMgd2UgbmVlZCB0byB0YWtlIGludG8gY29uc2lkZXJhdGlvbiB0aGUgZGVsYXkgZm9yIG91ciBtb2RlbCBpcyByZW5kZXJlZC4gVGhlIG9ubHkgb3RoZXIgbm90ZXdvcnRoeSBtZW50aW9uIGlzIGNhbGxpbmcgdGhlIGFuaW1hdGUgZnVuY3Rpb24gYWZ0ZXIgY29ycmVjdGx5IGxvYWRpbmcgdGhlIG1vZGVsLgoKIyMjIFNpZGUgTm90ZQoKSSBvYnRhaW5lZCB0aGUgbW9kZWwgZnJlZWx5IGZyb20gdGhlIGZvbGxvd2luZyBzaXRlOgoK4oCcRGlub3NhdXLigJ0gKCBbaHR0cHM6Ly9za2ZiLmx5LzZaQlhBXShodHRwczovL3NrZmIubHkvNlpCWEEpKSBieSBqZWlsb2NyZWF0aXZlZGVzaWdud29ybGQgaXMgbGljZW5zZWQgdW5kZXIgQ3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbiAoIFtodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvXShodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvKSkuCgojIyMgQ29uY2x1c2lvbgoKQW5kIHRoYXTigJlzIGl0ISBIZXJlIGlzIHRoZSBmdWxsIGNvZGUgYW5kIGZpbmFsIHJlc3VsdCB3aXRoIGV2ZXJ5dGhpbmcgYWxsIGhvb2tlZCB1cC4gQW55IG1vZGVsIGNhbiBiZSB1c2VkLiBJIGVuY291cmFnZSBvdGhlcnMgdG8gZXhwZXJpbWVudCB3aXRoIGl0IGFuZCBwbGF5IGFyb3VuZCB3aXRoIHRoZSB2YWx1ZXMhCgpbaHR0cHM6Ly9jb2Rlc2FuZGJveC5pby9lbWJlZC9yZWFjdC10aHJlZS1yZW5kZXIzZC1xb2JxeT9mb250c2l6ZT0xNCZoaWRlbmF2aWdhdGlvbj0xJnRoZW1lPWRhcmtdKGh0dHBzOi8vY29kZXNhbmRib3guaW8vZW1iZWQvcmVhY3QtdGhyZWUtcmVuZGVyM2QtcW9icXk/Zm9udHNpemU9MTQmaGlkZW5hdmlnYXRpb249MSZ0aGVtZT1kYXJrKQoKTW9yZSBjb250ZW50IGF0IFtSZWxhdGFibGUgQ29kZV0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbSkKCl9PcmlnaW5hbGx5IHB1Ymxpc2hlZCBhdF8gW19odHRwczovL3JlbGF0YWJsZWNvZGUuY29tX10oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9ob3ctdG8tdXNlLXRocmVlLWpzLWluLWEtcmVhY3QtYXBwLXRvLXJlbmRlci1hLTNkLW1vZGVsLykgX29uIEZlYnJ1YXJ5IDYsIDIwMjIuXw==
+# How to use three.js in a React app to render a 3D model
+
+![How to use three.js in a React app to render a 3D model](https://cdn.hashnode.com/res/hashnode/image/upload/v1644176957809/ZG0SuMgr5.jpeg)
+_Photo by Mehmet Turgut Kirkgoz on Unsplash_
+
+While scouring YouTube I came across the following [video](https://www.youtube.com/watch?v=bSMZgXzC9AA) that is a fairly concise tutorial on how to build a neat-looking portfolio page. But one technology that was used was three.js to render a cool-looking 3D Model with camera controls!
+
+I wanted to learn how the technology worked and quickly create a standalone sandbox with the same tech stack. I’ll be explaining the process of coding it out and how it works!
+
+### Set up
+
+```
+npm i three
+```
+
+First, let’s go ahead and install the necessary package:
+
+And let’s import it in the file where we want to use it:
+
+```
+import * Three from "three"; 
+import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
+```
+
+### Loader function
+
+The three.js library has a loader for glTF 2.0 resources (GL Transmission Format). This is the main function we’ll be using to load our model into our app! This should be wrapped with a promise as it’s an asynchronous process. Let’s split this up:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1644176959380/tNxVpeCE0.png)
+
+This function accepts a scene is how we set p what and where our model is going to be rendered. With this, we can decide how to place inner objects, camera controls, and different lighting effects. The secondary parameter is glbPath, which is the resource of our model, more on that later, and finally any secondary options.
+
+We create a new instance of the GLTFLoader and set all our load constants with the internal load function. Traverse in this case is a callback function to maintain the values of castShadow and receiveShadow.
+
+### The React Component
+
+Next, let’s create the component, this just requires a ref linked to the useRef hook:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1644176960810/plaeIF6sR.png)
+
+Let’s get some of the basic state management out of the way. We need to build a renderer in real-time in the app so we’ll be using the useState hook. As this is real-time we will also be using a useEffect hook to build it after the initial mount:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1644176962515/-sdgFOddy.png)
+
+We have to make sure the renderer doesn’t already exist as well as check if the component is mounted correctly with the ref. Now we can get into the nitty-gritty details of building out the renderer.
+
+### Renderer
+
+There render we’ll use is the [WebGLRenderer](https://threejs.org/docs/#api/en/renderers/WebGLRenderer). Let’s create this and set up the defaults (all inside the useEffect internal if):
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1644176963949/Gj4VC08_D.png)
+
+Nothing too crazy to mention here I suggest checking out the docs for more in-depth information on every property that has been set.
+
+### The controls and scene
+
+These are pretty straight-forward and don’t require crazy configurations:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1644176965911/AjIO8_XuF.png)
+
+Added some arbitrary scaling and camera positioning. You can play around with this if you’d like! And some lighting to see the model itself.
+
+Finally, we can go ahead and animate the model and make sure it works correctly with the controls!
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1644176967843/Bfw3YCoKO.png)
+
+Some math to help with the rotations as well as updating the controls when necessary. We call the renderer’s render function with all of our properties.
+
+The final step for the rendering portion is calling the function we made at the very beginning!
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1644176969738/bLSTOJO0u.png)
+
+You have may have noticed a setLoading state. As our load function is asynchronous we need to take into consideration the delay for our model is rendered. The only other noteworthy mention is calling the animate function after correctly loading the model.
+
+### Side Note
+
+I obtained the model freely from the following site:
+
+“Dinosaur” ( [https://skfb.ly/6ZBXA](https://skfb.ly/6ZBXA)) by jeilocreativedesignworld is licensed under Creative Commons Attribution ( [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)).
+
+### Conclusion
+
+And that’s it! Here is the full code and final result with everything all hooked up. Any model can be used. I encourage others to experiment with it and play around with the values!
+
+[https://codesandbox.io/embed/react-three-render3d-qobqy?fontsize=14&hidenavigation=1&theme=dark](https://codesandbox.io/embed/react-three-render3d-qobqy?fontsize=14&hidenavigation=1&theme=dark)
+
+More content at [Relatable Code](https://relatablecode.com)
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/how-to-use-three-js-in-a-react-app-to-render-a-3d-model/) _on February 6, 2022._
