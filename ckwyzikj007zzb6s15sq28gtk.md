@@ -1,1 +1,50 @@
-IyMgUXVpY2sgVFMgVGlwczogSG93IHRvIGV4dHJhY3QgYSB0eXBlIGZyb20gYW4gYXJyYXkKCgohW2V4dHJhY3QgYSB0eXBlIGZyb20gYW4gYXJyYXldKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjUxMTAzNTQxMTA4L2lodE9YbmpHNS5wbmcpCgpSZWNlbnRseSBJIGhhZCB0byB3b3JrIHdpdGggc29tZSBhdXRvbWF0aWNhbGx5IGdlbmVyYXRlZCB0eXBlcyB3aGlsc3QgdXNpbmcgR3JhcGhRTC4gVGhpcyBpcyBhIHZlcnkgZXh0cmVtZWx5IHVzZWZ1bCBmZWF0dXJlISBIb3dldmVyLCBpdCBjYW4gYmUgYSBsaXR0bGUgY3VtYmVyc29tZSB0byBzcGVjaWZpY2FsbHkgcmVhY2ggZGlmZmVyZW50IGN1c3RvbSBfbmVzdGVkXyB0eXBlcyBmcm9tIHRoZSByZXF1ZXN0cyB3aXRob3V0IGl0IGJlaW5nIHRvb8KgdmVyYm9zZS4KCkJ1dCwgYmVpbmcgYSBsaXR0bGUgY3JlYXRpdmUgd2l0aCBzb21lIG5hdGl2ZSBUeXBlc2NyaXB0IGZ1bmN0aW9ucyB3ZSBjYW4gZmluZCBhIHdheSB0byBoYW5kbGUgdGhpcyBleGFjdCB1c2XCoGNhc2UhCgojIyMgVGhlIGV4YW1wbGUKCiFbR2VuZXJhdGVkIFR5cGVdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjM4NDY4NzIxMDQ3L210MHlBcWVxQy5wbmcpCgpMZXTigJlzIHRha2UgZm9yIGV4YW1wbGUgdGhpcyBnZW5lcmF0ZWQgdHlwZSAodGhpcyB3aWxsIGJlIGEgZmFpcmx5IHNpbXBsZSB0eXBlIHdpdGggYSBuZXN0ZWQgc3VidHlwZSk6CgpJZiB3ZSB3YW50ZWQgdG8gZXh0cmFjdCB0aGUgdHlwZSBvZiB0aGUgYXJyYXkgd2l0aG91dCBpdCBnZXR0aW5nIHRvbyB2ZXJib3NlIHdlIGNvdWxkIHVzZSBzb21lIGNvbmRpdGlvbmFsIHR5cGluZyBmcm9tIFR5cGVzY3JpcHQuCgojIyMgRXh0cmFjdGlvbiBUeXBlCgohW0V4dHJhY3Rpb24gVHlwZV0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2Mzg0Njg3MjMyMDYvU1JGY3JzejE0LnBuZykKClRoZSBmb2xsb3dpbmcgdHlwZSBhbGxvd3MgdXMgdG8gZXh0cmFjdMKgaXQ6CgpJdCBjYW4gYmUgYSBsaXR0bGUgY29uZnVzaW5nIGF0IGZpcnN0IGdsYW5jZSBidXQgbGV04oCZcyBicmVhayBkb3duIGV2ZXJ5IHBvcnRpb24uIEZpcnN0LCB3ZSBoYXZlIG91ciBBcnJheUVsZW1lbnQgd2hpY2ggaXMgYSBbZ2VuZXJpY10oaHR0cHM6Ly93d3cudHlwZXNjcmlwdGxhbmcub3JnL2RvY3MvaGFuZGJvb2svMi9nZW5lcmljcy5odG1sKSByZWNlaXZpbmcgdGhlIGFycmF5IGl0c2VsZiBhc8KgVC4KCkhlcmUgdGhlIGluZmVyIGtleXdvcmQgZnJvbSB0eXBlc2NyaXB0ICh3aGljaCBtdXN0IGJlIHVzZWQgd2l0aCBleHRlbmRzKSB0byBkZWNsYXJhdGl2ZWx5IGludHJvZHVjZSBhIG5ldyBnZW5lcmljIHR5cGUgVSBiYXNlZCBvbiB0aGUgZ2l2ZW7CoGFycmF5LgoKTm93IGxldOKAmXMgYXNzdW1lIHRoYXQgdGhlIFRTdHVmZiB0eXBlIGlzIGFuIGFycmF5IGFuZCB3ZSB3YW50IHRvIGV4dHJhY3QgYSBzaW5ndWxhciBUU3R1ZmYuIFdlIGNvdWxkIHRoZW4gc3VwcGx5IHRoZSB0eXBlIG9mIFRTdHVmZlxbXF0gdG8gQXJyYXlFbGVtZW50PFQ+Cgp0eXBlIFROZXN0ZWRTdHVmZiA9IEFycmF5RWxlbWVudDxUU3R1ZmZcW1xdPjsKCiMjIyBUaGUgcmVzdWx0CgpMb29raW5nIGF0IHRoZSByZXN1bHQgb2YgdGhlIGV4dHJhY3RlZCB0eXBlIHdlIGNhbiBub3cgdXNlIGl0IGhvd2V2ZXIgd2Ugd2lzaCBvciBldmVuIGFzc2lnbiBpdCBhcyBpdHMgb3duIHR5cGUgdG8gbWFrZSBpdCBsZXNzwqB2ZXJib3NlIQoKIVtSZXN1bHQgRXh0cmFjdGVkIFR5cGVdKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjM4NDY4NzI0NjU4L1ZoS1dHUl9pZS5wbmcpCgpIZXJlIGlzIHRoZSBjb2RlIHNhbmRib3ggdG8gcGxheSBhcm91bmQgd2l0aCB0aGUgdHlwZSBhbmQgdGhlIFR5cGVzY3JpcHQgZG9jdW1lbnRhdGlvbsKgOgoKW0RvY3VtZW50YXRpb24gLSBDb25kaXRpb25hbCBUeXBlc10oaHR0cHM6Ly93d3cudHlwZXNjcmlwdGxhbmcub3JnL2RvY3MvaGFuZGJvb2svMi9jb25kaXRpb25hbC10eXBlcy5odG1sI2luZmVycmluZy13aXRoaW4tY29uZGl0aW9uYWwtdHlwZXMpCgpbaHR0cHM6Ly9jb2Rlc2FuZGJveC5pby9zL2FycmF5LXR5cGUtZXh0cmFjdGlvbi0xZW9oaF0oaHR0cHM6Ly9jb2Rlc2FuZGJveC5pby9zL2FycmF5LXR5cGUtZXh0cmFjdGlvbi0xZW9oaCkKCklmIHlvdSBoYXZlIGFueSBvdGhlciB3YXkgdG8gZXh0cmFjdCBhIHR5cGUgZnJvbSBhbiBhcnJheSBsZXQgbWUga25vdyBpbiB0aGUgY29tbWVudHPCoGJlbG93IQoKTW9yZSBjb250ZW50IGF0IFtSZWxhdGFibGUgQ29kZV0oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbSkKCl9PcmlnaW5hbGx5IHB1Ymxpc2hlZCBhdF8gW19odHRwczovL3JlbGF0YWJsZWNvZGUuY29tX10oaHR0cHM6Ly9yZWxhdGFibGVjb2RlLmNvbS9xdWljay10cy10aXBzLWV4dHJhY3RpbmctYS10eXBlLWZyb20tYW4tYXJyYXkvKSBfb24gTm92ZW1iZXIgMjEswqAyMDIxLl8KCiFbXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYzODQ2ODcyNjEzMi9FaDNzR0ZYb1UuZ2lmKQ==
+# Quick TS Tips: How to extract a type from an array
+
+
+![extract a type from an array](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103541108/ihtOXnjG5.png)
+
+Recently I had to work with some automatically generated types whilst using GraphQL. This is a very extremely useful feature! However, it can be a little cumbersome to specifically reach different custom _nested_ types from the requests without it being too verbose.
+
+But, being a little creative with some native Typescript functions we can find a way to handle this exact use case!
+
+### The example
+
+![Generated Type](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468721047/mt0yAqeqC.png)
+
+Let’s take for example this generated type (this will be a fairly simple type with a nested subtype):
+
+If we wanted to extract the type of the array without it getting too verbose we could use some conditional typing from Typescript.
+
+### Extraction Type
+
+![Extraction Type](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468723206/SRFcrsz14.png)
+
+The following type allows us to extract it:
+
+It can be a little confusing at first glance but let’s break down every portion. First, we have our ArrayElement which is a [generic](https://www.typescriptlang.org/docs/handbook/2/generics.html) receiving the array itself as T.
+
+Here the infer keyword from typescript (which must be used with extends) to declaratively introduce a new generic type U based on the given array.
+
+Now let’s assume that the TStuff type is an array and we want to extract a singular TStuff. We could then supply the type of TStuff\[\] to ArrayElement<T>
+
+type TNestedStuff = ArrayElement<TStuff\[\]>;
+
+### The result
+
+Looking at the result of the extracted type we can now use it however we wish or even assign it as its own type to make it less verbose!
+
+![Result Extracted Type](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468724658/VhKWGR_ie.png)
+
+Here is the code sandbox to play around with the type and the Typescript documentation :
+
+[Documentation - Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#inferring-within-conditional-types)
+
+[https://codesandbox.io/s/array-type-extraction-1eohh](https://codesandbox.io/s/array-type-extraction-1eohh)
+
+If you have any other way to extract a type from an array let me know in the comments below!
+
+More content at [Relatable Code](https://relatablecode.com)
+
+_Originally published at_ [_https://relatablecode.com_](https://relatablecode.com/quick-ts-tips-extracting-a-type-from-an-array/) _on November 21, 2021._
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1638468726132/Eh3sGFXoU.gif)
